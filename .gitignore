@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+tim-hwang/
+
+# Derived analysis artifacts
+joshua-martin/scripts/entries.csv
