@@ -3882,3 +3882,8 @@ Big flavor volume, perfumy peach quality, but flavors slightly unfocused or dull
 ## La Isabela, Z, 5.7 @ 211ºF, 12.5g/250g Day 21, Score: 3
 
 Moderate to big flavor volume and expansiveness, leads with the perfumy grape qualities, but watery and doesn't deliver with focused tasting notes. Hollow in a sense — there's dynamics in the surroundings and aromatics of the cup, but little substance or development in the actual flavor.
+
+## Pena, Z, 5.675 @ 211ºF, 12.5g/250g Day 21, Score: 3
+
+More of the cocoa or eucalyptus note initially, more obvious English breakfast tea vibes. Very heavy. Darker, spicier. Some mouth rubbing. No real acidity, while overall flavors are luxurious and hearty, but cocoa is heavy in an almost off taste sort of way. Luxurious but rubbing persists.
+Tricky, the luxury of this coffee comes out a bit more at this setting, but so does the cocoa/eucalyptus in a way that is a little stinky. Overall, enjoyable, but not the best this can be. **5.725 or higher**

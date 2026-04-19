@@ -211,7 +211,7 @@ The tiebreaker between the two: **mouthfeel**. Coarser edge = loose and diffuse.
 - "Hollow" — aromatics and dynamics present in the surroundings of the cup, but no substance or development in the actual flavor. Strongly underextracted signal when it appears.
 - Far-off flavors, "searching" for tasting notes
 - Flavors present but not "focused in"
-- "Unfocused", "dulled", "missing edge / definition", "nothing shining" — flavors present but no axis crests. Not to be confused with overextracted "dull", which carries mouth discomfort; underextracted "dulled" has clean mouthfeel.
+- "Unfocused", "dulled", "missing edge / definition", "nothing shining" — **ambiguous**; can appear on either side. If accompanied by "acidity not genuine / cocoa off / balanced but flat" or any mouthfeel rubbing, suspect mild over. Confirm with a tiebreaker brew before committing.
 - Can also show tight astringency (overlaps with overextraction — context matters, see § Astringency)
 - "Salty" or "saline" quality (a reliable under signal per [Perger](https://www.baristahustle.com))
 - On low-mineral water (RO), underextraction can be more pronounced — the water lacks the ionic "grip" to extract flavor compounds, so even a correct grind setting may read as underextracted. Finer grind compensates, but the cup character may differ from mineralized water.
@@ -247,14 +247,16 @@ These are the highest-leverage heuristics, surfacing counter-intuitively in most
 2. **"Acidic but missing florals" is overextracted, not underextracted.** The florals are the first casualty of crossing the line.
 3. **Any roughness, tightness, dryness, or scratchiness in mouth is likely overextraction.** This is the #1 source of misdiagnosis — the reflex to call it "under" and grind finer is the spiral's front door.
 
-### Multi-coffee overshoot: a drift-stall detector
+### Multi-coffee ambiguity: probe before committing to a direction
 
-When **two or more unrelated coffees** on the same day all lose a point at the same incremental step, with matching underextraction vocabulary ("unfocused", "dulled", "hollow", "watery", "nothing shining", "missing edge/definition") and clean mouthfeel across the board, the diagnosis is almost certainly **stalled drift**, not a per-coffee issue:
+When **two or more unrelated coffees** on the same day all lose a point at the same incremental step with overlapping "off-peak but not clearly wrong" vocabulary ("unfocused", "dulled", "missing edge / definition", "nothing shining", "watery", "hollow"), it's tempting to read this as a systemic signal — e.g., stalled drift pushing every coffee past its coarse edge at once. **Resist the urge to commit to a direction from vocabulary alone.**
 
-- A single coffee going off-peak is ambiguous — it could be the coffee, the water, the brew, or drift.
-- Two unrelated coffees breaking together at the same step narrows it to a **systemic cause** — most commonly, the coffees' daily drift rate slowed below the grind-setting cadence, so the setting walked past each coffee's coarse edge.
-- Three coffees breaking together with one of them flat-out "watery/hollow" removes remaining ambiguity.
+The trap: coffees at the same setting can sit on opposite sides of their own sweet spots, and the same off-peak language ("dulled", "missing edge", "nothing shining") can come from either mild under OR mild over. Homogeneous/introverted phrasing especially — "balanced but nothing shining", "acidity not genuine", "cocoa a little off" — reads like under but is frequently **mild over**. Only a few descriptors are reliably one-sided: "watery" (under), "hollow" (under), and anything with mouthfeel discomfort (over).
 
-Corrective action: **step each coffee back to its last Score-5 setting, individually** (the coarse edges are coffee-specific and will differ). Hold there without further coarsening steps until a clear too-fine signal appears (stiff, stale black tea, lemon-forward without sweetness, etc.) — that's the cue that drift has restarted.
+The reliable move is to **probe with a tiebreaker brew** on whichever coffee has the most ambiguous signal: brew it one step in either direction the same day and compare.
 
-Do not attribute this pattern to "bad water day" or "bad brew day" unless all three cups are _uniformly_ off in a non-extraction way (e.g., all bitter, all sour) — underextraction vocabulary across multiple coffees is too specific to be random brew variance.
+- If the probe cup **improves** → the earlier cup was past the coarse edge; step the others back toward their last Score-5 or hold.
+- If the probe cup **degrades with mouthfeel discomfort** (rubbing, rasp, heavy/stinky finish, "cocoa off") → the earlier cup was mild over; step **coarser** beyond the earlier setting.
+- If neither direction clears it → the coffees are on different sides of their individual windows, and each needs its own probe.
+
+One unambiguous tiebreaker cup is worth more than any amount of cross-coffee vocabulary pattern-matching.
