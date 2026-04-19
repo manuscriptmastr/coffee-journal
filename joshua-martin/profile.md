@@ -125,28 +125,28 @@ _\*Lasso Mejorado is roasted by Paix, a separate roaster._
 
 ## 8. Drift-Rate Table (Summary)
 
-| Roaster / Batch                  | Drift/Day    | Notes                                                                       |
-| -------------------------------- | ------------ | --------------------------------------------------------------------------- |
-| September (core washed)          | ~0.015       | Very consistent across coffees                                              |
-| September (creative/processed)   | ~0.027 avg   | Gingerbread, White Honey; decelerates from ~0.036 to ~0.020                 |
-| September (producer other)       | ~0.013       | Fajardo, Martinez, Rojas, Sudan Rume, Buttercream; slow, noisy              |
-| H&S batch 1                      | ~0.015       | Karani, Gatomboya, Iridescence; **accelerates to 0.035–0.050 past Day 50**  |
-| H&S batch 3                      | ~0.023       | Trujillo, Lasso, Ninco, Chelbessa; **accelerates to ~0.033+ past Day 58**   |
-| Hydrangea (most recent batch)    | ~0.008 → 0.030 | Pre-Day-15 CO2 phase very slow; **post-Day-15 locked at 0.0300/day**       |
-| Moonwake                         | ~0.025–0.029 | Serrato, Gomez, Ramirez, Benitez                                            |
-| SEY                              | ~0.020       | Muhito, Dota; narrow window, spiral-prone                                   |
+| Roaster / Batch                | Drift/Day      | Notes                                                                      |
+| ------------------------------ | -------------- | -------------------------------------------------------------------------- |
+| September (core washed)        | ~0.015         | Very consistent across coffees                                             |
+| September (creative/processed) | ~0.027 avg     | Gingerbread, White Honey; decelerates from ~0.036 to ~0.020                |
+| September (producer other)     | ~0.013         | Fajardo, Martinez, Rojas, Sudan Rume, Buttercream; slow, noisy             |
+| H&S batch 1                    | ~0.015         | Karani, Gatomboya, Iridescence; **accelerates to 0.035–0.050 past Day 50** |
+| H&S batch 3                    | ~0.023         | Trujillo, Lasso, Ninco, Chelbessa; **accelerates to ~0.033+ past Day 58**  |
+| Hydrangea (most recent batch)  | ~0.008 → 0.030 | Pre-Day-15 CO2 phase very slow; **post-Day-15 locked at 0.0300/day**       |
+| Moonwake                       | ~0.025–0.029   | Serrato, Gomez, Ramirez, Benitez                                           |
+| SEY                            | ~0.020         | Muhito, Dota; narrow window, spiral-prone                                  |
 
 ## 9. Correction Bias
 
 Holdout count of "should have been X" annotations across the journal (n = 452):
 
-| Score of brew | Coarser | Finer | Same | Mean Δ |
-|---|---|---|---|---|
-| 2 | 39 % | 57 % | 4 % | +0.005 |
-| 3 | 49 % | 49 % | 2 % | +0.011 |
-| 4 | **62 %** | 36 % | 2 % | +0.022 |
-| 5 | **100 %** (n=8) | 0 % | 0 % | +0.047 |
-| **All** | **52 %** | 46 % | 2 % | **+0.014** |
+| Score of brew | Coarser         | Finer | Same | Mean Δ     |
+| ------------- | --------------- | ----- | ---- | ---------- |
+| 2             | 39 %            | 57 %  | 4 %  | +0.005     |
+| 3             | 49 %            | 49 %  | 2 %  | +0.011     |
+| 4             | **62 %**        | 36 %  | 2 %  | +0.022     |
+| 5             | **100 %** (n=8) | 0 %   | 0 %  | +0.047     |
+| **All**       | **52 %**        | 46 %  | 2 %  | **+0.014** |
 
 ![Correction bias by score](assets/correction_bias_by_score.png)
 
@@ -170,11 +170,11 @@ A **one-click (0.025) miss is meaningful but not large** — it's inside the swe
 
 **After a Score 5, the setting almost never holds.** Across 42 cases where Joshua brewed the same coffee within 3 days of a Score 5:
 
-| Gap | n | Kept setting | Mean Δ |
-|---|---|---|---|
-| 1 day | 14 | 21 % | +0.025 |
-| 2 days | 20 | 10 % | +0.041 |
-| 3 days | 8 | 12 % | +0.050 |
+| Gap    | n   | Kept setting | Mean Δ |
+| ------ | --- | ------------ | ------ |
+| 1 day  | 14  | 21 %         | +0.025 |
+| 2 days | 20  | 10 %         | +0.041 |
+| 3 days | 8   | 12 %         | +0.050 |
 
 86 % went coarser, 0 % went finer. The realized per-day slope (~0.025) closely matches the documented per-roaster drift rates (§ 8). **Treat a Score 5 as a "today's setting" anchor, not a "this week's setting" anchor** — predict tomorrow at one click coarser by default.
 
@@ -187,6 +187,7 @@ A **one-click (0.025) miss is meaningful but not large** — it's inside the swe
 - **September producer-named coffees** (Fajardo, Martinez, Rojas, Sudan Rume): Subtle/vague flavor profiles → diagnosis accuracy ~50–55%. Most overextraction-spiral incidents came from this group. **Lean heavily on sibling data; distrust the direction call.**
 - **H&S batch 3 late-age acceleration** (Day 58–68): Drift accelerated past 0.033/day; conservative 0.025 increments fell behind, producing a 24-entry string of Score 3s before bracketing restored a Score 5. When consecutive Score 3s appear at older ages in this roaster, **jump 0.05–0.075** and bracket.
 - **RO water noise**: Several Score 3s on RO during H&S batch 3 Day 56–60 looked like an intercept shift but were brew variability. One Score 5 on the same RO at the same setting disproved the shift hypothesis. Don't over-correct for RO.
+- **Stalled drift → parallel overshoot** (Hydrangea batch, Day 20–21): Three coffees in lockstep (Paraiso, Pena, La Isabela) all lost a point at the same +0.025/day step after Days 19–20 peaks. Vocabulary was uniformly underextracted — "unfocused / dulled" (Paraiso), "nothing shining / not sugary" (Pena), "watery / hollow" (La Isabela, Score 3). Each coffee's coarse edge was different (Paraiso 5.625, Pena 5.6–5.65, La Isabela 5.675), but the single grind cadence overran all three simultaneously. **Signature**: two-or-more coffees same day, all dropping a point, all underextracted vocabulary, no mouthfeel discomfort on any. **Fix**: back each coffee to its own last Score-5 setting individually; hold until a too-fine signal returns. Don't chase it with more coarsening steps — that compounds the overshoot.
 
 ## 12. Diagnosis Accuracy (by Roaster)
 
@@ -209,6 +210,7 @@ Descriptors with strong directional signal in Joshua's journal beyond the univer
 - **Coarser edge of sweet spot (Score 5 leaning under)**: "big in mouth, not quite focused initially", "soft", "gentle", "mouthfilling but diffuse", "may be fully focused by next cup". Prototype: **Pena Day 19 @ 5.65** (most recent Hydrangea batch).
 - **Finer edge of sweet spot (Score 5 leaning over)**: "barely smaller flavor volume", "slight roughness, localized", "pleasant perfuminess, edges softening", "black tea forward". Prototype: **Paraiso Day 19 @ 5.625**.
 - **Overextraction spiral signature**: "small" + any mouth discomfort ("scratchy", "tight", "rubbing", "stiff"). Joshua's journal: going finer from this fails 67% of the time.
+- **Underextraction via overshoot (no discomfort)**: "unfocused", "dulled", "missing crisp/bright/sweet edge and definition", "nothing shining", **"hollow"**, "watery", "little substance or development in the flavor". Clean mouthfeel distinguishes this from the spiral signature. Prototype: **Paraiso / Pena / La Isabela Day 21 @ 5.7** (three-coffee parallel overshoot after drift stalled post-Day 19).
 
 (This section is a stub — planned to be populated more systematically by a `vocab_infer.py` script across all Score-3-then-corrected pairs.)
 
@@ -225,14 +227,14 @@ Walk-forward holdout on **729 same-coffee grind predictions** from the Z brewer 
 
 ![Predictor MAE](assets/predictor_mae.png)
 
-| Predictor | MAE | RMSE | ≤ 1 click | ≤ 2 clicks |
-|---|---|---|---|---|
-| `last_grind + drift` | **0.065** | 0.166 | **42 %** | **70 %** |
-| `sibling_plus_drift` | 0.065 | 0.144 | 43 % | 66 % |
-| `last_grind` (no drift) | 0.092 | 0.194 | 22 % | 56 % |
-| `bean_median5` | 0.158 | 0.235 | 6 % | 18 % |
-| `roaster_mean` | 0.228 | 0.306 | 8 % | 17 % |
-| `global_mean` | 0.237 | 0.319 | 10 % | 17 % |
+| Predictor               | MAE       | RMSE  | ≤ 1 click | ≤ 2 clicks |
+| ----------------------- | --------- | ----- | --------- | ---------- |
+| `last_grind + drift`    | **0.065** | 0.166 | **42 %**  | **70 %**   |
+| `sibling_plus_drift`    | 0.065     | 0.144 | 43 %      | 66 %       |
+| `last_grind` (no drift) | 0.092     | 0.194 | 22 %      | 56 %       |
+| `bean_median5`          | 0.158     | 0.235 | 6 %       | 18 %       |
+| `roaster_mean`          | 0.228     | 0.306 | 8 %       | 17 %       |
+| `global_mean`           | 0.237     | 0.319 | 10 %      | 17 %       |
 
 **Headline:** The simple drift heuristic from § 8 (last grind + per-roaster rate × days elapsed) **wins** at MAE ≈ 0.065 — that's about 1.3 clicks of error, well inside the ~2-click sweet-spot window. Adding drift over a no-drift baseline cuts MAE from 0.092 → 0.065 (29 % improvement) and doubles the within-1-click hit rate (22 % → 42 %). **Drift is real and worth modeling.**
 
@@ -240,21 +242,21 @@ Sibling-anchored prediction is statistically tied with last-coffee+drift on MAE 
 
 Realised drift slopes (Score ≥ 4 entries, OLS) vs documented:
 
-| Roaster | Documented | Realised | Verdict |
-|---|---|---|---|
-| Hydrangea | 0.022 | +0.018 | ✓ |
-| H&S | 0.020 | +0.022 | ✓ |
-| Moonwake | 0.027 | +0.024 | ✓ |
-| Sey | 0.020 | +0.020 | ✓ (small n) |
-| September (washed) | 0.015 | +0.017 | ✓ |
-| September (creative) | 0.027 | +0.029 | ✓ |
-| September (producer-other) | 0.013 | +0.012 | ✓ |
+| Roaster                    | Documented | Realised | Verdict     |
+| -------------------------- | ---------- | -------- | ----------- |
+| Hydrangea                  | 0.022      | +0.018   | ✓           |
+| H&S                        | 0.020      | +0.022   | ✓           |
+| Moonwake                   | 0.027      | +0.024   | ✓           |
+| Sey                        | 0.020      | +0.020   | ✓ (small n) |
+| September (washed)         | 0.015      | +0.017   | ✓           |
+| September (creative)       | 0.027      | +0.029   | ✓           |
+| September (producer-other) | 0.013      | +0.012   | ✓           |
 
 All documented drift rates from § 8 hold up against the empirical fit. The pooled September slope of ~0.008 was misleading because it averaged across three tiers of very different rates.
 
 ### Heuristic stress-tests
 
-- **Score-3 recovery (n=274 follow-up brews).** Going coarser after a Score 3 recovered to ≥ 4 in **38 %** of cases (n=215); going finer recovered in **42 %** (n=59). Joshua defaults to coarser 78 % of the time, but the data does *not* show coarser as the higher-recovery move from a fresh Score 3 — it just reflects that drift-tracking dominates. **Treat the "round coarser" rule as drift-tracking advice, not as a recovery move.** When the prior cup was clearly bad, weigh the descriptors and don't default-bias the direction.
+- **Score-3 recovery (n=274 follow-up brews).** Going coarser after a Score 3 recovered to ≥ 4 in **38 %** of cases (n=215); going finer recovered in **42 %** (n=59). Joshua defaults to coarser 78 % of the time, but the data does _not_ show coarser as the higher-recovery move from a fresh Score 3 — it just reflects that drift-tracking dominates. **Treat the "round coarser" rule as drift-tracking advice, not as a recovery move.** When the prior cup was clearly bad, weigh the descriptors and don't default-bias the direction.
 - **Score 5 → next brew (n=42 within 3 days).** 86 % of follow-ups went coarser, 0 % finer. Mean coarsening per day ≈ 0.025. **A Score-5 setting almost never holds.**
 - **Score 5 lineage (n=64).** 66 % of Score 5 brews followed a Score 4 or Score 5 (matching the 64 % figure cited in the AGENT_GUIDE). Convergence-by-refinement is the dominant path; "lucky correction" is rare.
 - **Distance-to-good-grind vs score (n=690).** Median grind within ± 0.025 of the coffee's good-grind median scores 4.0; 0.025–0.075 also scores 4.0; 0.075–0.15 scores 3.5; 0.15–0.30 scores 3.0; > 0.30 scores 3.0. The sweet-spot window is **roughly 3 clicks wide** (-0.075 to +0.075 from the median good grind), confirming the AGENT_GUIDE's 2–3-click width claim.

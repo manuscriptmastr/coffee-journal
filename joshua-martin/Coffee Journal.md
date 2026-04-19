@@ -3870,3 +3870,15 @@ More voluminous, more instant grape candy flavor, but also could see the finer s
 ## Monteblanco, Z, 5.675 @ 211ºF, 12.5g/250g Day 20, Score: 5
 
 Intense purple flavors in first sip. Refreshing/cooling passionfruit. Lovely soft and rounded sweetness, though acidity is still crisp. Purple tones intensify. Absolutely lovely flavors. **Sweet spot**
+
+## Pena, Z, 5.7 @ 211ºF, 12.5g/250g Day 21, Score: 4
+
+A balanced cup, yet not having any one particular shining quality. The sweetness isn't sugary, and the acidity isn't particularly genuine, and the cocoa is a little off. Neither a robust English breakfast tea nor a mandarin-forward cup. Frustratingly close.
+
+## Paraiso, Z, 5.7 @ 211ºF, 12.5g/250g Day 21, Score: 4
+
+Big flavor volume, perfumy peach quality, but flavors slightly unfocused or dulled. Missing crisp/bright/sweet edge and definition to flavor. No mouthfeel issues. Still very enjoyable, but I know what this coffee is capable of.
+
+## La Isabela, Z, 5.7 @ 211ºF, 12.5g/250g Day 21, Score: 3
+
+Moderate to big flavor volume and expansiveness, leads with the perfumy grape qualities, but watery and doesn't deliver with focused tasting notes. Hollow in a sense — there's dynamics in the surroundings and aromatics of the cup, but little substance or development in the actual flavor.
