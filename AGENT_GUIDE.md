@@ -286,3 +286,24 @@ Symptoms of reference-anchor bias:
 - Coarsening probe does not recover the "volume" — because there's nothing to recover; the deficit is temporal, not extraction-based
 
 When the bias is in play, stop chasing volume and characterize the _new_ window the coffee is in. Score 4s that aren't missing anything extraction-addressable are the signature of a coffee past its young-peak; they represent the best that setting can produce and shouldn't be treated as near-misses.
+
+### Per-coffee coarse-tolerance (same-setting, same-day, opposite inflection)
+
+When sibling coffees from the same batch all land Score 4 at the same setting on the same day but show **different deficit inflections**, the likely explanation is _not_ that the batch entered a narrow window or that drift stalled — it's that each coffee's **coarse-tolerance** differs. The sweet-spot center is roughly shared; how far past it each coffee can go before registering under-signs is not.
+
+How it presents:
+
+- Same roaster, same batch, all at grind setting G on day D, all Score 4
+- Coffee A: **brilliant / effervescent / loose** with small volume — bright-side deficit
+- Coffee B: **soft / limp / could be brighter / fantastic clarity** — muted-side deficit
+- A coarsening probe on A unlocks _more_ brightness (SS-window with varietal headroom)
+- The journal-keeper's own instinct on B is to go _finer_ (correctly reads it as under-leaning)
+
+What it means:
+
+- The SS center for the day is probably finer than G (B's instinct is right)
+- A is **coarse-tolerant** for its variety — its acidity/character structure doesn't collapse past SS, it just goes looser
+- B is **coarse-intolerant** — past SS, it reads muted or limp rather than bright-but-loose
+- Drift rate per coffee has _not_ diverged; what differs is how each coffee _fails_ when you pass SS
+
+Action: set next-brew for B at the finer setting (the SS center). For A, either match B's setting to confirm the shared center, or stay coarse and accept the coarse-edge-SS trade-off. Don't infer per-coffee drift divergence from this pattern alone — that requires at least two data points per coffee showing different cadences.

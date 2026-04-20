@@ -3899,3 +3899,7 @@ Absolutely brilliant and effervescent grape soda acidity, but a small flavor vol
 ## La Isabela, Z, 5.775 @ 211ºF, 12.5g/250g Day 22, Score: 4
 
 Even more brilliant sweet-tart-like brilliant grape candy. Even looser, but could use some structure. Flavor volume is genuine but more delicate than the early days of this coffee — perhaps that is just a side effect of the initial perfuminess setting such a "big" first impression? Both this and the previous cup were solid cups.
+
+## Monteblanco, Z, 5.75 @ 211ºF, 12.5g/250g Day 22, Score: 4
+
+Soft first sip. Small flavor volume, limp. Fantastic clarity, but could be brighter and more structured overall. Very juicy and loose in cooldown. Fantastic flavors, but I think we can push this a bit further. \*\*5.725
