@@ -260,3 +260,29 @@ The reliable move is to **probe with a tiebreaker brew** on whichever coffee has
 - If neither direction clears it → the coffees are on different sides of their individual windows, and each needs its own probe.
 
 One unambiguous tiebreaker cup is worth more than any amount of cross-coffee vocabulary pattern-matching.
+
+### Brilliant acidity + small volume: coarser-probe test
+
+When a cup presents **defined, peaking acidity** ("brilliant", "effervescent", "grape candy", "sharp") alongside **small flavor volume** and **clean mouthfeel** (no rubbing/rasp), two diagnoses compete:
+
+- **Mild over**: acidity is peaking because aromatic complexity has collapsed around it; phenolics haven't built enough for rubbing yet but are compressing volume.
+- **Sweet-spot window with varietal acidity that has headroom**: the coffee's acidity keeps unlocking further as you go coarser; "small volume" may be a reference artifact (see below).
+
+The probe is diagnostic: **brew one step coarser the same day**.
+
+- **If coarsening softens the acidity** (integrates it, or shifts brightness → warm-glow finish) and **volume returns** → confirmed mild over; step finer from the original setting.
+- **If coarsening makes the acidity _even brighter_** and the texture **"even looser"** without volume recovering → **not over**. The coffee was inside or near its sweet-spot window; acidity has headroom at coarser settings, and the "small volume" symptom is either fine-edge character or a reference-anchor artifact.
+
+Over-extraction's bright acidity is _fragile_: it does not unlock further under coarsening. Acidity that intensifies when you coarsen is sweet-spot acidity with room to open up, not compressed acidity being relieved.
+
+### The reference-anchor bias
+
+"Small flavor volume" evaluated against a recent peak cup from the **young-coffee period** (Days 8–14, fresh CO₂ perfuminess still dominant) can be a **reference-bias artifact rather than a real compression signal**. Fresh coffee contributes perceived flavor volume through perfuminess and CO₂ lift that fades regardless of grind — by Day 20+ the same coffee genuinely cannot produce the same "big first impression," even at peak extraction.
+
+Symptoms of reference-anchor bias:
+
+- Cup reads "small" or "delicate" alongside otherwise-sweet-spot markers (loose, defined acidity, honest flavors, clean mouthfeel)
+- The mental comparison is to a specific early-days cup (often explicitly remembered as "one of the best" or "peak perfuminess")
+- Coarsening probe does not recover the "volume" — because there's nothing to recover; the deficit is temporal, not extraction-based
+
+When the bias is in play, stop chasing volume and characterize the _new_ window the coffee is in. Score 4s that aren't missing anything extraction-addressable are the signature of a coffee past its young-peak; they represent the best that setting can produce and shouldn't be treated as near-misses.

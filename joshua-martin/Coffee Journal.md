@@ -3887,3 +3887,15 @@ Moderate to big flavor volume and expansiveness, leads with the perfumy grape qu
 
 More of the cocoa or eucalyptus note initially, more obvious English breakfast tea vibes. Very heavy. Darker, spicier. Some mouth rubbing. No real acidity, while overall flavors are luxurious and hearty, but cocoa is heavy in an almost off taste sort of way. Luxurious but rubbing persists.
 Tricky, the luxury of this coffee comes out a bit more at this setting, but so does the cocoa/eucalyptus in a way that is a little stinky. Overall, enjoyable, but not the best this can be. **5.725 or higher**
+
+## Paraiso, Z, 5.75 @ 211ºF, 12.5g/250g Day 22, Score: 4
+
+Loose, funky, flimsy, but lovely flavors. Just lacking some structure.
+
+## La Isabela, Z, 5.75 @ 211ºF, 12.5g/250g Day 22, Score: 4
+
+Absolutely brilliant and effervescent grape soda acidity, but a small flavor volume. I have a hunch this and Paraiso are just barely overextracted. Perhaps genuine flavors and acidity + small flavor volume is barely overextracted?
+
+## La Isabela, Z, 5.775 @ 211ºF, 12.5g/250g Day 22, Score: 4
+
+Even more brilliant sweet-tart-like brilliant grape candy. Even looser, but could use some structure. Flavor volume is genuine but more delicate than the early days of this coffee — perhaps that is just a side effect of the initial perfuminess setting such a "big" first impression? Both this and the previous cup were solid cups.
