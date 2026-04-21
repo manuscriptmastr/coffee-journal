@@ -3903,3 +3903,15 @@ Even more brilliant sweet-tart-like brilliant grape candy. Even looser, but coul
 ## Monteblanco, Z, 5.75 @ 211ºF, 12.5g/250g Day 22, Score: 4
 
 Soft first sip. Small flavor volume, limp. Fantastic clarity, but could be brighter and more structured overall. Very juicy and loose in cooldown. Fantastic flavors, but I think we can push this a bit further. **5.725**
+
+## Monteblanco, Z, 5.75 @ 211ºF, 12.5g/250g Day 23, Score: 3
+
+Not bad, but missing more bright and refreshing characteristics. Flavors are still here, just less complex. **5.775 or higher?**
+
+## Paraiso, Z, 5.775 @ 211ºF, 12.5g/250g Day 23, Score: 4
+
+Barely finer side of sweet spot. Good structure, funky peach gummy quality, solid cooldown, could benefit from just a touch more brightness. **Keep or 5.8?**
+
+## Pena, Z, 5.8 @ 211ºF, 12.5g/250g Day 23, Score: 4
+
+Sharper, more citrus-y profile in first sip. Mouthfilling volume. Moderate sweetness. Dark but gentle finish. Lacks focus. Big volume as cools, slightly skewed towards citric side, needs more sweetness to add definition. Still, good flavors — citrus and sugary quality are here. **5.775?**
