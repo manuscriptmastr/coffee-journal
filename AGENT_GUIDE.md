@@ -140,6 +140,14 @@ When comparing siblings, always **normalize to the same age**. If Coffee A (roas
 
 Use the **local (recent) drift rate** rather than a full-regression slope, especially for older coffees where drift may decelerate or accelerate. The profile's drift table should give per-roaster-group rates, often with age-window caveats (e.g., "accelerates past Day 58", "decelerates after Day 40"). Typical pour-over light-roast drift rates span roughly **0.010–0.035/day** across roasters; if the profile doesn't list this roaster, default to ~0.020/day and flag the assumption.
 
+**Drift is a curve, not a single rate.** For a given coffee or batch, drift commonly passes through three regimes:
+
+1. **CO₂ phase** (~Days 8–14, sometimes extending to Day 17 for dense light roasts): drift is very slow (~0.005–0.015/day). Fresh-coffee perfuminess and CO₂ lift dominate perceived cup quality; sweet-spot settings barely move.
+2. **Mid-life ramp** (~Days 14–20): drift settles into the roaster's "textbook" rate (~0.020–0.030/day for most light-roast pour-over profiles). This is the stablest, most-predictable phase.
+3. **Late-life acceleration** (~Day 20+): drift _increases_ past the mid-life rate, commonly to 0.035–0.050/day, as volatile compounds deplete and extraction kinetics shift. Score 5s become harder to land because a click of grinder resolution no longer reliably covers a day of drift.
+
+When predicting, identify which regime the coffee is in before applying a rate. A Day-10 coffee and a Day-22 coffee from the same batch can have drift rates that differ by **3–5×**. Using a batch-wide average across regimes will systematically mispredict at both ends. The **marker for entering late-life acceleration** is a drop in Score 5 frequency without a corresponding vocabulary change — the coffees still taste fine, but the "right" setting moves faster than one click a day, so most brews land a half-click off center.
+
 ### 4. Predict and round
 
 ```
@@ -307,3 +315,19 @@ What it means:
 - Drift rate per coffee has _not_ diverged; what differs is how each coffee _fails_ when you pass SS
 
 Action: set next-brew for B at the finer setting (the SS center). For A, either match B's setting to confirm the shared center, or stay coarse and accept the coarse-edge-SS trade-off. Don't infer per-coffee drift divergence from this pattern alone — that requires at least two data points per coffee showing different cadences.
+
+### Score-rate collapse as a drift-regime signal
+
+A sudden drop in Score-5 frequency across a batch, **without** a corresponding shift in vocabulary or apparent extraction direction, is a strong signal that drift has entered late-life acceleration. The diagnostic chain:
+
+- The batch was landing Score 5s reliably at some cadence (e.g., ~70% S5 rate in its mid-life window)
+- Over 2–3 days, every coffee starts coming in Score 4 — not Score 3 — with sweet-spot-adjacent vocabulary ("loose", "bright", "nice flavors but could use X")
+- The grinder clicks the user is making are the same size as before
+- The "right" setting now moves faster than one click per day, so most brews land a half-click off center regardless of which direction the correction was
+
+This is **not** a recipe problem, a diagnosis problem, or a stalled drift. It's a signal that the coffee has passed from the mid-life ramp into late-life acceleration. Reactions:
+
+- Widen correction step size to 2 clicks per day instead of 1 (or alternate day-to-day bracketing)
+- Expect an S4 ceiling to persist — don't chase Score 5 with finer corrections
+- Do _not_ infer per-coffee divergence from parallel S4s (see "Per-coffee coarse-tolerance")
+- Watch for the actual spiral signals (mouthfeel discomfort, "small + stiff" patterns). If those are absent, the batch is fine; the drift rate is just outrunning the grinder's resolution.

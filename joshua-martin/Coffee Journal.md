@@ -3915,3 +3915,11 @@ Barely finer side of sweet spot. Good structure, funky peach gummy quality, soli
 ## Pena, Z, 5.8 @ 211ºF, 12.5g/250g Day 23, Score: 4
 
 Sharper, more citrus-y profile in first sip. Mouthfilling volume. Moderate sweetness. Dark but gentle finish. Lacks focus. Big volume as cools, slightly skewed towards citric side, needs more sweetness to add definition. Still, good flavors — citrus and sugary quality are here. **5.775?**
+
+## Monteblanco, Z, 5.8 @ 211ºF, 12.5g/250g Day 24, Score: 4
+
+Good flavors, could be a touch more complex? I feel like I'm being very hard on these coffees because I'd normally rate them high.
+
+## Pena, Z, 5.825 @ 211ºF, 12.5g/250g Day 24, Score: 5
+
+Highly rounded, open, mouthfilling volume. Not a crisp cup, but a highly genuine profile. Continues to be completely round and soft yet mouthfilling. This is a compelling take, perhaps just barely on the coarser side.
