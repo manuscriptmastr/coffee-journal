@@ -3923,3 +3923,5 @@ Good flavors, could be a touch more complex? I feel like I'm being very hard on 
 ## Pena, Z, 5.825 @ 211ºF, 12.5g/250g Day 24, Score: 5
 
 Highly rounded, open, mouthfilling volume. Not a crisp cup, but a highly genuine profile. Continues to be completely round and soft yet mouthfilling. This is a compelling take, perhaps just barely on the coarser side.
+
+## La Isabela, Z, 5.825 @ 211ºF, 12.5g/250g Day 24, Score:

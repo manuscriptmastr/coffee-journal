@@ -1,15 +1,9 @@
-# Agent Instructions
+# Claude Code Instructions
 
-This repo contains a universal coffee-prediction methodology plus one or more maintainers' calibrated journals. **Agents should load two files to predict a setting:**
+Start with **[`AGENTS.md`](./AGENTS.md)** — it holds the vendor-neutral agent instructions, journal index, and skill index. Everything here applies to Claude Code as well.
 
-1. **[`AGENT_GUIDE.md`](./AGENT_GUIDE.md)** — Universal methodology: drift physics, water chemistry, extraction vocabulary, prediction method, sweet-spot window edges, spiral diagnosis. Applicable to any pour-over journal.
-2. **The `profile.md` from the relevant journal folder** — that journal's calibration: equipment, recipe baseline, water, roaster groupings with drift rates, correction bias, vocabulary quirks, known failure modes.
+## Claude-specific note: skill shims
 
-Journal folders currently in this repo:
+Claude Code auto-discovers skills at `.claude/skills/<name>/SKILL.md`. Those files are thin shims (YAML frontmatter + one-line delegate) that point at the vendor-neutral source of truth in [`skills/`](./skills/).
 
-- [`joshua-martin/`](./joshua-martin/) — Joshua's journal (~1 year of daily entries, Lagom P64 + Z1/Orea, specialty light roast).
-- _(more maintainers can be added as sibling folders with the same shape)_
-
-The guide is the method; the profile is the parameters. Read the guide first for context, then consult the profile whenever the guide says "your profile's drift table" or "the user's grinder step size."
-
-To adapt this setup to another journal: duplicate the journal-folder shape, populate a new `profile.md`, and run the walk-forward calibration loop described in the plan. The universal guide stays untouched.
+**When editing a skill, update `skills/<name>.md` — not the shim.** The shim only carries the frontmatter Claude's loader needs to know when to trigger.
