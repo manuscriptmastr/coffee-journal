@@ -3924,4 +3924,6 @@ Good flavors, could be a touch more complex? I feel like I'm being very hard on 
 
 Highly rounded, open, mouthfilling volume. Not a crisp cup, but a highly genuine profile. Continues to be completely round and soft yet mouthfilling. This is a compelling take, perhaps just barely on the coarser side.
 
-## La Isabela, Z, 5.825 @ 211ºF, 12.5g/250g Day 24, Score:
+## Paraiso, Z, 5.825 @ 211ºF, 12.5g/250g Day 24, Score: 4
+
+Accidentally started 2nd pour 10 seconds late (e.g. extended bloom time, likely a small difference though). First sip vague. Somewhat mouthfilling but generally on the darker/muted side. Astringency. Cooldown has genuine flavors but barely dulled + luxurious texture. Just a touch too dark overall. Most likely the extra bloom time, so **keep**.
