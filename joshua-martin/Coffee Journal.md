@@ -3948,4 +3948,6 @@ Flavors and volume really well dialed in from very first sip. Surprisingly more 
 
 Absolutely lovely. The funky peach gummy quality is so well dialed in. Luxurious, thick, yummy, syrupy.
 
-## La Isabela, Z, 5.875 @ 211ºF, 12.5g/250g Day 26, Score:
+## La Isabela, Z, 5.875 @ 211ºF, 12.5g/250g Day 26, Score: 5
+
+Immediately perfumy, somewhere between grape and that gravy kind of nuance. Surprisingly different than the beginning cups — the overall profile is different, but still very compelling.
