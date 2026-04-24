@@ -13,6 +13,27 @@ The **calibration** half — equipment, roasters, drift rates, personal vocabula
 
 If a field is missing from the profile, ask the user a concise clarifying question. Never block prediction on missing data — fall back to conservative defaults, note the assumption, and flag it.
 
+### Dialing procedures vary between maintainers
+
+This guide frames grind size as the primary control variable because that is the common case across the journals it was calibrated against. Other maintainers dial differently. Two variants seen in this repo:
+
+- **Grind-first dialing** — hold temperature, recipe, and brewer near-constant; move grind in fine steps to track drift. Fits maintainers with sub-0.05-step grinders and short bag lifetimes.
+- **Temperature-first dialing** — hold grind in a broad acceptable band, move temperature in 1–3 °C increments to tune flavor extraction, adjust grind only for strength/body. Explicitly rejects "grind finer until bitter, then back off" because grinding finer also sacrifices clarity. Fits maintainers with coarser-step grinders and longer bag lifetimes.
+
+A profile that is temperature-first should **disable drift-based grind prediction** (because grind isn't the primary lever being moved) and instead expose a per-bean static grind plus a roast-level-conditional temperature rule. A profile that is grind-first should fully populate the drift table. Neither procedure is more correct — they're different dialing philosophies. The profile tells you which one applies; agents should not assume the universal methodology's grind-centric framing is the maintainer's procedure without checking.
+
+### The "observation vs. causation" trap for optional techniques
+
+Any lever a maintainer uses _only sometimes_ — an alternate brewer, an agitation tool, a non-default water, a rescue technique — is subject to **selection bias**. Raw averages of "with vs. without the lever" will often reflect the conditions under which the maintainer reaches for it, not the lever's own effect.
+
+Concrete pattern: a maintainer keeps a secondary brewing tool for "salvaging beans that don't brew well." Observational data shows that tool correlates with −0.5 score points on average. The naive read is "the tool is bad." The correct read is "the tool is used when the brew is already in trouble, and that's what the −0.5 is measuring." The causal effect of the tool itself is unmeasurable from observational data.
+
+When reasoning about maintainer-specific levers:
+
+- **Ask** under what conditions they use it. If the answer is "always" the observational data is informative. If the answer is conditional ("I only reach for it when X"), the data is confounded.
+- **Treat bean-conditional choices as style priors, not quality levers.** If the maintainer picks a brewer based on bean style (e.g., one brewer for naturals, another for washed), a within-bean comparison partially measures the selection rule, not the brewer's independent effect.
+- **Don't copy optional techniques across profiles.** What one maintainer uses as a default may be a rescue tool for another. Profiles capture the selection rule; the universal guide does not.
+
 ## The Goal
 
 Predict the **sweet spot** grind setting for a given coffee at a given age (days since roast). The sweet spot is the extraction level where acidity, sweetness, complexity, and mouthfeel all come together harmoniously.

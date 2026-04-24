@@ -3927,3 +3927,23 @@ Highly rounded, open, mouthfilling volume. Not a crisp cup, but a highly genuine
 ## Paraiso, Z, 5.825 @ 211ºF, 12.5g/250g Day 24, Score: 4
 
 Accidentally started 2nd pour 10 seconds late (e.g. extended bloom time, likely a small difference though). First sip vague. Somewhat mouthfilling but generally on the darker/muted side. Astringency. Cooldown has genuine flavors but barely dulled + luxurious texture. Just a touch too dark overall. Most likely the extra bloom time, so **keep**.
+
+## La Isabela, Z, 5.85 @ 211ºF, 12.5g/250g Day 25, Score: 4
+
+Brilliant perfumy grape quality, small flavor volume, long finish. Probably just barely overextracted although my instinct is usually underextracted.
+
+## Pena, Z, 5.875 @ 211ºF, 12.5g/250g Day 25, Score: 4
+
+Slightly sugary, flavors a bit far away, dark spices, short finish, not well defined acidity. Normally I would say this is underextracted — the flavor volume is large and loose but flat and lacking clarity and structure. Still, an enjoyable cup to drink.
+
+## Monteblanco, Z, 5.85 @ 211ºF, 12.5g/250g Day 25, Score: 5
+
+Lovely first sip. Not the absolute most passionfruit/purple it has been, but extremely balanced and tasty overall. Just a very drinkable cup.
+
+## Pena, Z, 5.875 @ 211ºF, 12.5g/250g Day 26, Score: 5
+
+Flavors and volume really well dialed in from very first sip. Surprisingly more cocoa forward than some other Pena versions in the past, probably closer to September's version which tended to be a bit dirtier in profile. Still, a very good cup!
+
+## Paraiso, Z, 5.875 @ 211ºF, 12.5g/250g Day 26, Score: 5
+
+Absolutely lovely. The funky peach gummy quality is so well dialed in. Luxurious, thick, yummy, syrupy.

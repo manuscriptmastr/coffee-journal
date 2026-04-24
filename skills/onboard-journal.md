@@ -64,9 +64,30 @@ Once profile.md has drift rates documented, run a walk-forward holdout:
 - Record MAE, RMSE, ≤1-click hit rate, ≤2-click hit rate.
 - Add the table to profile.md §15. See `joshua-martin/profile.md` §15 for format.
 
+## Step 6: Ask the maintainer before inferring
+
+A number of things about a journal cannot be read off the data without asking the maintainer directly. Inferring them from distribution shape or observational correlations will frequently mislead. Ask:
+
+- **Exact score rubric.** What does each score level _mean_ to them? Modal scores from the distribution do not tell you whether "6" means "mediocre" or "safe default good." Bonus-point adjustments (cost, novelty, rarity) are also important — a rubric that mixes cup-quality and non-cup signals needs a flag.
+- **Grinder model + scale orientation.** Higher-number-is-coarser is the common convention but not universal. Getting this wrong reverses every directional claim in the profile.
+- **Storage protocol.** Freezing, degassing, resealing, room temperature vs. cellar — changes the aging curve entirely. "Days off roast" means different things under different protocols.
+- **Conditions under which optional techniques are used.** For any lever the maintainer sometimes turns on and sometimes doesn't (alternate brewer, agitation tool, dilution, bypass), ask _when and why_ they reach for it. Observational averages on opt-in tools are often dominated by the selection rule, not the tool's effect. See "Pitfalls" below.
+- **Notes / directive conventions.** What does a terse "finer next time" actually mean — a planned adjustment, a vague regret, or a note-to-self that was later overridden? Ask before parsing free-text for structured signal.
+- **Brewer / recipe choice rules.** Is the brewer picked per-bean based on style, or rotated randomly? If bean-conditional, brewer choice is not an independent variable — treat it as a style prior rather than a quality lever.
+
+Record the answers directly in §1–§6 of the profile, with a date and "(confirmed with maintainer)" annotation so later agents know the claim is source-of-truth rather than inferred.
+
+## Step 7: Re-run sanity checks when new maintainer info arrives
+
+Maintainer answers can change the assumptions behind earlier analyses. When a significant piece of information arrives (e.g., the storage protocol turns out to be different than assumed, a column turns out to conflate two instruments, a selection rule is disclosed), re-run the Step 3 drift-applicability checks and the affected holdout tests. Update the profile's verdict with fresh evidence rather than bolting a clarification onto the old analysis.
+
 ## Common pitfalls
 
-- **Assuming Joshua's methodology transfers wholesale.** Tim's journal is a counter-example: same repo, same guide, but drift disabled.
-- **Skipping the holdout test.** Without it you'll deploy a drift model that could be worse than the trivial baseline (as it is for Tim).
+- **Assuming a single maintainer's methodology transfers wholesale.** At least one journal in this repo is a counter-example: same guide, same analysis framework, but drift-based prediction disabled on empirical grounds.
+- **Skipping the holdout test.** Without it you'll deploy a drift model that could be worse than the trivial baseline.
 - **Over-engineering the profile on day one.** Fill §1–§8 with real data; scaffold the rest with TODOs. The profile grows with the journal.
-- **Forgetting to exclude skill-issue / execution-failure brews.** If the raw data has a flag column for these, use it. Tim's profile §10 documents 67 such brews excluded from calibration.
+- **Forgetting to exclude execution-failure brews.** If the raw data has a flag column for these, use it. Keep them in the dataset but exclude from calibration.
+- **Confusing observation with causation on opt-in techniques.** If a lever (an alternate brewer, a rescue tool, a non-default water) is used only under specific conditions, its observational effect reflects _the conditions that triggered its use_, not the lever's own influence. "Technique X shows a −0.47 point average delta" is often explained entirely by "technique X is used only when the brew is already in trouble." Always ask the maintainer: _under what conditions do you use this?_ Do not model opt-in techniques as independent variables without a controlled comparison.
+- **Treating bean-conditional choices as independent variables.** Related pitfall: if the maintainer picks brewer / recipe / water based on bean style, within-bean comparisons of those choices partially measure the selection rule, not the choice itself. Treat as a style prior.
+- **Inferring a rubric from distribution shape.** Score distributions tell you nothing about what the scores _mean_ to the maintainer. Ask.
+- **Treating an inferred storage protocol as confirmed.** "Maintainer probably freezes because the age curve peaks late" is a hypothesis, not a fact. Ask.
