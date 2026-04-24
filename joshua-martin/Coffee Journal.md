@@ -3947,3 +3947,5 @@ Flavors and volume really well dialed in from very first sip. Surprisingly more 
 ## Paraiso, Z, 5.875 @ 211ºF, 12.5g/250g Day 26, Score: 5
 
 Absolutely lovely. The funky peach gummy quality is so well dialed in. Luxurious, thick, yummy, syrupy.
+
+## La Isabela, Z, 5.875 @ 211ºF, 12.5g/250g Day 26, Score:

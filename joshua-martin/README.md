@@ -10,9 +10,9 @@ For the universal methodology this profile builds on, see [`../AGENT_GUIDE.md`](
 
 ## Drift charts
 
-![Hydrangea (current batch, post-Day-15 drift = 0.0300/day)](assets/hydrangea_current_drift.png)
+![Hydrangea (current batch — single +0.028/day trend, Day 8 onward)](assets/hydrangea_current_drift.png)
 ![H&S batch 3](assets/hs_batch3_drift.png)
-![Hydrangea on Z1 (earlier batch)](assets/hydrangea_z1_drift.png)
+![Hydrangea on Z1 (earlier batch — single +0.018/day trend)](assets/hydrangea_z1_drift.png)
 ![Moonwake](assets/moonwake_drift.png)
 ![September](assets/september_drift.png)
 ![SEY](assets/sey_drift.png)

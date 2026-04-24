@@ -51,7 +51,7 @@ ROASTER_MAP_DEFAULT = {
 # Per AGENT_GUIDE drift rates (per day):
 DRIFT_RATES = {
     "H&S": 0.020,
-    "Hydrangea": 0.022,
+    "Hydrangea": 0.028,
     "September": 0.018,
     "Moonwake": 0.027,
     "Sey": 0.020,

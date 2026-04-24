@@ -12,7 +12,7 @@ df = pd.read_csv(ROOT / "entries.csv")
 zdf = df[(df.brewer == "Z") & (df.grind < 10)].reset_index(drop=True)
 
 DRIFT_RATES = {
-    "H&S": 0.020, "Hydrangea": 0.022, "September": 0.018,
+    "H&S": 0.020, "Hydrangea": 0.028, "September": 0.018,
     "Moonwake": 0.027, "Sey": 0.020, "Paix": 0.020, "Norena": 0.020,
 }
 
