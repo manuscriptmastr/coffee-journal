@@ -3951,3 +3951,23 @@ Absolutely lovely. The funky peach gummy quality is so well dialed in. Luxurious
 ## La Isabela, Z, 5.875 @ 211ºF, 12.5g/250g Day 26, Score: 5
 
 Immediately perfumy, somewhere between grape and that gravy kind of nuance. Surprisingly different than the beginning cups — the overall profile is different, but still very compelling.
+
+## Monteblanco, Z, 5.9 @ 211ºF, 12.5g/250g Day 27, Score: 5
+
+Explosively juicy, luxurious, super sweet, somewhat heavy perfuminess. This is different than the "refreshing/cooling" profile, but highly compelling and focused in.
+
+## Pena, Z, 5.9 @ 211ºF, 12.5g/250g Day 27, Score: 5
+
+Lovely cocoa-forward and sweet profile. Well focused on flavors.
+
+## Paraiso, Z, 5.9 @ 211ºF, 12.5g/250g Day 27, Score: 5
+
+Lovely! Also on the heavy and luxurious side of the sweet spot. Highly melded, perfumy peach gummy.
+
+## La Isabela, Z, 5.925 @ 211ºF, 12.5g/250g Day 28, Score: 4
+
+Losing some brightness, but perfuminess, sweetness, luxury, and funky fruits abound in cup. Barely rough in mouth.
+
+## Monteblanco, Z, 5.95 @ 211ºF, 12.5g/250g Day 28, Score: 5
+
+A softer, rounder, slightly less focused profile, with more of the refreshing/cooling passionfruit and Dole fruit cup quality, especially in the finish. Compelling though more gentle.
