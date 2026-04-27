@@ -3971,3 +3971,15 @@ Losing some brightness, but perfuminess, sweetness, luxury, and funky fruits abo
 ## Monteblanco, Z, 5.95 @ 211ºF, 12.5g/250g Day 28, Score: 5
 
 A softer, rounder, slightly less focused profile, with more of the refreshing/cooling passionfruit and Dole fruit cup quality, especially in the finish. Compelling though more gentle.
+
+## Paraiso, Z, 5.975 @ 211ºF, 12.5g/250g Day 29, Score: 4
+
+A little weaker today. Some brightness to flavors but not quite as sweet or funky. Still fairly good.
+
+## La Isabela, Z, 5.975 @ 211ºF, 12.5g/250g Day 29, Score: 5
+
+Tight, bright, exciting, and zingy purple grape acidity. A bit more on the toyish side, but lovely.
+
+## Blue Strudel, Z, 5.5 @ 211ºF, 12.5g/250g Day 10, Score: 3
+
+Weird spiciness/gravy quality. Dark complexion with roastiness in finish. As cools, there is some sweetness and fruit brightness, but a fairly muddy intro taste-wise. Sweet fruits come out more as cools. Grows in fruits but with that classic roasty quality natural Ethiopian coffees can have if more developed. Almost zinc-like metallic quality to last couple sips. Last sip is both highly fruity, moderately roasty, and somewhat metallic. No big mouthfeeel issues.
