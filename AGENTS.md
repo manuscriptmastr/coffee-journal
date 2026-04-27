@@ -11,7 +11,7 @@ Journal folders currently in this repo:
 
 - [`joshua-martin/`](./joshua-martin/) — Joshua's journal (~1 year of daily entries, Lagom P64 + Z1/Orea, specialty light roast).
 - [`tim-hwang/`](./tim-hwang/) — Tim's journal (~1900 brews, coarser-step grinder, drift-based prediction **disabled** — see that profile's §8 for the walked-through sanity checks). _Gitignored._
-- [`pal/`](./pal/) — Pal's V60 journal (~560 brews, JX-Pro + Ode grinders, no score/date columns; drift-based prediction **disabled**; uses a five-axis taste card + composite quality proxy — see that profile's §5 and §8). _Gitignored._
+- [`pal/`](./pal/) — Pal's pour-over journal (~560 V60 brews + ~320 D27 brews, JX-Pro / A4z / ZP6 grinders, no score/date columns; drift-based prediction **disabled**; uses a five-axis taste card + composite quality proxy — see that profile's §5, §8, and §15). _Gitignored._
 
 The guide is the method; the profile is the parameters. Read the guide first for context, then consult the profile whenever the guide says "your profile's drift table" or "the user's grinder step size."
 
