@@ -14,6 +14,19 @@ Apply this skill when the user reports any of:
 - A cup that "seems underextracted but tastes dishonest / dull / collapsed / gravy-like"
 - Acidity that only appears in the finish as a "warm glow," never immediate
 
+## Pre-check: is the coffee under-rested?
+
+Before running the under-vs-over decision tree, check the coffee's age. Cups brewed in the **first ~10 days off roast** can mimic the spiral signature (small flavors + mouthfeel discomfort) even at a correct grind setting — the cause is CO₂-blocked extraction and unsettled volatiles, not extraction direction. See AGENT_GUIDE §"Under-rested coffee (Day 1–14)".
+
+Apply the under-rested cross-checks before grinding finer or coarser:
+
+1. **Same off-flavor across two different beans from the same roaster** at similar days off roast → roast freshness, not grind miss.
+2. **Same off-flavor across two different brewing waters** → not a water-mineralization issue.
+3. **Same off-flavor on dry aroma + wet aroma + taste** → in the bean, not the brew.
+4. **No improvement in cooldown** despite reading underextracted → CO₂-blocked, not honestly under.
+
+If 2 of 4 hold and the coffee is < Day 14, **stop the spiral diagnosis**. The intervention is **time** (wait until Day 14–21), not grind. If the user must brew, La Cabra's <3-week recipe is finer + cooler (~194 °F) + shorter contact — opposite to "go coarser."
+
 ## Decision tree
 
 For the canonical spiral signature (small flavors + mouthfeel discomfort), the guide's empirical finding is: **in most journals, overextraction is substantially more likely than underextraction**, and going finer fails the majority of the time.

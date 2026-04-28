@@ -3983,3 +3983,21 @@ Tight, bright, exciting, and zingy purple grape acidity. A bit more on the toyis
 ## Blue Strudel, Z, 5.5 @ 211ºF, 12.5g/250g Day 10, Score: 3
 
 Weird spiciness/gravy quality. Dark complexion with roastiness in finish. As cools, there is some sweetness and fruit brightness, but a fairly muddy intro taste-wise. Sweet fruits come out more as cools. Grows in fruits but with that classic roasty quality natural Ethiopian coffees can have if more developed. Almost zinc-like metallic quality to last couple sips. Last sip is both highly fruity, moderately roasty, and somewhat metallic. No big mouthfeeel issues.
+
+<!--Harris Teeter Purified R/O Water-->
+
+## Blossom Wine, Z, 5.6 @ 211ºF, 12.5g/250g Day 11, Score: 2
+
+Almost no real flavors. This presents as highly underextracted. However, it's got that gross metallic roastiness again which feels like either a symptom of an early coffee, or perhaps a more developed roast. I really hope it's just how this tastes when too fresh. If it persists, we'll have to try lower temperature to reduce the roastiness.
+
+## Monteblanco, Z, 6 @ 211ºF, 12.5g/250g Day 30, Score: 5
+
+Very very good, though more on the integrated and simple vs. explosive side. 4 or 5.
+
+## Pena, Z, 6 @ 211ºF, 12.5g/250g Day 30, Score: 4
+
+Slightly more citrus today, though overall focused, sweet, and a little dark. Not as vibrant or complex as it has been, though flavors are deeply integrated. A touch small and simple overall, but compelling.
+
+## Paraiso, Z, 6.025 @ 211ºF, 12.5g/250g Day 30, Score: 5
+
+Excellent first sip. Open, gentle, expressive, delicate. Very soft profile, but lovely take on the peach gummy.

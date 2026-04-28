@@ -105,6 +105,50 @@ A grind-setting change between entries can mean two very different things, and c
 
 **For sensation-based diagnosis** ("smaller + more focused", "bright but thin", etc.): these are only actionable when you can rule out **natural batch aging** as the cause. Volatile aromatics deplete as coffee ages — the cup can legitimately become _smaller and more focused_ at the sweet spot as a property of the aging arc, not a grind miss. Before treating "smaller + focused" as evidence of mild overextraction, ask: has the _score_ dropped, or has only the _character_ shifted? A Score 5 that "feels smaller" than it did a week ago is usually the batch evolving, not the setting drifting.
 
+### Under-rested coffee (Day 1–14): a separate failure mode from extraction
+
+Before diagnosing extraction direction on a young light roast, check the coffee's age. Cups brewed too soon after roast can mimic underextraction *and* overextraction simultaneously, and **no grind adjustment will fix them** — the bean is the problem, not the setting.
+
+**Recommended minimum rest for light-roast filter** (consensus across published roaster and barista guidance):
+
+- **Scott Rao** ([_Resting Roasts: Is Fresher Better?_](https://www.scottrao.com/blog/restingbeans), 2023): 1–4 weeks for filter from air roasters; longer for denser/lighter roasts.
+- **La Cabra** ([_Resting Coffee_](https://lacabra.com/pages/resting-coffee)): minimum **10 days**, with quality often improving past 6 weeks for dense lots; recipes are bucketed <3 wk / 3–6 wk / >6 wk.
+- **April Coffee** (Copenhagen): 14 days minimum before brewing.
+- **Hoffmann**, **Tim Wendelboe**, **Sey**, **Hydrangea**, **September**: typically 10–21 days for light filter.
+- **Experimentally-processed lots** (anaerobic, double-fermented, thermal-shock, co-ferment): need *more* rest, not less — typically 3–4+ weeks. Ferment volatiles need to settle alongside CO₂.
+
+**Why under-rested coffee tastes the way it does:**
+
+1. **CO₂ blocks extraction mechanically** ([Gagné](https://coffeeadastra.com), _The Physics of Filter Coffee_; [Rao](https://www.scottrao.com), 2023). Trapped CO₂ outgasses violently when wetted, physically pushing water away from the grounds, causing channeling and uneven saturation. Yield drops; the cup tastes underextracted **even when grind, ratio, and temp are correct for the rested version.**
+2. **Volatiles haven't softened.** La Cabra: in young coffee, "harsh and astringent flavours, which can even be perceived as a 'roast' character, soften out" during rest. Maillard/pyrolysis products evolve over the first 1–3 weeks (Smrke et al., [_J. Agric. Food Chem._ 2017](https://pubs.acs.org/doi/10.1021/acs.jafc.7b03310)).
+
+**Diagnostic vocabulary (under-rested signature):**
+
+- "Muddy intro", "almost no real flavors", "presents as highly underextracted" — the CO₂-blocked-extraction picture.
+- "Roasty", "metallic", "savory/gravy", "harsh", "carbonic", "fizzy", "hay-like" — the unsettled-volatiles picture.
+- Often **persists across dry aroma, wet aroma, and taste** — i.e., the off-quality is in the bean, not introduced by water/brew technique.
+- Often **persists across multiple coffees from the same roaster** brewed in the same window — i.e., the off-quality is in the roast freshness, not the bean.
+
+**The cross-checks that point to "under-rested" rather than "wrong setting":**
+
+1. **Same off-flavor across two different beans from the same roaster** at similar days off roast → it's a roast-batch / freshness property, not a per-bean grind miss.
+2. **Same off-flavor across two different brewing waters** (e.g., RO and TWW) → rules out water mineralization as the cause.
+3. **Same off-flavor on dry aroma + wet aroma + taste** → rules out brewing-water-side issues entirely; the volatiles are baked into the bean's current state.
+4. **No improvement in cooldown** despite the cup reading as underextracted. Honest underextraction usually opens up as it cools (beta-damascenone and similar aromatics become more perceptible); CO₂-blocked / under-rested cups stay flat.
+
+When 2 of these 4 cross-checks hold, treat the cup as **rest-limited, not setting-limited.** Do not chase the spiral. The correct intervention is **time**, not grind.
+
+**Direction-of-grind compensation if you must brew under-rested:**
+
+Counterintuitively for filter, the consensus is **finer + cooler + shorter contact**, not coarser:
+
+- La Cabra's <3-week recipe: ground "rather finer than a typical V60 brew", lower temp (~90 °C / 194 °F vs. 94 °C / 201 °F), shorter contact time.
+- Logic: since CO₂ is suppressing yield, give water more surface area and easier penetration to compensate. (This is the **opposite** direction from the espresso rest-period rule, where back-pressure forces coarser.)
+
+**Caveat on "metallic" specifically:** metallic notes are not a textbook signature of under-rested coffee in the rest-period literature — that vocabulary leans more on sharp/savory/carbonic/hay-like/astringent. Metallic can also indicate **water mineral imbalance** (low alkalinity, high sulfate, copper/iron contamination), **over-developed roast**, or **oxidized lipids**. When metallic appears alongside the under-rested signature, run cross-check #2 (different waters) and cross-check #1 (different beans, same roaster) to isolate. If both cross-checks come back with the same metallic note, the bean/roast is the source.
+
+**Implication for journal-data interpretation:** entries from a coffee's first ~10 days off roast are **low-trust diagnostic data**. Don't fit drift slope through them; don't update bean-conditional priors from them; don't draw verdicts about roast development quality (e.g., "this roaster goes too dark") from them. Wait for Day 14+ before judging the coffee itself.
+
 ### Does drift-based prediction apply to this journal?
 
 The drift framework above is the core methodology of this guide, but it is **not** universally applicable. Before using it on a new journal, verify the hypothesis holds on this user's data. If it doesn't, predictions based on drift will be worse than a trivial baseline — sometimes much worse.
