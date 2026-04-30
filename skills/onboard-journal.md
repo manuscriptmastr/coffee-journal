@@ -53,7 +53,7 @@ Before committing to drift-based prediction for this journal, run the checks in 
 
 ## Step 4: Document the verdict explicitly
 
-In profile.md §8, state whether drift-based prediction applies, and which fallback is in use if not. See `tim-hwang/profile.md` §8 for an example of a profile that explicitly **disables** drift with full evidence.
+In profile.md §8, state whether drift-based prediction applies, and which fallback is in use if not. If drift doesn't apply, document the evidence explicitly (the §8 sanity-check failures: roaster grouping, age coefficient sign and magnitude, bean × age interaction strength, score variance decomposition) so future agents can audit the verdict.
 
 ## Step 5: Walk-forward validation
 

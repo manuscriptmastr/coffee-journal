@@ -81,5 +81,3 @@ For cups with **defined, peaking acidity** ("brilliant", "effervescent", "grape 
 ## Related profile sections
 
 When diagnosing in Joshua's journal: see `joshua-martin/profile.md` §11 "Known failure modes" (La Esperanza 2 spiral, SEY misleading astringency, H&S batch 3 acceleration) and §13 "Vocabulary map" for per-descriptor direction.
-
-When diagnosing in Tim's journal: per-brew tasting notes exist in `tim-hwang/brews_with_notes.csv`; see profile §12 for vocabulary patterns. Bitter is monotonic (cleanest negative); astringency is U-shaped (can appear at Score 8+ as bright-acidic, not rough-over).

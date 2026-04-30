@@ -32,4 +32,4 @@ Your prediction rationale — drift math, anchors, guardrails, what vocabulary w
 
 ## Cross-journal note
 
-This convention is universal across this repo's journals, but entry-header formats differ per journal (Joshua uses prose Markdown headers; Tim uses CSV rows). Check the journal's existing entries before writing the first line, and match its format exactly.
+This convention is universal across this repo's journals, but entry-header formats differ per journal (some use prose Markdown headers; others use CSV rows). Check the journal's existing entries before writing the first line, and match its format exactly.

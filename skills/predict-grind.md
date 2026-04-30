@@ -9,7 +9,7 @@ This skill executes the grind-setting prediction workflow for a coffee in a main
 Before predicting, load **both**:
 
 1. `AGENT_GUIDE.md` at the repo root — universal methodology (drift physics, vocabulary, prediction method, spiral diagnosis).
-2. The `profile.md` of the journal you're predicting for (e.g., `joshua-martin/profile.md`, `tim-hwang/profile.md`) — that journal's numeric calibration, roaster drift rates, failure modes.
+2. The `profile.md` of the journal you're predicting for (e.g., `joshua-martin/profile.md`) — that journal's numeric calibration, roaster drift rates, failure modes.
 
 If the user hasn't named the journal, infer from context (whose coffee is it / which folder contains recent entries for this coffee) or ask.
 

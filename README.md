@@ -7,7 +7,6 @@ The **goal**: predict the sweet-spot grind setting for a given coffee at a given
 ## Maintainers' journals
 
 - [`joshua-martin/`](./joshua-martin/) — Joshua Martin (Lagom P64, Z1/Orea, specialty light roast). Drift-based prediction applies.
-- [`tim-hwang/`](./tim-hwang/) — Tim Hwang (coarser-step grinder, ~1900 brews). Drift-based prediction is explicitly **disabled** for this journal; see that profile's §8 for the walked-through sanity checks.
 
 ## For coding agents
 
