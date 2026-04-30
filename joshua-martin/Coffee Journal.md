@@ -4018,4 +4018,6 @@ Clean, soapy-like passionfruit. Purplish. Lovely cooldown. Sweet-tart.
 
 Good melded qualities, but a little muddy and dark overall though still a bit pointy/citric.
 
-## Paraiso, Z, 6.1 @ 211ºF, 12.5g/250g Day 32, Score:
+## Paraiso, Z, 6.1 @ 211ºF, 12.5g/250g Day 32, Score: 4
+
+Begins very soft with the peach gummy quality, each sip having an initial short 'glow' before falling off. As the cup cools, flavor volume increases, while mouth becomes a little 'loud' scratchy. Expansiveness of cup grows through the very last sip. Peach gummy flavor is just barely out of focus. A lovely cup overall.
