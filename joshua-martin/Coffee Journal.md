@@ -4001,3 +4001,21 @@ Slightly more citrus today, though overall focused, sweet, and a little dark. No
 ## Paraiso, Z, 6.025 @ 211ºF, 12.5g/250g Day 30, Score: 5
 
 Excellent first sip. Open, gentle, expressive, delicate. Very soft profile, but lovely take on the peach gummy.
+
+## La Isabela, Z, 6.05 @ 211ºF, 12.5g/250g Day 31, Score: 5
+
+A lovely, crisp cup. Fruits and sweetness nicely poised and clean through cooldown.
+
+## Amber Drop, Z, 5.5 @ 205ºF, 12.5g/250g Day 12, Score: 4
+
+Good cleanliness, somewhat darker fruit quality, good sweetness. Not screaming, but balanced and clean profile through cooldown. Waiting for the personality to really kick in.
+
+## Monteblanco, Z, 6.05 @ 211ºF, 12.5g/250g Day 31, Score: 5
+
+Clean, soapy-like passionfruit. Purplish. Lovely cooldown. Sweet-tart.
+
+## Pena, Z, 6.075 @ 211ºF, 12.5g/250g Day 32, Score: 4
+
+Good melded qualities, but a little muddy and dark overall though still a bit pointy/citric.
+
+## Paraiso, Z, 6.1 @ 211ºF, 12.5g/250g Day 32, Score:
