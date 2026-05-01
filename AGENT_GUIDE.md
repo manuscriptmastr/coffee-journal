@@ -68,7 +68,7 @@ The exact format is journal-specific — the profile documents this user's heade
 - **Ratings**: Typically a 1–5 scale appended as `Score: X`. **5** = transcendent; **4** = solidly good; **3** = enjoyable with obvious flaws; **2** = unenjoyable; **1** = gross (rare). When scoring is ambiguous, read the notes — sentiment in prose is a more reliable signal than a terse header. Recurring glowing adjectives (e.g., "Stunning", "Knockout", "Magical", "Musical" — the profile lists this user's set) reliably proxy Score 5 even when the explicit score was omitted.
 - **Sweet-spot markers**: Users flag dialed-in cups with their own convention (`**Sweet spot**`, "dialed in", etc. — profile records theirs).
 - **"Should have been X"**: A correction — the user's retrospective estimate of the true sweet spot for that day. These are gold for calibration.
-- **Day X**: Days since roast date.
+- **Day X**: Days since roast date. **Counting convention varies per journal** — some maintainers count the roast date as Day 0 (so Day 1 = the day after roast), others as Day 1 (so the roast date itself is Day 1). Always confirm against the journal's own recent entries: pick a coffee whose roast date you know, find its latest entry, and verify the Day number matches your assumed convention. Off-by-one errors here cascade through every drift calculation.
 
 ## Core Concept: Sweet Spot Drift
 

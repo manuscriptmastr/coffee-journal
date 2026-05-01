@@ -4021,3 +4021,19 @@ Good melded qualities, but a little muddy and dark overall though still a bit po
 ## Paraiso, Z, 6.1 @ 211ºF, 12.5g/250g Day 32, Score: 4
 
 Begins very soft with the peach gummy quality, each sip having an initial short 'glow' before falling off. As the cup cools, flavor volume increases, while mouth becomes a little 'loud' scratchy. Expansiveness of cup grows through the very last sip. Peach gummy flavor is just barely out of focus. A lovely cup overall.
+
+## La Isabela, Z, 6.075 @ 211ºF, 12.5g/250g Day 32, Score: 4
+
+Nice crisp quality, though flavors are held back. Possible hint of jasmine. Becomes more crisp as cools with slightly more flavor, but strangely moderate. Finish is pretty heavy.
+
+## Monteblanco, Z, 6.125 @ 211ºF, 12.5g/250g Day 33, Score: 5
+
+A lovely soapy purple passionfruit cup. Sweet, juicy, almost tight at times, but exciting flavors.
+
+## Pena, Z, 6.125 @ 211ºF, 12.5g/250g Day 33, Score: 5
+
+A lovely soft, spicy, very sweet cup. There may be more room for complexity, but this profile is very compelling with a single-minded and sweet luxury.
+
+## Paraiso, Z, 6.15 @ 211ºF, 12.5g/250g Day 33, Score: 4
+
+Very soft with slightly watery and far-off funky peach gummy surrounding. **6.125**. Out of focus a bit, but profoundly soft and open, just in need of some focus.
