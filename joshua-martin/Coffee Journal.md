@@ -4037,3 +4037,11 @@ A lovely soft, spicy, very sweet cup. There may be more room for complexity, but
 ## Paraiso, Z, 6.15 @ 211ºF, 12.5g/250g Day 33, Score: 4
 
 Very soft with slightly watery and far-off funky peach gummy surrounding. **6.125**. Out of focus a bit, but profoundly soft and open, just in need of some focus.
+
+## La Isabela, Z, 6.175 @ 211ºF, 12.5g/250g Day 34, Score: 4
+
+A little underextracted but some great grape flavor, though the glow and finish is fairly short and "falls off". \*_6.15_ for now?
+
+## Monteblanco, Z, 6.15 @ 211ºF, 12.5g/250g Day 34, Score: 5
+
+Absolutely lovely flavors and balance.
