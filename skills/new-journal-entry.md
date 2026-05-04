@@ -8,6 +8,10 @@ Maintainers fill in tasting notes themselves after brewing. Agents only write th
 
 Before writing anything, run the prediction workflow from the `predict-grind` skill (or its equivalent procedure in `AGENT_GUIDE.md` §"Agent Quick-Start"). You need a specific predicted grind value and Day number to write a meaningful header.
 
+**Always look up the current date programmatically — every time, no exceptions.** Run `date` (or your environment's equivalent shell call) before deriving Day N. Do **not** trust the "Today's date" line in your system prompt / environment block, your own arithmetic from earlier in the conversation, or the date implied by the most recent journal entry. Multi-turn sessions can cross midnight; environment dates can be stale or wrong.
+
+**Day N is always `(today − roast_date)` in calendar days** — never copied from the Day label of the most recent sibling entry sitting above your insertion point. Sibling labels can be off-by-one from a prior mislabeled session; if they disagree with the calendar math, the calendar wins and the new entry uses the correct Day N even when it doesn't match the siblings immediately above. The roast date is in the journal's `profile.md` (per-batch) or can be back-derived: `roast_date = entry_calendar_date − entry_Day_N` from any prior batch-mate whose calendar date is known.
+
 ## Step 2: Write only the header line
 
 Append a single header line to the journal file (e.g., `joshua-martin/Coffee Journal.md`), matching the journal's format. For Joshua's journal:
