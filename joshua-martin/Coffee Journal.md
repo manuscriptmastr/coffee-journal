@@ -4045,3 +4045,23 @@ A little underextracted but some great grape flavor, though the glow and finish 
 ## Monteblanco, Z, 6.15 @ 211ºF, 12.5g/250g Day 34, Score: 5
 
 Absolutely lovely flavors and balance.
+
+## Pena, Z, 6.2 @ 211ºF, 12.5g/250g Day 35, Score: 4
+
+A touch on the gentler, weaker side, but pretty good flavors. This may not be my favorite Pena iteration as it more resembles September's version than H&S/Sey.
+
+## Paraiso, Z, 6.2 @ 211ºF, 12.5g/250g Day 35, Score: 4
+
+Lovely first sip, with the funky peach gummy quality. Second sip is also lovely and substantial. Continues to hold interest and volume through end. Barely grainy and scratchy in last couple sips. Sooo darn close, probably leaning barely toward 6.175.
+
+## La Isabela, Z, 6.2 @ 211ºF, 12.5g/250g Day 35, Score: 4
+
+Lovely delicate grape candy upfront. Continues to hold integrity. Perhaps just barely more delicate than it could be (similar to Paraiso), but compelling nonetheless. Probably leaning barely toward 6.175.
+
+## Monteblanco, Z, 6.2 @ 211ºF, 12.5g/250g Day 36, Score: 5
+
+A lovely sweet cup. Flavors are melded, easy to drink.
+
+## Pena, Z, 6.2 @ 211ºF, 12.5g/250g Day 36, Score: 5
+
+Oh. Surprisingly decadent yet focused first sip, focusing on the sugary tea qualities immediately. A delicate and bright and refined complexion. This is much more like some of the better cups I've had that resemble a gentle cup of English breakfast tea with sugar and cream. Yikes, that's good. Seems to be that just barely finer actually cleaned this cup up of the weirder/grosser flavors. This is such a clean cup. More cocoa, less eucalyptus, more emphasis on balance and tea complexity. Probably the best cup I've had from this version!
