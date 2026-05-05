@@ -4081,3 +4081,7 @@ Absolutely lovely. Substantial melded flavors but back to clear and even refresh
 ## La Isabela/Monteblanco/Paraiso/Pena, Z, 6.25 @ 211ºF, 12.5g/250g Day 37, Score: 5
 
 Lovely last cup!
+
+## Floral Standard, Z, 5.525 @ 211ºF, 12.5g/250g Day 14, Score: 2
+
+Typical jasmine and tea complexity of a gesha in the surroundings, but missing flavors. Zero sweetness, a hazy spicy surrounding. A barely citric quality. Almost woody tones. Mouth is slightly abrasive/powdery and loud. As cools, the cup continues to be hazy, slightly citric, hinting at jasmine and tea complexity, and just not developed. Last sip is big but same profile.
