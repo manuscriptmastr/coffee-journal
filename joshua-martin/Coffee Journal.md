@@ -4065,3 +4065,19 @@ A lovely sweet cup. Flavors are melded, easy to drink.
 ## Pena, Z, 6.2 @ 211ºF, 12.5g/250g Day 36, Score: 5
 
 Oh. Surprisingly decadent yet focused first sip, focusing on the sugary tea qualities immediately. A delicate and bright and refined complexion. This is much more like some of the better cups I've had that resemble a gentle cup of English breakfast tea with sugar and cream. Yikes, that's good. Seems to be that just barely finer actually cleaned this cup up of the weirder/grosser flavors. This is such a clean cup. More cocoa, less eucalyptus, more emphasis on balance and tea complexity. Probably the best cup I've had from this version!
+
+## Paraiso, Z, 6.2 @ 211ºF, 12.5g/250g Day 36, Score: 5
+
+Quite good!
+
+## La Isabela, Z, 6.225 @ 211ºF, 12.5g/250g Day 37, Score: 4
+
+Heavy perfumy grape finish and surroundings, somewhat hollow flavor that lacks immediacy, luxurious. **6.25**. This is that profile I could easily mistake for underextracted, but it helps to notice how strong the finish and sweetness is in addition to the somewhat watery flavor.
+
+## Monteblanco, Z, 6.25 @ 211ºF, 12.5g/250g Day 37, Score: 5
+
+Absolutely lovely. Substantial melded flavors but back to clear and even refreshing passionfruit. Finish goes on forever.
+
+## La Isabela/Monteblanco/Paraiso/Pena, Z, 6.25 @ 211ºF, 12.5g/250g Day 37, Score: 5
+
+Lovely last cup!
