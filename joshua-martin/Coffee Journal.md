@@ -4085,3 +4085,15 @@ Lovely last cup!
 ## Floral Standard, Z, 5.525 @ 211ºF, 12.5g/250g Day 14, Score: 2
 
 Typical jasmine and tea complexity of a gesha in the surroundings, but missing flavors. Zero sweetness, a hazy spicy surrounding. A barely citric quality. Almost woody tones. Mouth is slightly abrasive/powdery and loud. As cools, the cup continues to be hazy, slightly citric, hinting at jasmine and tea complexity, and just not developed. Last sip is big but same profile.
+
+## Blue Strudel, Z, 5.65 @ 211ºF, 12.5g/250g Day 19, Score: 3
+
+A huge improvement, almost a 4. Clean, expansive, crisp quality, but flavors are far off. Still, remarkably pleasant to drink.
+
+## Amber Drop, Z, 5.6 @ 211ºF, 12.5g/250g Day 19, Score: 4
+
+Somewhat dark in flavor profile yet clean texture, with slightly fermenty/alcoholic tinge and raisin notes. Mouth becomes astringent toward the end. Overall flavor volume is small to medium, with definite sweetness providing nice balance. The slightest suggestion of roastiness — I am getting the sense these coffees are just more developed than what I'm used to. Overall, a balanced cup, but not what I expect of this coffee.
+
+## Blossom Wine, Z, 5.625 @ 211ºF, 12.5g/250g Day 19, Score: 1
+
+Absolutely gross, roasty, green, etc. Perhaps we're going in the wrong direction and should be 5.7-6.
