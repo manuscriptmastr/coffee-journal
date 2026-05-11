@@ -4097,3 +4097,71 @@ Somewhat dark in flavor profile yet clean texture, with slightly fermenty/alcoho
 ## Blossom Wine, Z, 5.625 @ 211ºF, 12.5g/250g Day 19, Score: 1
 
 Absolutely gross, roasty, green, etc. Perhaps we're going in the wrong direction and should be 5.7-6.
+
+## Floral Standard, Z, 5.7 @ 211ºF, 12.5g/250g Day 16, Score: 4
+
+A night and day difference. While the flavor and finish is short-lived, there is a highly defined jasmine note classic to gesha, and a slight orange warmth. There is a slight sweetness but not quite enough. Slightly underextracted? But the jasmine note continues to linger long after finishing the cup.
+
+## Blue Strudel, Z, 5.75 @ 211ºF, 12.5g/250g Day 20, Score: 3
+
+Somewhat syrup-like first, with a slight blueberry tinge in surroundings and finish. Squarely in the middle. Perhaps overextracted? Still no obvious compote notes aside from the slight blue finish.
+
+## Amber Drop, Z, 5.8 @ 211ºF, 12.5g/250g Day 20, Score: 5
+
+More on the fermenty/alcoholic side. Pretty clean raisin/rum/grape acidity. Good sweet + acidic cooldown. A solid cup through and through. I don't know if this is the absolute best the coffee can get, but it was very good nonetheless. 4 or 5.
+
+## Blossom Wine, Z, 5.8 @ 211ºF, 12.5g/250g Day 20, Score: 2
+
+Weird green + roasty offtastes, but less gross and little more clean. Still slightly silty mouthfeel. Genuinely tastes defective. Spices, cocoa, green + roasty flavors, silty mouthfeel. Not quite a 1, but not much better.
+
+## Floral Standard, Z, 5.7 @ 211ºF, 12.5g/250g Day 17, Score: 3
+
+Initially jasmine-forward and more melded, but also slightly woody and not really any acidity. Seems like maybe we were overextracting last time? **5.75 and higher**
+
+## Blue Strudel, Z, 5.85 @ 211ºF, 12.5g/250g Day 21, Score: 3
+
+Gaining some wild raspberry/blueberry acidity in the flavor. Presents as weak, yet the flavor volume is still moderate and perhaps not completely honest. **5.9 and higher?**
+
+## Amber Drop, Z, 5.9 @ 211ºF, 12.5g/250g Day 21, Score: 4
+
+Loss of acidic flavors, replaced by very alcoholic perfuminess. Continues to be heavy on the perfumy side, and not quite as developed in the flavors. Extremely alcoholic as cools, in an exciting way. No bad mouthfeels. **5.85?**
+
+## Floral Standard, Z, 5.75 @ 211ºF, 12.5g/250g Day 17, Score: 3
+
+Interestingly held back jasmine spice. Not much substance or sweetness. Somewhat crisp as cools. Slight hint of citrus. Not bad cooldown.
+
+## Blossom Wine, Z, 6 @ 211ºF, 12.5g/250g Day 22, Score: 3
+
+Genuinely not bad. This is the first time this coffee has not tasted gross. Soft, a little delicate though still dense body, and starting to hint more explicitly at the white flowers quality. Still a weird roasty tinge.
+
+## Blue Strudel, Z, 6.05 @ 211ºF, 12.5g/250g Day 22, Score: 4
+
+Pretty good, actually. More on the raspberry + perfumy side, good through cooldown.
+
+## Amber Drop, Z, 6.05 @ 211ºF, 12.5g/250g Day 23, Score: 4
+
+Actually quite lovely. Loose, large, good flavors + sweetness + interest through very last sip.
+
+## Blossom Wine, Z, 6.1 @ 211ºF, 12.5g/250g Day 23, Score: 3
+
+While this strangely has no real acidity, the overall florality and spice character is certainly in the spirit of an Ethiopian coffee. It is so far the most okay cup I've had, with no defects and an enjoyable texture/balance. Still looking for the flavors.
+
+## Floral Standard, Z, 6 @ 211ºF, 12.5g/250g Day 19, Score: 5
+
+The citrus + jasmine + tea spice complexity is coming to life finally in the flavor itself vs. the finish and surroundings only. Excellent cooldown with that bright gesha sweetness and jasmine. Wow. Pretty darn good. I wonder if I can coax a little more sweetness and focus in, but this is a compelling cup. Perhaps try one more day at this setting to see whether it's improving in focus or losing flavors.
+
+## Blue Strudel, Z, 6.1 @ 211ºF, 12.5g/250g Day 23, Score: 3
+
+Very very loose and open, somewhat short flavor and finish, a bit less fruit or perfume forward, so possibly underextracted. **6.05?**
+
+## Amber Drop, Z, 6.1 @ 211ºF, 12.5g/250g Day 24, Score: 3
+
+Flavors are here and bright but short-lived, same with finish. Go a touch finer, say **6.05?**
+
+## Blossom Wine, Z, 6.075 @ 211ºF, 12.5g/250g Day 24, Score: 2
+
+Classic overextracted Ethiopian characteristics: heavy black tea, somewhat sweet, no other flavors, distinctly silty/powdery mouthfeel, yet unusually balanced texture. This one needs to be notably coarser. **6.15 and higher**.
+
+## Blue Strudel, Z, 6.075 @ 211ºF, 12.5g/250g Day 24, Score: 4
+
+Immediately sweet, a little perfumy, slightly small flavor volume. Melded. Just barely not relaxed or loose or letting flavors bloom. Finish is warm. General aura of berry-like flavors, though not instant. Delicate, though, in cooldown. Berry flavors being more crips and cooling. This feels so close, just lacking the obvious looseness and volume. Barely scratchy. **6.1?**
