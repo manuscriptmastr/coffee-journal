@@ -4165,3 +4165,15 @@ Classic overextracted Ethiopian characteristics: heavy black tea, somewhat sweet
 ## Blue Strudel, Z, 6.075 @ 211ºF, 12.5g/250g Day 24, Score: 4
 
 Immediately sweet, a little perfumy, slightly small flavor volume. Melded. Just barely not relaxed or loose or letting flavors bloom. Finish is warm. General aura of berry-like flavors, though not instant. Delicate, though, in cooldown. Berry flavors being more crips and cooling. This feels so close, just lacking the obvious looseness and volume. Barely scratchy. **6.1?**
+
+## Amber Drop, Z, 6.1 @ 211ºF, 12.5g/250g Day 25, Score: 4
+
+Quite close. Good, delicate flavors, slightly perfumy, a touch tart, still barely short-lived and with some scratchiness in mouth. **6.075, or wait one day? Or significantly coarser?**
+
+## Floral Standard, Z, 6 @ 211ºF, 12.5g/250g Day 21, Score: 4
+
+So close! Flavors are nicely melded and harmonious and more focused, especially the jasmine. It is just barely conservative vs. explosive, making me wonder if **6.025** might be the sweet spot?
+
+## Floral Standard, Z, 6.025 @ 211ºF, 12.5g/250g Day 21, Score: 5
+
+Accidentally did only 164g of liquid, so probably 200g poured? Regardless, it is surprisingly vibrant and expansive in a way no other cups have been... of course that's how it is! Thrillingly citrusy, mouthfilling volume, jasmine and sparkling flavors. Frustratingly good. **Coarser**
