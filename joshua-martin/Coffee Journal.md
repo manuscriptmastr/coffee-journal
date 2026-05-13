@@ -4177,3 +4177,15 @@ So close! Flavors are nicely melded and harmonious and more focused, especially 
 ## Floral Standard, Z, 6.025 @ 211ºF, 12.5g/250g Day 21, Score: 5
 
 Accidentally did only 164g of liquid, so probably 200g poured? Regardless, it is surprisingly vibrant and expansive in a way no other cups have been... of course that's how it is! Thrillingly citrusy, mouthfilling volume, jasmine and sparkling flavors. Frustratingly good. **Coarser**
+
+## Blossom Wine, Z, 6.2 @ 211ºF, 12.5g/250g Day 26, Score: 3
+
+Still no real flavors other than a slightly green/gross note, but textures and looseness and volume are here. **6.3 and higher**
+
+## Blue Strudel, Z, 6.5 @ 211ºF, 12.5g/250g Day 26, Score: 3
+
+Underextracted, but not bad at all. While flavors are short-lived, the raspberry compote note is particularly zingy and tart-sweet-crisp. Increases as cools. Slightly scratchy at the end. Good underextraction ceiling, far less punishing than I expected.
+
+## Amber Drop, Z, 6.3 @ 211ºF, 12.5g/250g Day 26, Score: 4
+
+Lesson learned: seek flavor volume and genuine/fresh flavors above all else, and don't be afraid to find the underextraction ceiling. This is barely soft and needs to be framed/focused better, but has intense and exciting and gigantic personality. Tart-sweet-intense notes, almost too much. A very different cup.
