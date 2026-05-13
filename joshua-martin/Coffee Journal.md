@@ -4188,4 +4188,4 @@ Underextracted, but not bad at all. While flavors are short-lived, the raspberry
 
 ## Amber Drop, Z, 6.3 @ 211ºF, 12.5g/250g Day 26, Score: 4
 
-Lesson learned: seek flavor volume and genuine/fresh flavors above all else, and don't be afraid to find the underextraction ceiling. This is barely soft and needs to be framed/focused better, but has intense and exciting and gigantic personality. Tart-sweet-intense notes, almost too much. A very different cup.
+Lesson learned: seek flavor volume and genuine/fresh flavors above all else, and don't be afraid to find the underextraction ceiling, and work in much larger increments of 10-50 microns (0.1-0.5 on Lagom P64). It gives you so much information and the cups aren't bad at all. This is barely soft and needs to be framed/focused better, but has intense and exciting and gigantic personality. Tart-sweet-intense notes, almost too much. A very different cup.
