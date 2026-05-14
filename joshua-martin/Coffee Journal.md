@@ -4189,3 +4189,23 @@ Underextracted, but not bad at all. While flavors are short-lived, the raspberry
 ## Amber Drop, Z, 6.3 @ 211ºF, 12.5g/250g Day 26, Score: 4
 
 Lesson learned: seek flavor volume and genuine/fresh flavors above all else, and don't be afraid to find the underextraction ceiling, and work in much larger increments of 10-50 microns (0.1-0.5 on Lagom P64). It gives you so much information and the cups aren't bad at all. This is barely soft and needs to be framed/focused better, but has intense and exciting and gigantic personality. Tart-sweet-intense notes, almost too much. A very different cup.
+
+## Blue Strudel, Z, 6.25 @ 211ºF, 12.5g/250g Day 26, Score: 3
+
+Punchy, but not explicitly berry-forward. Not as substantial or direct as I was hoping. Not as good as 6.5, so consider somewhere between **6.3-6.45**
+
+## Amber Drop, Z, 6.3 @ 211ºF, 12.5g/250g Day 27, Score: 4
+
+A bit more melded/sweet, slightly less explicit flavor. Good glow and gentleness. Still not quite there. **Keep one more day?**
+
+## Blossom Wine, Z, 6.4 @ 211ºF, 12.5g/250g Day 27, Score: 3
+
+Not bad. Gentle flavors, just not the tasting notes.
+
+## Floral Standard, Z, 6.2 @ 211ºF, 12.5g/250g Day 23, Score: 4
+
+Great flavors, a little on the softer side. Can this be pushed?
+
+## Floral Standard, Z, 6.15 @ 211ºF, 12.5g/250g Day 23, Score: 4
+
+Sharper, more potent, more immediate flavor in first sip. More melded. Slightly tight in mouth, even through cooldown. Makes me wonder if **6.2 or higher** is the way to go?
