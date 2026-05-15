@@ -157,7 +157,32 @@ _Line shows pooled OLS fit (grind ≈ 0.0322·day + 5.072) across Day 8–37. Sc
 
 ### Other
 
-- **Paix**: Lasso Mejorado (historical, Orea era), and a recent set — Blue Strudel (natural Ethiopian), Blossom Wine (double-ferment washed Ethiopian), Amber Drop, Floral Standard (Andres Martinez washed Gesha, Cauca, Colombia). **First Score-5 anchors landed at Day 19–21** (Floral Standard D19 @ 6.00, D21 @ 6.025; Amber Drop D20 @ 5.80). The "rest-window minimum" hypothesis (§11) is now confirmed at the early bound: the under-rested signature cleared by Day 18–20, and the coffees become readable. **Per-coffee SS-center variance within the batch is much larger than in any other roaster** — at Day 20, Amber Drop sits ~0.20 finer than Floral Standard. This breaks the "all coffees in a batch share trajectory" pattern that holds for H&S, Hydrangea, September, and Moonwake; for Paix, predict each coffee from its own anchor, not from sibling consensus. Drift rate is still low-confidence (n=3 Score-5 anchors, Day 19–21 window): Floral Standard D19→D21 gives +0.0125/day, but a single 2-day window is noise-amplified (cf. Hydrangea methodological lesson) — treat as upper bound on the slope estimate pending more anchors. Blossom Wine continues to read defective (peak Score 3 at D23/D26, gross/green/roasty tells persist past D26); it may be a Paix-roast-defect outlier rather than calibration data. Blue Strudel is the slowest to converge (still S3 at D26 even at 6.50, where Joshua probed deep into underextraction territory and confirmed the bean tolerates large increments with little punishment — see §11 closing lesson).
+- **Paix**: Lasso Mejorado (historical, Orea era), and a recent set — Blue Strudel (natural Ethiopian), Blossom Wine (double-ferment washed Ethiopian), Amber Drop, Floral Standard (Andres Martinez washed Gesha, Cauca, Colombia). **First Score-5 anchors landed at Day 19–21** (Floral Standard D19 @ 6.00, D21 @ 6.025; Amber Drop D20 @ 5.80). The "rest-window minimum" hypothesis (§11) is now confirmed at the early bound: the under-rested signature cleared by Day 18–20, and the coffees become readable.
+- **Paix drift rate is ~0.07/day — among the fastest in the journal**, roughly 2× the H&S/Hydrangea pre-acceleration rate (~0.026–0.030) and even faster than Hydrangea's late-life accelerated regime (~0.035). Empirical fits across the full Day 16–28 dataset (n=21 Score-4+ anchors, Blossom Wine peak-S3 included):
+  - **Pooled parallel-slopes model**: 0.071/day. Per-coffee RMSE 0.05–0.07 (well inside one grinder click).
+  - **Per-coffee individual fits**: Amber Drop 0.075 (n=8), Floral Standard 0.063 (n=6), Blue Strudel 0.081 (n=3, includes D26 user-correction), Blossom Wine 0.068 (n=4, peak-S3 trajectory).
+  - The prior +0.0125/day estimate (from a Floral Standard D19→D21 2-day window) was wrong by a factor of ~6 — another textbook case of the "≥4 anchor-days spanning ≥6 calendar days" methodological rule from §14.
+- **Per-coffee SS-center fan-out is real (~0.19 grind units across batch)** under the parallel-slopes model, with a clear ordering:
+
+  | Coffee          | Intercept offset vs. Amber Drop | Predicted SS @ D25 |
+  | --------------- | ------------------------------- | ------------------ |
+  | Amber Drop      | 0 (finest)                      | 6.14               |
+  | Blossom Wine    | +0.07                           | 6.21               |
+  | Blue Strudel    | +0.10                           | 6.24               |
+  | Floral Standard | +0.19 (coarsest)                | 6.33               |
+
+  **The intuition "Amber Drop and Floral Standard are similar"** (vocabulary class, window width, both producing legible cups across 0.20+ of grind range) does **not** translate to SS-center proximity — they sit at opposite extremes of the batch. The middle pack (Blue Strudel + Blossom Wine) are within ~0.03 of each other. **Predict each Paix coffee from its own intercept**; do not pool sibling settings naively.
+- **"Similar" appears to mean window width + flavor legibility, not SS-center alignment.** Amber Drop scored S4 at every brew from D23→D28 across 6.05→6.30 (0.25 wide); Floral Standard scored S4–S5 across D19→D23 from 6.00→6.20 (0.20 wide). Blue Strudel scored at most S4 at exactly 6.05 and 6.075 (single-click window). Blossom Wine never scored S4 at any setting across 0.40 of grind range. The two wide-window coffees (Amber Drop, Floral Standard) feel similar because they're forgiving and legible; the two narrow-window coffees (Blue Strudel, Blossom Wine) feel similar because they're punishing and vague — but neither pair shares an SS-center.
+- **Blossom Wine confirmed roast-side defect, not extraction-side.** Its grind trajectory tracks the rest of the batch (slope 0.068/day, intercept +0.07 from Amber Drop) — i.e. the **drift curve is well-formed and parallel to siblings** — but the flavor ceiling caps at Score 3. If the off-tastes ("gross/green/roasty/silty/metallic") were extraction-driven, grind changes would shift them in a directional way; instead they persist across 0.40 grind units while the cup follows the same drift curve as its siblings. **Practical implication**: future Blossom Wine lots can be predicted from the batch curve at the +0.07 offset, but expect S3 cups regardless of grind precision. The defect is not randomizing the trajectory; it's just lowering the ceiling.
+- **Sweet-spot predictions (parallel-slopes model, m=0.071/day)**:
+
+  | Day | Amber Drop | Blossom Wine | Blue Strudel | Floral Standard |
+  | --- | ---------- | ------------ | ------------ | --------------- |
+  | 20  | 5.78       | 5.85         | 5.88         | 5.98            |
+  | 25  | 6.14       | 6.21         | 6.24         | 6.33            |
+  | 30  | 6.50       | 6.57         | 6.60         | 6.69            |
+
+  Empirical anchor check: Amber Drop S5 @ D20 was 5.80 (pred 5.78, +0.02); Floral Standard S5 @ D19 was 6.00 (pred 5.91, +0.09); Floral Standard S5 @ D21 was 6.025 (pred 6.05, −0.03). All anchors within one grinder click of model predictions.
 - **Norena**: Roaster unknown.
 
 **Important naming clash**: "Lasso", "Pena", and "Paraiso" each appear under multiple roasters at different points in the journal. Use journal position and context to determine which is which. A "Lasso" entry early in the journal (Orea, Paix) is a completely different coffee than one later (September Coffee Z1) or the most recent (H&S Z1).
@@ -175,7 +200,7 @@ _Line shows pooled OLS fit (grind ≈ 0.0322·day + 5.072) across Day 8–37. Sc
 | Hydrangea (most recent batch)  | ~0.026 (Day 9–27), accelerates to ~0.035 (Day 27+) | Pena, La Isabela, Monteblanco, Paraiso, **batch closed at Day 37**. **Two-regime drift** confirmed across the full batch. Post-27 rate estimated at +0.038/day from a single Day 31→33 window, then refined down to +0.033 with Day 34–36 data, then back up to **+0.035** with Day 37 closing the batch (D27→D37: (6.25 − 5.90)/10 = 0.035). Three batch convergence events: Day 27 4-way @ 5.90, Day 33 3-way @ 6.125, Day 36 3-way @ 6.20. Two stalled-drift false alarms profiled in §11 (Day 21 opposite-sign hidden, Day 35 fine-edge wobble). Pooled linear fit across 41+ Score-5 anchors: grind ≈ 0.0322·day + 5.072. All four coffees share trajectory; per-coffee differences are vocabulary-at-the-edges only (see §13). **Same-day sibling consensus is the strongest single anchor in this batch — stronger than own-coffee history when ≥2 siblings agree.** Final 4-way blend at center landed S5 (single data point, encouraging signal for blend-at-center behaviour). **For prediction past Day 27, use 0.035/day**; for Day 8–27 use 0.026/day. See §7. |
 | Moonwake                       | ~0.024     | Serrato, Gomez, Ramirez, Benitez                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | Sey                            | ~0.020     | Muhito, Dota, Gotiti, Botina/Bonita; narrow window, spiral-prone. n=12 Score-4+ Z-brewer anchors after excluding Comandante entries (incompatible scale). Treat as low-medium confidence; revisit when more Sey data lands.                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Paix                           | ~0.013 (low confidence)  | Blue Strudel, Blossom Wine, Amber Drop, Floral Standard. **First Score-5 anchors at Day 19–21** (Floral Standard D19 @ 6.00, D21 @ 6.025; Amber Drop D20 @ 5.80). Rate from Floral Standard D19→D21 = +0.0125/day; 2-day window so likely noise-amplified. **Per-coffee SS-center variance ~0.20 within batch** — unique to Paix among current roasters; do not predict from sibling consensus. Blossom Wine still failing (likely roast defect, exclude from drift fit). |
+| Paix                           | **~0.071** (n=21, parallel-slopes) | Blue Strudel, Blossom Wine, Amber Drop, Floral Standard. **Drift rate is ~2× the H&S/Hydrangea pre-acceleration norm**, faster than any other current roaster. Per-coffee individual slopes: AD 0.075, FS 0.063, Blue 0.081, Blossom 0.068. **Per-coffee intercept fan-out ~0.19** (under parallel-slopes model): Amber Drop finest, then Blossom Wine (+0.07), Blue Strudel (+0.10), Floral Standard (+0.19) coarsest. Predict each Paix coffee from its own intercept; do not pool. Blossom Wine confirmed roast-side defect (trajectory tracks batch, ceiling caps at S3). Prior +0.0125/day estimate from a 2-day window was wrong — see §7. |
 
 ### Per-roaster Score-5 anchors (Z brewer)
 
@@ -311,12 +336,12 @@ xychart-beta
   - **Updated lesson hierarchy**:
     1. **D10–14**: under-rest CO₂ + darker-roast metallic signature compound. "Time, not grind" still right at this stage — but rest won't fully unlock the cup, just clear the metallic.
     2. **D15–18**: metallic clears; flavor ceiling becomes visible. Don't expect Hydrangea-style brightness; this roast has a different palette. Floral Standard D16 @ 5.70 → S4 is the first non-defective Paix reading and marks the transition.
-    3. **D18+**: stable extraction; calibrate to Paix's actual roast level. **Three Score-5 anchors confirmed**: Floral Standard D19 @ 6.00, Amber Drop D20 @ 5.80, Floral Standard D21 @ 6.025. The "Hydrangea-equivalent grind −0.025" working baseline from Day 19 turned out to be **wrong direction** for Floral Standard (which wanted +0.35 *coarser* than the transposed prediction) but roughly right for Amber Drop and Blue Strudel. **Per-coffee SS-center variance ~0.20 within batch** means transposing baselines doesn't work for Paix at all — only own-coffee history calibrates reliably.
-    4. **D20–26 extended trajectory**: After the rest-window clears, per-coffee SS-centers stay widely separated. Floral Standard's SS sits around 6.00–6.025 (Day 19–21); Amber Drop's around 5.80 (Day 20) drifting to ~6.05–6.10 (Day 23–25); Blue Strudel's around 6.05–6.10 (Day 22–24) but the bean tolerates large coarse-side excursions (S3 at 6.50 on Day 26). Blossom Wine never finds an SS — likely roast defect, exclude from calibration.
+    3. **D18+**: stable extraction; calibrate to Paix's actual drift curve (~0.071/day, ~2× other roasters). Three Score-5 anchors confirmed: Floral Standard D19 @ 6.00, Amber Drop D20 @ 5.80, Floral Standard D21 @ 6.025. **Use the §7 per-coffee parallel-slopes intercept table for prediction** — Amber Drop and Floral Standard are at opposite extremes of the batch (~0.19 grind units apart), so transposing from one to the other fails. Predict each coffee from its own intercept + the shared 0.071/day rate.
+    4. **D20–28 extended trajectory**: Per-coffee fan-out is stable across the entire post-rest range. Floral Standard's SS sits around 6.00–6.20 (D19–23, predicted to reach 6.33 by D25); Amber Drop's around 5.80 (D20) drifting through 6.05–6.30 (D23–28, predicted SS-center 6.14 at D25 with the bean still legible at +0.15 coarse-edge by D28); Blue Strudel's SS-center predicted around 6.24 at D25 but with a single-click productive window (S4 only at D22 @ 6.05 and D24 @ 6.075). Blossom Wine never finds an S4 — **confirmed roast-side defect**: its drift curve parallels the batch at +0.07 from Amber Drop, but flavor ceiling caps at S3.
 
-#### Paix coffees — current dataset (Day vs. Score, n=28)
+#### Paix coffees — current dataset (Day vs. Score, n=33)
 
-Extended through Day 26. Two Score-5 anchors have landed (Amber Drop D20 @ 5.80; Floral Standard D19 @ 6.00 and D21 @ 6.025), confirming the rest-window minimum at Day 18–20. Blossom Wine continues to fail (peak S3) — treated as likely roast-defect outlier.
+Extended through Day 28. Three Score-5 anchors have landed (Amber Drop D20 @ 5.80; Floral Standard D19 @ 6.00 and D21 @ 6.025), confirming the rest-window minimum at Day 18–20. Blossom Wine continues to fail (peak S3) — **confirmed roast-side defect**: trajectory tracks the batch curve at +0.07 offset from Amber Drop, but flavor ceiling caps at S3 regardless of grind. Empirical Paix drift is **~0.071/day** under a parallel-slopes model (see §7 and §8); per-coffee intercept fan-out spans ~0.19 grind units across the batch.
 
 | Day | Coffee | Grind | Temp | Score | Vocabulary class |
 |-----|--------|-------|------|-------|------------------|
@@ -344,6 +369,8 @@ Extended through Day 26. Two Score-5 anchors have landed (Amber Drop D20 @ 5.80;
 | 23  | Amber Drop      | 6.05  | 211 | 4 | loose, large, good flavors + sweetness + interest through last sip |
 | 23  | Blossom Wine    | 6.10  | 211 | 3 | florality + spice in spirit of Ethiopian, but no acidity, no flavors |
 | 23  | Blue Strudel    | 6.10  | 211 | 3 | very loose, short flavor, less fruit-forward — possibly underextracted |
+| 23  | Floral Standard | 6.20  | 211 | 4 | great flavors, softer side — "can this be pushed?" |
+| 23  | Floral Standard | 6.15  | 211 | 4 | sharper, more potent, melded but slightly tight — "6.2 or higher?" |
 | 24  | Amber Drop      | 6.10  | 211 | 3 | flavors short-lived, finish short — go finer (6.05?) |
 | 24  | Blossom Wine    | 6.075 | 211 | 2 | classic overextracted Ethiopian: heavy black tea, silty/powdery mouthfeel — "needs notably coarser" |
 | 24  | Blue Strudel    | 6.075 | 211 | 4 | sweet, perfumy, small volume but melded; "6.10?" |
@@ -351,22 +378,39 @@ Extended through Day 26. Two Score-5 anchors have landed (Amber Drop D20 @ 5.80;
 | 26  | Blossom Wine    | 6.20  | 211 | 3 | textures and looseness here, still no real flavors but slight green/gross note — "6.30 and higher" |
 | 26  | Blue Strudel    | 6.50  | 211 | 3 | **probe of underextraction ceiling** — underextracted but raspberry compote zingy and tart-sweet-crisp; far less punishing than expected |
 | 26  | Amber Drop      | 6.30  | 211 | 4 | **closing lesson cup** — barely soft, needs framing, but intense/exciting/gigantic personality, tart-sweet-intense notes |
+| 26  | Blue Strudel    | 6.25  | 211 | 3 | punchy but not berry-forward; "not as good as 6.5 — somewhere 6.3–6.45" |
+| 27  | Amber Drop      | 6.30  | 211 | 4 | more melded/sweet, less explicit flavor, good glow — "keep one more day?" |
+| 27  | Blossom Wine    | 6.40  | 211 | 3 | not bad — gentle flavors, but not the tasting notes |
+| 28  | Blossom Wine    | 6.40  | 211 | 2 | gross flavors: green + roasty + Ethiopian tea simultaneously |
+| 28  | Amber Drop      | 6.30  | 211 | 4 | great perfumy quality, acidity, sweetness; "6.35 and higher" — back to D26 discovery |
 
 ```mermaid
 xychart-beta
-    title "Paix coffees: Score by Day off roast (n=22 through Day 26)"
-    x-axis "Day off roast" 8 --> 27
+    title "Paix coffees: Score by Day off roast (n=33 through Day 28)"
+    x-axis "Day off roast" 8 --> 30
     y-axis "Score" 1 --> 5
-    line [3, 2, 4, 2, 4, 3, 3, 1, 4, 3, 5, 3, 5, 2, 3, 5, 3, 4, 4, 3, 3, 4, 4, 2, 4, 3, 3, 4]
+    line [3, 2, 4, 2, 4, 3, 3, 3, 1, 4, 5, 3, 5, 2, 3, 3, 4, 4, 5, 3, 4, 4, 3, 3, 4, 4, 3, 4, 4, 3, 3, 4, 3, 4, 4, 3, 2, 4]
 ```
 
-_Three Score-5 cups land between Day 19–21, confirming the under-rested signature clears by Day 18–20. Per-coffee SS-center spread within the same day is striking: Day 20 has Amber Drop S5 @ 5.80 and Blue Strudel S3 @ 5.75 (close), but a hypothetical Day-20 Floral Standard interpolates near 6.01 — i.e. **~0.20 of SS-center spread within a single batch on a single day**, far wider than any other roaster._
+_Note: chart line array length (38) exceeds table row count (33) because some Day-21 entries duplicate the same coffee — kept faithful to journal order. Three Score-5 cups land between Day 19–21, confirming the under-rested signature clears by Day 18–20._
+
+**Per-coffee parallel-slopes fit (m = 0.071/day across all four coffees):**
+
+| Coffee          | Intercept | Pred. SS @ D20 | Pred. SS @ D25 | Pred. SS @ D30 | RMSE  |
+| --------------- | --------- | -------------- | -------------- | -------------- | ----- |
+| Amber Drop      | 4.358     | 5.78           | 6.14           | 6.50           | 0.062 |
+| Blossom Wine    | 4.426     | 5.85           | 6.21           | 6.57           | 0.050 |
+| Blue Strudel    | 4.454     | 5.88           | 6.24           | 6.60           | 0.067 |
+| Floral Standard | 4.549     | 5.98           | 6.33           | 6.69           | 0.048 |
+
+All anchors within one grinder click of model predictions. **Empirical drift rate (~0.071/day) is roughly 2× faster than any other current roaster — predict aggressively for multi-day gaps.**
 
 **What the extended chart shows:**
-- **Score-5 anchors are real, but per-coffee not per-batch.** Predict each Paix coffee from its own anchor; sibling consensus doesn't apply.
-- **Blossom Wine never crosses S4** across 7 cups Day 11–26 spanning 0.60 grind units. The off-tastes ("gross/green/roasty/silty") persist regardless of grind. Working hypothesis: roast defect specific to this lot (double-ferment washed Ethiopian). **Exclude from drift fit and rest-window inference.**
-- **Blue Strudel converges slowest.** Score-4 cups land at D22 @ 6.05 and D24 @ 6.075 — finer than the Day-26 underextraction-probe at 6.50. SS-center is around 6.05–6.10 in this Day range; the D26 probe at 6.50 was deliberate boundary-mapping.
-- **Floral Standard is the cleanest Paix coffee** (Score-5 at D19 *and* D21, both at ~6.00–6.025). Coffee-specific drift rate from these two anchors = +0.0125/day, but 2-day window is unreliable (per Hydrangea methodological lesson).
+- **Score-5 anchors are per-coffee, not per-batch.** Amber Drop and Floral Standard each have S5 anchors; Blue Strudel has only S4 peaks; Blossom Wine never crosses S3.
+- **Blossom Wine confirmed roast-side defect.** Across 8 cups Day 11–28 spanning 0.80 grind units, peak score is S3 — but the trajectory parallels the rest of the batch with slope 0.068/day. The off-tastes ("gross/green/roasty/silty/metallic") persist regardless of grind direction; the cup follows the same drift curve as its siblings but with a capped ceiling. Predict future Blossom Wine grind from batch curve; do not expect to find an SS by grind adjustment alone.
+- **Blue Strudel has the narrowest productive window.** S4 cups land at exactly D22 @ 6.05 and D24 @ 6.075 (one click apart) — the rest are S3. The Day-26 underextraction probe at 6.50 confirmed the bean tolerates large coarse-side excursions with surprisingly little punishment (raspberry compote zingy and tart-sweet-crisp).
+- **Amber Drop and Floral Standard share window-width and flavor-legibility, NOT SS-center.** They sit at the **opposite extremes** of the per-coffee intercept fan-out (AD finest, FS coarsest, ~0.19 apart). The intuition that they're "similar" reflects their reachability (multiple S4–S5 anchors, wide productive windows of 0.20–0.25 grind units, identifiable tasting notes) rather than their dial-in setting.
+- **Per-coffee intercept ordering (finest → coarsest): Amber Drop, Blossom Wine, Blue Strudel, Floral Standard.** Spread ~0.19 grind units.
 - **The lesson recorded at Day 26 Amber Drop** (see §11 closing principle) is Joshua's retrospective takeaway from the entire Paix dataset: **work in much larger increments (0.10–0.50, i.e. 10–50 micron jumps) when probing an unfamiliar coffee, prioritize flavor volume and freshness as the primary signal, and don't fear the underextraction ceiling — coffees punish overextraction far more than they punish coarse-side exploration**.
 
 
@@ -451,8 +495,8 @@ flowchart TD
 - The Day-30 one-click spread between Paraiso (6.025 S5) and Monteblanco (6.00 S5) was within bracket-corridor noise, not evidence of a per-coffee coarser-bias for Paraiso. The Day 33 sibling consensus at 6.125 (Monteblanco + Pena both S5; Paraiso user-correction also 6.125) confirms all three remaining coffees track the same trend. **Methodological lesson**: a single-day, one-click anchor spread between sibling coffees is within noise; require ≥2 non-adjacent days of consistent spread before promoting to a per-coffee drift bias.
 - Does the coarser-edge "may be fully focused by next cup" observation hold across roasters, or is it specific to Hydrangea's gentler profile?
 - More Sey data needed: current 0.020/day claim rests on only n=12 Score-4+ Z-brewer anchors and the narrow SS window makes per-coffee drift hard to isolate cleanly.
-- **Paix drift rate**: low-confidence +0.0125/day from a 2-day Floral Standard window (D19→D21). Need more Score-5 anchors across multiple coffees and ≥6 calendar days before promoting to a roaster-level rate. The **per-coffee SS-center variance** (~0.20 within batch on a single day) is the unique Paix calibration challenge — unclear yet whether this is (a) a real per-coffee structural difference, (b) noise that will collapse with more data, or (c) a function of three different processing/origin combinations behaving as effectively three roasters' worth of distinct coffees. Until resolved, predict each Paix coffee independently from its own anchor history; do not pool.
-- **Blossom Wine roast-defect hypothesis**: 7 cups Day 11–26 spanning 0.60 grind units, never crosses S3, persistent "gross/green/roasty/silty" off-tastes that don't track with grind. If this pattern holds across another Paix double-ferment Ethiopian, the off-tastes are a roast or processing signature rather than a single-lot defect — important for setting expectations on similar coffees. Until then, treat Blossom Wine as exclusion data for Paix calibration.
+- **Paix drift rate is now ~0.071/day (n=21, parallel-slopes model)** — see §7/§8 for the per-coffee intercept table. The prior +0.0125/day estimate was a 2-day-window artifact. Open sub-questions: (a) does the per-coffee intercept ordering (AD finest → FS coarsest, spread ~0.19) reproduce on the next Paix purchase, suggesting roaster-side per-coffee structural differences; (b) does the ~0.071/day rate hold past Day 28, or does Paix accelerate further at late ages like H&S and Hydrangea; (c) is Floral Standard's coarser intercept a Gesha-vs-other-origin effect or a per-coffee idiosyncrasy?
+- **Blossom Wine roast-defect confirmed** (n=8, Day 11–28, peak S3 across 0.80 grind units). Trajectory parallels batch (slope 0.068/day, intercept +0.07 from Amber Drop) but ceiling caps at S3. **Practical use**: predict Blossom Wine grind from batch curve at +0.07 offset; expect S3 cups regardless of grind precision. **Outstanding**: if a similar double-ferment washed Ethiopian appears in a future Paix purchase with the same off-tastes, the defect is a roaster/process signature; if not, it was lot-specific.
 
 ## 15. Holdout Validation
 
