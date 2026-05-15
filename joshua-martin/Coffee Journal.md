@@ -4217,3 +4217,7 @@ Gross flavors: green and roasty and Ethiopian tea notes at the same time.
 ## Amber Drop, Z, 6.3 @ 211ºF, 12.5g/250g Day 28, Score: 4
 
 Great perfumy quality and acidity and sweetness. Loses a little bit of the explosiveness in the cooldown, but overall very good. **6.35 and higher** (back to day 26 discovery)
+
+## Blue Strudel, Z, 6.4 @ 211ºF, 12.5g/250g Day 28, Score: 4
+
+Not bad! Decent gentleness in texture, good sweetness, pretty good fruit flavors. Slight scratchiness in last couple sips.
