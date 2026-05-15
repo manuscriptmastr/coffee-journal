@@ -4209,3 +4209,11 @@ Great flavors, a little on the softer side. Can this be pushed?
 ## Floral Standard, Z, 6.15 @ 211ºF, 12.5g/250g Day 23, Score: 4
 
 Sharper, more potent, more immediate flavor in first sip. More melded. Slightly tight in mouth, even through cooldown. Makes me wonder if **6.2 or higher** is the way to go?
+
+## Blossom Wine, Z, 6.4 @ 211ºF, 12.5g/250g Day 28, Score: 2
+
+Gross flavors: green and roasty and Ethiopian tea notes at the same time.
+
+## Amber Drop, Z, 6.3 @ 211ºF, 12.5g/250g Day 28, Score: 4
+
+Great perfumy quality and acidity and sweetness. Loses a little bit of the explosiveness in the cooldown, but overall very good. **6.35 and higher** (back to day 26 discovery)
