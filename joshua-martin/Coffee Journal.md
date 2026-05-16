@@ -4225,3 +4225,15 @@ Not bad! Decent gentleness in texture, good sweetness, pretty good fruit flavors
 ## Floral Standard, Z, 6.35 @ 211ºF, 12.5g/250g Day 25, Score: 3
 
 Great flavor volume in cooldown. Flavors aren't as focused or developed as they could be. Slightest scratchiness. Seems notably coarser than it should be. **6.3 or lower?**
+
+## Blossom Wine, Z, 6.5 @ 211ºF, 12.5g/250g Day 29, Score: 3
+
+The least revolting cup I've had of this recently. Soft but expansive texture. Flavors still not representative of the tasting notes, but at least drinkable.
+
+## Blue Strudel, Z, 6.45 @ 211ºF, 12.5g/250g Day 29, Score: 4
+
+Not bad! More perfumy, slightly less focused flavors.
+
+## Amber Drop, Z, 6.4 @ 211ºF, 12.5g/250g Day 29, Score: 4
+
+Very exciting as cools. Perfumy, tart, growing in excitement and brightness as cools, although perhaps not quite as focused as the absolute sweet spot?
