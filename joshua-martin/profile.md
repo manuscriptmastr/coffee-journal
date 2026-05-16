@@ -161,6 +161,7 @@ _Line shows pooled OLS fit (grind ≈ 0.0322·day + 5.072) across Day 8–37. Sc
 - **Paix drift rate is ~0.07/day — among the fastest in the journal**, roughly 2× the H&S/Hydrangea pre-acceleration rate (~0.026–0.030) and even faster than Hydrangea's late-life accelerated regime (~0.035). Empirical fits across the full Day 16–28 dataset (n=21 Score-4+ anchors, Blossom Wine peak-S3 included):
   - **Pooled parallel-slopes model**: 0.071/day. Per-coffee RMSE 0.05–0.07 (well inside one grinder click).
   - **Per-coffee individual fits**: Amber Drop 0.075 (n=8), Floral Standard 0.063 (n=6), Blue Strudel 0.081 (n=3, includes D26 user-correction), Blossom Wine 0.068 (n=4, peak-S3 trajectory).
+  - **Predict per-coffee with per-coffee slope when n ≥ 4.** Floral Standard's 0.063/day was confirmed by the D25 6.35 miss (2026-05-16): using the pooled 0.071/day landed +0.04 too coarse, while the per-coffee 0.063 would have given 6.275–6.33 (correct). Falls to the pooled rate only when per-coffee n < 4 (currently Blue Strudel).
   - The prior +0.0125/day estimate (from a Floral Standard D19→D21 2-day window) was wrong by a factor of ~6 — another textbook case of the "≥4 anchor-days spanning ≥6 calendar days" methodological rule from §14.
 - **Per-coffee SS-center fan-out is real (~0.19 grind units across batch)** under the parallel-slopes model, with a clear ordering:
 
@@ -267,6 +268,8 @@ xychart-beta
 The previously-cited "67 % coarser" figure was wrong — overall the corrections are essentially symmetric (53 / 46). The coarser bias is **score-conditional**: it only emerges once the cup is already close (Score 4+), where it represents drift-tracking, not error-correction.
 
 **Implication:** "When ambiguous, round coarser" applies after a Score-4-or-better brew. After a Score-2-or-3 brew, the direction is genuinely uncertain — diagnosis matters more than a default bias.
+
+**Refinement (Paix D25 Floral Standard miss, 2026-05-16):** the coarser-bias is only a bonus to apply when the most recent S4 anchor read **fine-edge** (tight in mouth at cooldown + shrinking or thin flavors). If the most recent S4 read **coarse-edge** ("soft, can this be pushed?", "great flavors but slightly loose", "muted"), then **drift-forward alone is the prediction — do not add a §9 coarser bonus on top.** Doing so double-counts the coarse-side movement: the anchor's own "push coarser" hint is already a half-step of drift built into the prior cup, and forward-projecting at the per-coffee slope captures the rest. Adding §9 on top puts the prediction past the coarse edge of the window. _Miss case_: FS D23 @ 6.20 read "great flavors, slightly soft, can this be pushed?" — that's a coarse-edge S4. Predicted D25 @ 6.35 with §9 bias applied → S3 "great flavor volume but underdeveloped + scratchy + notably coarser than it should be". Drift-forward without bias (6.20 + 2 × 0.063 = 6.33; or from the cleaner-center D23 @ 6.15 anchor, 6.15 + 2 × 0.063 ≈ 6.275) would have landed 6.275–6.30, matching Joshua's correction.
 
 ## 10. Step-Size Distribution
 
@@ -384,16 +387,17 @@ Extended through Day 28. Three Score-5 anchors have landed (Amber Drop D20 @ 5.8
 | 28  | Blossom Wine    | 6.40  | 211 | 2 | gross flavors: green + roasty + Ethiopian tea simultaneously |
 | 28  | Amber Drop      | 6.30  | 211 | 4 | great perfumy quality, acidity, sweetness; "6.35 and higher" — back to D26 discovery |
 | 28  | Blue Strudel    | 6.40  | 211 | 4 | decent gentleness in texture, good sweetness, pretty good fruit flavors; slight scratchiness last sips — coarse-edge tell, not spiral |
+| 25  | Floral Standard | 6.35  | 211 | 3 | great flavor volume in cooldown, but flavors not focused/developed; slightest scratchiness; "notably coarser than it should be — 6.3 or lower" — agent overshot by ~1 click, see §9 refinement |
 
 ```mermaid
 xychart-beta
-    title "Paix coffees: Score by Day off roast (n=34 through Day 28)"
+    title "Paix coffees: Score by Day off roast (n=35 through Day 28)"
     x-axis "Day off roast" 8 --> 30
     y-axis "Score" 1 --> 5
-    line [3, 2, 4, 2, 4, 3, 3, 3, 1, 4, 5, 3, 5, 2, 3, 3, 4, 4, 5, 3, 4, 4, 3, 3, 4, 4, 3, 4, 4, 3, 3, 4, 3, 4, 4, 3, 2, 4, 4]
+    line [3, 2, 4, 2, 4, 3, 3, 3, 1, 4, 5, 3, 5, 2, 3, 3, 4, 4, 5, 3, 4, 4, 3, 3, 4, 4, 3, 4, 4, 3, 3, 4, 3, 4, 4, 3, 2, 4, 4, 3]
 ```
 
-_Note: chart line array length (39) exceeds table row count (34) because some Day-21 entries duplicate the same coffee — kept faithful to journal order. Three Score-5 cups land between Day 19–21, confirming the under-rested signature clears by Day 18–20._
+_Note: chart line array length (40) exceeds table row count (35) because some Day-21 entries duplicate the same coffee — kept faithful to journal order. Three Score-5 cups land between Day 19–21, confirming the under-rested signature clears by Day 18–20._
 
 **Per-coffee parallel-slopes fit (m = 0.071/day across all four coffees):**
 

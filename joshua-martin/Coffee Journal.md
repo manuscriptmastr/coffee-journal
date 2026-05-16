@@ -4221,3 +4221,7 @@ Great perfumy quality and acidity and sweetness. Loses a little bit of the explo
 ## Blue Strudel, Z, 6.4 @ 211ºF, 12.5g/250g Day 28, Score: 4
 
 Not bad! Decent gentleness in texture, good sweetness, pretty good fruit flavors. Slight scratchiness in last couple sips.
+
+## Floral Standard, Z, 6.35 @ 211ºF, 12.5g/250g Day 25, Score: 3
+
+Great flavor volume in cooldown. Flavors aren't as focused or developed as they could be. Slightest scratchiness. Seems notably coarser than it should be. **6.3 or lower?**
