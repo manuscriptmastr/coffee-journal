@@ -4246,5 +4246,6 @@ Not bad, but no real flavors.
 
 A somewhat straight and big presentation, somewhat tart rather than focused on the jasmine or sweetness, and slightly coarse all over mouth. Flavors are pretty memorable but could still be more focused. **6.325?**
 
-## Blue Strudel, Z, 6.5 @ 211ºF, 12.5g/250g Day 30, Score:
+## Blue Strudel, Z, 6.45 @ 211ºF, 12.5g/250g Day 30, Score: 3
 
+Slightly scratchy. Sharper, more structured acidity, slightly less perfumy, slightly more glossy, however I feel as if we lost some of the exciting berry flavor overall, and the scratchiness is almost powdery.
