@@ -4237,3 +4237,5 @@ Not bad! More perfumy, slightly less focused flavors.
 ## Amber Drop, Z, 6.4 @ 211ºF, 12.5g/250g Day 29, Score: 4
 
 Very exciting as cools. Perfumy, tart, growing in excitement and brightness as cools, although perhaps not quite as focused as the absolute sweet spot?
+
+## Blossom Wine, Z, 6.575 @ 211ºF, 12.5g/250g Day 30, Score:
