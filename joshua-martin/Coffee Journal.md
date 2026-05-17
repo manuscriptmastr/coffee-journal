@@ -4238,4 +4238,13 @@ Not bad! More perfumy, slightly less focused flavors.
 
 Very exciting as cools. Perfumy, tart, growing in excitement and brightness as cools, although perhaps not quite as focused as the absolute sweet spot?
 
-## Blossom Wine, Z, 6.575 @ 211ºF, 12.5g/250g Day 30, Score:
+## Blossom Wine, Z, 6.6 @ 211ºF, 12.5g/250g Day 30, Score: 3
+
+Not bad, but no real flavors.
+
+## Floral Standard, Z, 6.35 @ 211ºF, 12.5g/250g Day 26, Score: 4
+
+A somewhat straight and big presentation, somewhat tart rather than focused on the jasmine or sweetness, and slightly coarse all over mouth. Flavors are pretty memorable but could still be more focused. **6.325?**
+
+## Blue Strudel, Z, 6.5 @ 211ºF, 12.5g/250g Day 30, Score:
+
