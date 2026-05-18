@@ -4249,3 +4249,19 @@ A somewhat straight and big presentation, somewhat tart rather than focused on t
 ## Blue Strudel, Z, 6.45 @ 211ºF, 12.5g/250g Day 30, Score: 3
 
 Slightly scratchy. Sharper, more structured acidity, slightly less perfumy, slightly more glossy, however I feel as if we lost some of the exciting berry flavor overall, and the scratchiness is almost powdery.
+
+## Amber Drop, Z, 6.425 @ 211ºF, 12.5g/250g Day 31, Score: 5
+
+A very well focused cup, with that bready confectionary quality. A riveting/exciting profile, good through the cooldown.
+
+## Floral Standard, Z, 6.35 @ 211ºF, 12.5g/250g Day 27, Score: 5
+
+Very good sweetness, tea complexity, and citrus. Classic well focused gesha flavors.
+
+## Blossom Wine, Z, 6.45 @ 211ºF, 12.5g/250g Day 31, Score: 4
+
+Actually not bad at all at this setting. More settled/melded flavors. Cooldown is actually very okay apart from the slightest roastiness in the finish. Sweet, tea-toned, actually somewhat luxurious. Much more enjoyable.
+
+## Blue Strudel, Z, 6.55 @ 211ºF, 12.5g/250g Day 31, Score: 5
+
+Some very nice sensitivity/complexity in acidity in first sip. Second sip also compelling. Even last sip is very good and thoughtful.
