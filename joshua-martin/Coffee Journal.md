@@ -4265,3 +4265,15 @@ Actually not bad at all at this setting. More settled/melded flavors. Cooldown i
 ## Blue Strudel, Z, 6.55 @ 211ºF, 12.5g/250g Day 31, Score: 5
 
 Some very nice sensitivity/complexity in acidity in first sip. Second sip also compelling. Even last sip is very good and thoughtful.
+
+## Amber Drop, Z, 6.475 @ 211ºF, 12.5g/250g Day 32, Score: 5
+
+Also very good, on the tart and exciting side of the sweet spot. Honest flavors, wonderfully gentle and open texture.
+
+## Floral Standard, Z, 6.375 @ 211ºF, 12.5g/250g Day 28, Score: 5
+
+A lovely, grainy, sugary-sweet, jasmine-forward, citrus cup. Absolutely lovely.
+
+## Blossom Wine, Z, 6.6 @ 211ºF, 12.5g/250g Day 32, Score: 4
+
+Actually not bad, feels loose though semi-focused. Somewhat green/fresh character. Actually a really good cooldown. **6.575?**
