@@ -148,7 +148,7 @@ _Line shows pooled OLS fit (grind ≈ 0.0322·day + 5.072) across Day 8–37. Sc
 
 ### SEY
 
-- Muhito, Dota, Gotiti, Botina (Bonita)
+- Muhito, Dota, Gotiti, Botina (Bonita), Guchienda (washed Kenyan, roast May 11 2026), Bermudez (Colombian chiroso, Jhon Alexander Bermudez, pineapple/bright acidity/hops, roast May 13 2026)
 - "SEY grassy/spicy quality", "SEY citric spiciness"
 - Drift: **~0.020/day**
 - These coffees were erratic and hard to dial in on the Z1.
@@ -202,7 +202,7 @@ _Line shows pooled OLS fit (grind ≈ 0.0322·day + 5.072) across Day 8–37. Sc
 | Hydrangea (earlier batch)      | ~0.018     | Elida, Bolanos, Uberrimo. Sparse Score-4+ anchors (n=5); informed prior, low confidence.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | Hydrangea (most recent batch)  | ~0.026 (Day 9–27), accelerates to ~0.035 (Day 27+) | Pena, La Isabela, Monteblanco, Paraiso, **batch closed at Day 37**. **Two-regime drift** confirmed across the full batch. Post-27 rate estimated at +0.038/day from a single Day 31→33 window, then refined down to +0.033 with Day 34–36 data, then back up to **+0.035** with Day 37 closing the batch (D27→D37: (6.25 − 5.90)/10 = 0.035). Three batch convergence events: Day 27 4-way @ 5.90, Day 33 3-way @ 6.125, Day 36 3-way @ 6.20. Two stalled-drift false alarms profiled in §11 (Day 21 opposite-sign hidden, Day 35 fine-edge wobble). Pooled linear fit across 41+ Score-5 anchors: grind ≈ 0.0322·day + 5.072. All four coffees share trajectory; per-coffee differences are vocabulary-at-the-edges only (see §13). **Same-day sibling consensus is the strongest single anchor in this batch — stronger than own-coffee history when ≥2 siblings agree.** Final 4-way blend at center landed S5 (single data point, encouraging signal for blend-at-center behaviour). **For prediction past Day 27, use 0.035/day**; for Day 8–27 use 0.026/day. See §7. |
 | Moonwake                       | ~0.024     | Serrato, Gomez, Ramirez, Benitez                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| Sey                            | ~0.020     | Muhito, Dota, Gotiti, Botina/Bonita; narrow window, spiral-prone. n=12 Score-4+ Z-brewer anchors after excluding Comandante entries (incompatible scale). Treat as low-medium confidence; revisit when more Sey data lands.                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Sey                            | ~0.020     | Muhito, Dota, Gotiti, Botina/Bonita, Guchienda (washed Kenyan, roast May 11 2026), Bermudez (Colombian chiroso, roast May 13 2026); narrow window, spiral-prone. n=12 Score-4+ Z-brewer anchors after excluding Comandante entries (incompatible scale). **2026-05-20**: Guchienda D9 5.65 → **S5** (first sub-D22 SEY S5; model holds within one click); Bermudez D7 5.60 → S4 (rest-bounded, "perhaps too early"). Treat as low-medium confidence; revisit when more Sey data lands. |
 | Paix                           | **~0.067** (n=24, per-coffee avg through D29) | Blue Strudel, Blossom Wine, Amber Drop, Floral Standard. **Drift rate is ~2× the H&S/Hydrangea pre-acceleration norm**, faster than any other current roaster. Per-coffee slopes (refit through D29): AD 0.073 (n=9), FS 0.063 (n=6), Blue 0.062 (n=4, retired the inflated n=3 0.081 fit), Blossom 0.068 (n=5). **Per-coffee SS fan-out ~0.18 at D25**: Amber Drop finest (6.15), Blue Strudel (6.19), Blossom Wine (6.21), Floral Standard coarsest (6.33). Blue Strudel and Blossom Wine swapped middle-pack positions in the 2026-05-16 refit. Predict each Paix coffee from its own slope + intercept; do not pool. Blossom Wine confirmed roast-side defect (trajectory tracks batch, ceiling caps at S3; D29 6.50 cleanest descriptor). Prior +0.0125/day estimate from a 2-day window was wrong — see §7. |
 
 ### Per-roaster Score-5 anchors (Z brewer)
@@ -241,11 +241,11 @@ Densest Score-5 carpet of any roaster — eleven coffees with similar drift make
 
 **Sey** (Z brewer, Comandante excluded) — fit: `grind = 0.020·day + 5.44`
 
-| Day | 22  | 27   |
-| --- | --- | ---- |
-| S5  | 5.9 | 5.95 |
+| Day | 9    | 22  | 27   |
+| --- | ---- | --- | ---- |
+| S5  | 5.65 | 5.9 | 5.95 |
 
-Only two Score-5 anchors; rate is informed mostly by Score-4 cluster spanning Day 9–28 (5.6 → 5.95). Narrow SS window means most cups stop at S4 even when well-calibrated.
+Three Score-5 anchors as of 2026-05-20 (Guchienda D9 5.65 added — first sub-D22 SEY S5 in dataset, predicted 5.62, landed 5.65 with "could go a touch finer" suggesting implied SS ~5.625–5.65; model holds within one click). Score-4 cluster spans Day 7–28 (5.60 → 5.95) after Bermudez D7 5.60 anchor added — bean read as "perhaps too early" (rest-side limitation, not grind-side), so D7 anchor is rest-bounded rather than SS-bounded. **Slope confirmed at 0.020/day** by the two-day Bermudez→Guchienda spread (D7 5.60 vs D9 5.65 = 1 click over 2 days = 0.0125/day implied; consistent with 0.020/day within noise). Narrow SS window means most cups stop at S4 even when well-calibrated. **Guchienda appears to be a wider-window SEY than the historical set** — finding S5 at the bottom of the rest window is unusual; flag for future calibration.
 
 ## 9. Correction Bias
 
