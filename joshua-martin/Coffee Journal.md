@@ -4289,3 +4289,7 @@ Small flavor volume, but good flavors overall. Slightest roastiness and scratchi
 ## Bermudez, Z, 5.6 @ 211ºF, 12.5g/250g Day 7, Score: 4
 
 Perhaps too early, but tart-sweet acidity is here but not super easy to define, although the pineapple descriptor is certainly within the ballpark. Becomes more juicy as cools, but doesn't yet have defined hops tasting note. Overall, a good start, but not a strong personality.
+
+## Amber Drop, Z, 6.5 @ 211ºF, 12.5g/250g Day 33, Score: 4
+
+Good but not quite as good as it could be. **6.525?**
