@@ -4277,3 +4277,15 @@ A lovely, grainy, sugary-sweet, jasmine-forward, citrus cup. Absolutely lovely.
 ## Blossom Wine, Z, 6.6 @ 211ºF, 12.5g/250g Day 32, Score: 4
 
 Actually not bad, feels loose though semi-focused. Somewhat green/fresh character. Actually a really good cooldown. **6.575?**
+
+## Guchienda, Z, 5.65 @ 211ºF, 12.5g/250g Day 9, Score: 5
+
+Started out a little vague but with good texture and a clear tomato acidity. In last third, the clarity and sweetness of the tomato + rose hip dramatically increased, reminding me of some of my most nostalgic experiences with SEY. Lovely gentleness, sweetness, and brightness. It is possible I could go a touch finer, but this was incredible.
+
+## Blue Strudel, Z, 6.6 @ 211ºF, 12.5g/250g Day 33, Score: 4
+
+Small flavor volume, but good flavors overall. Slightest roastiness and scratchiness. The perceived roastiness I think may be from the contrast between this and the SEY Guchienda, which was much lighter. Good through cooldown. 4? 5? Is this the most this coffee is capable of?
+
+## Bermudez, Z, 5.6 @ 211ºF, 12.5g/250g Day 7, Score: 4
+
+Perhaps too early, but tart-sweet acidity is here but not super easy to define, although the pineapple descriptor is certainly within the ballpark. Becomes more juicy as cools, but doesn't yet have defined hops tasting note. Overall, a good start, but not a strong personality.
