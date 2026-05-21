@@ -4293,3 +4293,19 @@ Perhaps too early, but tart-sweet acidity is here but not super easy to define, 
 ## Amber Drop, Z, 6.5 @ 211ºF, 12.5g/250g Day 33, Score: 4
 
 Good but not quite as good as it could be. **6.525?**
+
+## Alba, Z, 5.65 @ 211ºF, 12.5g/250g Day 8, Score: 5
+
+A wonderfully toyish sweet-tart purplish currant acidity that grows through the cooldown. Initially I thought this might be barely underextracted, but considering my enjoyment level of the entire cup and the expansiveness, this feels about right. A lovely first impression, reminding me of other SEY pink bourbons.
+
+## Meza, Z, 5.65 @ 211ºF, 12.5g/250g Day 8, Score: 4
+
+Flavors become increasingly explicit through cooldown: classic gesha sugary sweetness + jasmine, a citrus quality. The overall profile is just barely out of focus compared to what I think this coffee is capable of, so **5.625? Wait?** This was a very enjoyable, defined cup nonetheless, almost willing to give it a 5 except that I know this profile well enough to see its potential.
+
+## Guchienda, Z, 5.675 @ 211ºF, 12.5g/250g Day 10, Score: 5
+
+Wow. First sip is super tart and exciting sweet tomato/currant. I love it. Open texture. Quite lovely obvious tomato quality. Absolutely stunning cooldown, with ever-growing sweet tomato without being riveting.
+
+## Bermudez, Z, 5.65 @ 211ºF, 12.5g/250g Day 8, Score: 5
+
+Absolutely lovely openness in the first sip with an exciting sweet-tart acidity. At this point, it's difficult to tell a difference between this acidity, Guchienda, and Alba, but this flavor and the finish linger on the pallete. Absolutely lovely openness and "blooming" sweet-tart acidity that shimmers in mouth.
