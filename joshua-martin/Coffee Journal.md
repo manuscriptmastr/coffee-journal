@@ -4314,4 +4314,6 @@ Absolutely lovely openness in the first sip with an exciting sweet-tart acidity.
 
 Rather gross and green and robust/cocoa-like in flavor, with some mouth discomfort.
 
-## Floral Standard, Z, 6.45 @ 211ºF, 12.5g/250g Day 31, Score:
+## Floral Standard, Z, 6.45 @ 211ºF, 12.5g/250g Day 31, Score: 4
+
+Fantastic gesha sweetness and jasmine, but noticeably scratchy/powdery and not as much loose citrus, so **6.5 or 6.475**
