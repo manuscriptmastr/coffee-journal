@@ -4309,3 +4309,9 @@ Wow. First sip is super tart and exciting sweet tomato/currant. I love it. Open 
 ## Bermudez, Z, 5.65 @ 211ºF, 12.5g/250g Day 8, Score: 5
 
 Absolutely lovely openness in the first sip with an exciting sweet-tart acidity. At this point, it's difficult to tell a difference between this acidity, Guchienda, and Alba, but this flavor and the finish linger on the pallete. Absolutely lovely openness and "blooming" sweet-tart acidity that shimmers in mouth.
+
+## Blossom Wine, Z, 6.65 @ 211ºF, 12.5g/250g Day 35, Score: 2
+
+Rather gross and green and robust/cocoa-like in flavor, with some mouth discomfort.
+
+## Floral Standard, Z, 6.45 @ 211ºF, 12.5g/250g Day 31, Score:
