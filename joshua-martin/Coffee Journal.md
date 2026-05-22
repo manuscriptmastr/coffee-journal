@@ -4317,3 +4317,12 @@ Rather gross and green and robust/cocoa-like in flavor, with some mouth discomfo
 ## Floral Standard, Z, 6.45 @ 211ºF, 12.5g/250g Day 31, Score: 4
 
 Fantastic gesha sweetness and jasmine, but noticeably scratchy/powdery and not as much loose citrus, so **6.5 or 6.475**
+
+## Alba, Z, 5.65 @ 211ºF, 12.5g/250g Day 9, Score: 4
+
+Congealed, slightly smaller flavors. Lovely focus and melded sweetness, but lacks the explosive/expansiveness of the coarser setting. Scratchy/powdery. **5.675**
+
+## Meza, Z, 5.675 @ 211ºF, 12.5g/250g Day 9, Score: 4
+
+A bit of the "sugary sweet" complexion. Not as open as I expected. Somewhat grainy. Very smooth flavors.
+Moderate jasmine floral/spice in finish. Continues to have a small flavor profile, but melded, with a scratchy mouthfeel and somewhat tight tongue. Almost similar English breakfast tea + cream + sugar complexion to Juan Pena's washed mejorado. A clear cooldown, with good sweetness and the slightest brown quality. I think this and Alba could both be coarser, perhaps? **5.7?**
