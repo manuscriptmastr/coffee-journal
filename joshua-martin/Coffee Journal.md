@@ -4342,4 +4342,4 @@ Generally holding up personality and integrity. Good sweetness and berry intensi
 
 ## Meza, Z, 5.725 @ 211ºF, 12.5g/250g Day 10, Score: 3
 
-Interesting, this is soft and vague and has lost most of the distinct flavors. Highly scratchy in first half. There's a lot of spice-driven openness/graininess, but very little in the way of distinct flavors. A very soft, open, gentle texture. Last few sips do begin to hint at the gesha-like nature of the coffee, but continue to be soft, somewhat grainy/spicy, and not quite defined sweetness or flavors.
+Interesting, this is soft and vague and has lost most of the distinct flavors. Highly scratchy in first half. There's a lot of spice-driven openness/graininess, but very little in the way of distinct flavors. A very soft, open, gentle texture. Last few sips do begin to hint at the gesha-like nature of the coffee, but continue to be soft, somewhat grainy/spicy, and not quite defined sweetness or flavors. **5.675-5.7**
