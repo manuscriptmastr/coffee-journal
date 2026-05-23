@@ -4326,3 +4326,20 @@ Congealed, slightly smaller flavors. Lovely focus and melded sweetness, but lack
 
 A bit of the "sugary sweet" complexion. Not as open as I expected. Somewhat grainy. Very smooth flavors.
 Moderate jasmine floral/spice in finish. Continues to have a small flavor profile, but melded, with a scratchy mouthfeel and somewhat tight tongue. Almost similar English breakfast tea + cream + sugar complexion to Juan Pena's washed mejorado. A clear cooldown, with good sweetness and the slightest brown quality. I think this and Alba could both be coarser, perhaps? **5.7?**
+
+## Guchienda, Z, 5.75 @ 211ºF, 12.5g/250g Day 12, Score: 4
+
+Good flavors, but not quite as long-lasting or deep and distinct. **5.725**
+
+## Bermudez, Z, 5.7 @ 211ºF, 12.5g/250g Day 10, Score: 4
+
+Good, but a little darker toned and not as explosive or vibrant. Moderate finish. The slightest scratchiness. Not entirely sure whether this is under or overextracted. Given that Guchienda at day 10 was a 5 at 5.675, is it possible we underextracted both today? Alba and Meza however seemed to suggest that we might need to go coarser.
+
+## Alba, Z, 5.675 @ 211ºF, 12.5g/250g Day 10, Score: 4
+
+Calm, tart, highly spiced berry acidity (like juniper). A touch moderate in flavor volume, initially. Slightly scratchy. Flavor dies a little in the middle portion, while juniper spice and scratchiness grows. Generally good flavors. The "lemon zest" tasting note is definitely what I'm describing as the intense juniper + spice characteristic.
+Generally holding up personality and integrity. Good sweetness and berry intensity in cooldown, although I feel as if it is juicy in the barely tight and small vs. open and loose sense. Last couple sips have flavor integrity but don't explode like some cooldowns. Similar or better to day 9 Alba, close to a 5 if it would have opened up significantly in the last couple sips.
+
+## Meza, Z, 5.725 @ 211ºF, 12.5g/250g Day 10, Score: 3
+
+Interesting, this is soft and vague and has lost most of the distinct flavors. Highly scratchy in first half. There's a lot of spice-driven openness/graininess, but very little in the way of distinct flavors. A very soft, open, gentle texture. Last few sips do begin to hint at the gesha-like nature of the coffee, but continue to be soft, somewhat grainy/spicy, and not quite defined sweetness or flavors.

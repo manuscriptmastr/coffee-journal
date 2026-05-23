@@ -238,6 +238,30 @@ Densest Score-5 carpet of any roaster — eleven coffees with similar drift make
 
 6 Score-5 anchors total across ~62 Z-brewer entries (n=9 coffees, all batches; Bermudez-old removed as non-SEY). Two distinct S5 clusters: **low** D7–D10 5.65–5.675 (current batch — Alba D8, Bermudez D8, Guchienda D9/D10; n=4) and **high** D22–D27 5.9–5.95 (Sept–Oct 2025 batch — Gotiti D22, Muhito D27; n=2). **Zero S5 anchors D11–D21** across the full SEY dataset. Score-4 cluster spans D7–D45 across the batches; per-coffee grind-vs-day slopes are tightly clustered (Muhito 0.023, Dota 0.025, Gotiti 0.025, Botina 0.025, Guchienda 0.030, Bermudez-new 0.025), but per-coffee intercepts fan out ~0.15 grind units at equal day. **Score is non-monotonic with grind** within each coffee — same coffee at same setting can score S3 / S4 / S5 on different days. **Two coffees (Dota, Botina) never produced S5** across ~23 combined entries D7–D45. The current batch produces S5 below D22 at much higher density than any prior SEY batch in the journal (4 S5s in 10 entries vs. zero S5s in ~49 entries D7–D21 across prior batches).
 
+**First SEY same-day batch convergence event (D10, 2026-05-23).** Four current-batch coffees brewed within 1 click of each other on the same calendar day produced opposite-end-of-spectrum diagnostic signatures that bracket the batch SS-center:
+
+| Coffee     | D10 grind | Score | Direction       | Diagnostic descriptors                                                    |
+| ---------- | --------- | ----- | --------------- | ------------------------------------------------------------------------- |
+| Guchienda  | 5.675     | 5     | center          | "super tart, exciting, open texture, stunning cooldown"                   |
+| Alba       | 5.675     | 4     | fine-edge / over | "calm berry acidity, scratchy, tight and small vs open, juniper spice grows" |
+| Bermudez   | 5.700     | 4     | coarse-leaning  | "a little darker toned, not as explosive, slightest scratchiness"         |
+| Meza       | 5.725     | 3     | clear under     | "soft, vague, lost most distinct flavors, scratchy, cooldown hints only"  |
+
+This is the first multi-coffee same-day grind-spectrum SEY observation in the journal. The bracket places the batch SS-center at **~5.6875–5.70 at D10**; per-coffee window-width (not per-coffee SS-center) explains most of the score variation. **Cross-coffee intercept fan-out narrows to ~±0.025 within the current batch** — much tighter than the all-batches ~0.15 estimate (which pooled across Sept–Oct 2025 and May 2026 batches). The Meza D9 self-diagnosis "5.7?" came from an over-leaning cup; acting on it produced a clear-under cup at D10 5.725 — **a clean prototype of the SEY misleading-astringency trap profiled in §11**.
+
+```mermaid
+xychart-beta
+    title "SEY D10 batch bracket (2026-05-23): same-day same-batch cross-coffee spectrum"
+    x-axis ["5.650", "5.675", "5.700", "5.725"]
+    y-axis "Score" 0 --> 5
+    line [0, 5, 0, 0]
+    line [0, 4, 0, 0]
+    line [0, 0, 4, 0]
+    line [0, 0, 0, 3]
+```
+
+_Lines, in order: Guchienda D10 5.675 S5 (center), Alba D10 5.675 S4 (fine-edge/over), Bermudez D10 5.700 S4 (coarse-leaning), Meza D10 5.725 S3 (clear under). Reading the spectrum left-to-right: 5.675 sits at or just past SS-center; 5.700 is at the coarse edge of the window; 5.725 is clearly past it. Predicted D10 batch SS-center: ~5.6875._
+
 ## 9. Correction Bias
 
 Holdout count of "should have been X" annotations across the journal (n = 457):
@@ -309,7 +333,7 @@ xychart-beta
 ## 11. Known Failure Modes
 
 - **La Esperanza 2 spiral**: Score 4 at 5.85 degraded to Score 2 by 6.0 as Joshua kept going finer thinking the cup was underextracted. Clearest journal example of the spiral; use as a teaching case.
-- **SEY misleading astringency**: SEY's natural "tight mouth + green qualities" read as under even when over. Finer adjustments made things worse across many entries. Trust coarser when SEY shows "small + mouthfeel" pattern.
+- **SEY misleading astringency**: SEY's natural "tight mouth + green qualities" read as under even when over. Finer adjustments made things worse across many entries. Trust coarser when SEY shows "small + mouthfeel" pattern. **Prototype (Meza, 2026-05-23)**: D9 5.675 read "small flavor profile, scratchy, tight tongue" with self-diag "5.7?"; following that diagnosis to D10 5.725 produced a clear under cup (soft + vague + lost flavors + cooldown improving). **Lesson**: when a SEY cup reads small+mouthfeel and the in-cup self-diagnosis says "coarser," weight the profile warning higher than the self-diagnosis — the cup was already past center.
 - **September producer-named coffees** (Fajardo, Martinez, Rojas, Sudan Rume): Subtle/vague flavor profiles → diagnosis accuracy ~50–55%. Most overextraction-spiral incidents came from this group. **Lean heavily on sibling data; distrust the direction call.**
 - **H&S batch 3 late-age acceleration** (Day 58–68): Drift accelerated past 0.033/day; conservative 0.025 increments fell behind, producing a 24-entry string of Score 3s before bracketing restored a Score 5. When consecutive Score 3s appear at older ages in this roaster, **jump 0.05–0.075** and bracket.
 - **RO water noise**: Several Score 3s on RO during H&S batch 3 Day 56–60 looked like an intercept shift but were brew variability. One Score 5 on the same RO at the same setting disproved the shift hypothesis. Don't over-correct for RO.
