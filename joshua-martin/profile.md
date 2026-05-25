@@ -249,11 +249,11 @@ Densest Score-5 carpet of any roaster — eleven coffees with similar drift make
 
 This is the first multi-coffee same-day grind-spectrum SEY observation in the journal. The bracket places the batch SS-center at **~5.6875–5.70 at D10**; per-coffee window-width (not per-coffee SS-center) explains most of the score variation. **Cross-coffee intercept fan-out narrows to ~±0.025 within the current batch** — much tighter than the all-batches ~0.15 estimate (which pooled across Sept–Oct 2025 and May 2026 batches). The Meza D9 self-diagnosis "5.7?" came from an over-leaning cup; acting on it produced a clear-under cup at D10 5.725 — **a clean prototype of the SEY misleading-astringency trap profiled in §11**.
 
-**Current SEY batch trajectory (D7–D13, Z brewer, 2026-05).** Score-weighted per-day grind centers (weights = Score²: S5=25, S4=16, S3=9) reveal a **three-regime trajectory** rather than the historical single-slope SEY model:
+**Current SEY batch trajectory (D7–D14, Z brewer, 2026-05).** Score-weighted per-day grind centers (weights = Score²: S5=25, S4=16, S3=9) reveal a **two-regime trajectory** with a CO₂-degas discontinuity, rather than the historical single-slope SEY +0.025/day model:
 
-- **D7–D10 (early-life CO₂-masked window)**: linear fit slope **+0.030/day**, anchors 5.60→5.69. Per-coffee fan-out ~0.025. Cups score well across a wider-than-expected grind range because CO₂ in the bed throttles extraction, masking the bean's "real" center.
-- **D10→D11 (CO₂-degas step-shift)**: one-day batch-center jump of **+0.064 grind units** (5.69→5.76). Largest single-day batch movement in the current-batch dataset. Per-coffee shift timing is asynchronous: Alba/Bermudez shift +0.075–0.10 between D10–D11; Meza shifts ~+0.025 on the same window then +0.0375 between D11–D12; Guchienda is poorly anchored across the shift window.
-- **D11–D13 (post-CO₂ plateau-ish)**: slope **−0.004/day** (essentially flat, slight retreat). The CO₂-shift overshoots equilibrium; batch settles at ~5.74–5.76. Normal SEY drift (+0.025/day) is expected to resume from D14+, predicting D14 ~5.775, D15 ~5.80.
+- **D7–D10 (early-life CO₂-masked window)**: slope **+0.030/day**, anchors 5.60→5.69. Per-coffee fan-out ~0.025. CO₂ in the bed throttles extraction, masking the bean's post-rest "real" center.
+- **D10→D11 (CO₂-degas step-shift)**: one-day batch-center jump of **~+0.07 grind units** (5.69→5.76). The single largest one-day batch movement in the current-batch dataset. Per-coffee shift timing is asynchronous (Alba/Bermudez +0.075–0.10 D10→D11; Meza ~+0.025 D10→D11 then +0.0375 D11→D12).
+- **D11–D14 (post-CO₂ slow-drift plateau)**: slope **+0.005/day** (essentially flat), centered ~5.76. D14 Guchienda 5.775 S5 confirms the plateau extends through D14; the hypothesized "D14+ resumption of normal +0.025/day drift" did **not** occur on schedule. The historical SEY +0.025/day batch-average rate is best read as pooling the D10→D11 step with the flat-pre/post phases, not as an instantaneous slope.
 
 Score-weighted per-day centers:
 
@@ -266,19 +266,22 @@ Score-weighted per-day centers:
 | 11  | 3 | 5.759          |
 | 12  | 3 | 5.765          |
 | 13  | 1 | 5.750          |
+| 14  | 1 | 5.775          |
 
 ```mermaid
 xychart-beta
-    title "SEY current batch (2026-05) — score-weighted grind vs day age, three-regime fit"
-    x-axis "Day age" 7 --> 15
+    title "SEY current batch (2026-05) — score-weighted grind vs day age, two-regime fit"
+    x-axis "Day age" 7 --> 17
     y-axis "Grind setting" 5.55 --> 5.85
-    line [5.600, 5.650, 5.658, 5.686, 5.759, 5.765, 5.750, 5.775, 5.800]
-    line [5.605, 5.635, 5.664, 5.694, 5.758, 5.753, 5.749, 5.774, 5.799]
+    line [5.600, 5.650, 5.658, 5.686, 5.759, 5.765, 5.750, 5.775, 5.780, 5.785, 5.790]
+    line [5.605, 5.635, 5.664, 5.694, 5.756, 5.761, 5.766, 5.771, 5.776, 5.781, 5.786]
 ```
 
-_First line: score-weighted per-day grind centers D7–D13 (data), D14–D15 extrapolated at normal +0.025/day SEY drift. Second line: piecewise best-fit (D7–D10 linear at +0.030/day, D10→D11 step-shift of +0.064, D11–D13 flat at −0.004/day, D13+ resumes at +0.025/day). Combined fit RMSE ≈ 0.008. The step between D10 and D11 is the cleanest empirical CO₂-shift signature in the journal._
+_First line: score-weighted per-day grind centers D7–D14 (data), D15–D17 extrapolated at the plateau rate +0.005/day. Second line: two-regime best-fit (D7–D10 linear at +0.030/day, D10→D11 step of +0.062, D11+ linear at +0.005/day). Fit RMSE ≈ 0.007. The D14 anchor confirms the post-CO₂ plateau rather than triggering a return to normal +0.025/day drift._
 
 **Per-coffee offsets from post-CO₂ batch center (D11+):** Guchienda ≈ Meza −0.025 (finest); Bermudez 0 (center); Alba 0 to +0.0125 (coarsest by a hair). Fan-out ~0.025–0.0375, tighter than the pre-CO₂ fan. **Predict each current-batch SEY coffee from the batch trajectory ± its post-CO₂ offset.**
+
+**Forward predictions under the plateau model:** D15 batch center ~5.765, D16 ~5.770, D17 ~5.775, D21 ~5.795. **Watch for a second discontinuity** (predicted ~D21+ per community fully-rested timeline); if it appears, the model needs a third regime. Until then, treat ~5.76 as the working batch center.
 
 ## 9. Correction Bias
 

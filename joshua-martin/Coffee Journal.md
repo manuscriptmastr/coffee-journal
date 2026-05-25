@@ -4371,3 +4371,7 @@ Spicy, expansive, vague flavors, highly loud/scratchy, no sweetness, last third 
 ## Meza, Z, 5.725 @ 211ºF, 12.5g/250g Day 12, Score: 4
 
 The noisy surroundings have settled at this setting, while brown tea spices are very notable. Jasmine florality. Good moderate sugary sweetness, though I think it has more to give. Loud scratchiness/chalkiness in mouth. Long finish.
+
+## Guchienda, Z, 5.775 @ 211ºF, 12.5g/250g Day 14, Score: 5
+
+The first sip is immediately the plump sweet tomato acidity, no punches pulled. Middle part of cup is a little tame, then towards the end some of the bright and tart quality to acidity comes back. Mouth scratchy. Flavors are good and focused in. While this barely misses out on the steady explosiveness that the first two cups had, this is still an exceptional cup, and hopefully will get better and loosen up as the coffee ages.
