@@ -4343,3 +4343,31 @@ Generally holding up personality and integrity. Good sweetness and berry intensi
 ## Meza, Z, 5.725 @ 211ºF, 12.5g/250g Day 10, Score: 3
 
 Interesting, this is soft and vague and has lost most of the distinct flavors. Highly scratchy in first half. There's a lot of spice-driven openness/graininess, but very little in the way of distinct flavors. A very soft, open, gentle texture. Last few sips do begin to hint at the gesha-like nature of the coffee, but continue to be soft, somewhat grainy/spicy, and not quite defined sweetness or flavors. **5.675-5.7**
+
+## Guchienda, Z, 5.75 @ 211ºF, 12.5g/250g Day 13, Score: 4
+
+Still a distinct sweet tomato acidity, but smaller flavor volume, less immediate, slightly tight in mouth, barely disingenuine, and generally lacking in the explosion of juiciness.
+
+## Bermudez, Z, 5.8 @ 211ºF, 12.5g/250g Day 11, Score: 3
+
+Extremely large, expansive, foggy, mouthfilling, yet tasting notes are highly difficult to pinpoint (out of focus). Creamy, soft, zero structure, mouth slightly tight and tacky, no perceivable sweetness to add structure or focus. Like a hurricane vs. a tornado, with a noisy everything-is-loud-and-flat dynamic range. Last few sips almost hint at clear acidity, but are otherwise extremely gentle, rounded, and indistinct. Finish doesn't really betray distinct tasting notes either.
+
+## Alba, Z, 5.75 @ 211ºF, 12.5g/250g Day 11, Score: 4
+
+Still bright, tart, exciting, emerging sweetness, a touch scratchy. A vivid profile if not unbalanced, with a juniper-like citrus-berry acidity. Last few sips soften a little into a sweet-first, tart-second flavor. Finish emphasizes the sharpness of the acidity. Overall, wonderful excitement and brightness to this cup, certainly notably more genuine than many of the cups I've had recently. Dialing in this profile feels akin to harnessing wildness.
+
+## Meza, Z, 5.725 @ 211ºF, 12.5g/250g Day 11, Score: 4
+
+Classic gesha tea spice, barely watery. Gesha sweetness comes in second sip a touch more. Big and silky. Acidity is not well defined, but it's a nice soft English breakfast tea profile. Noisy scratchiness in mouth. After cleansing palate, there is more delicate, almost pink citrus acidity here than I initially detected. A slight black tea dregs flavor in finish. So close in some ways. Definitely an improvement on the previous day, it would seem.
+
+## Alba, Z, 5.8 @ 211ºF, 12.5g/250g Day 12, Score: 4
+
+Great flavor volume, mostly intact flavors, zero disingenuineness, but short, spicy, not as memorable flavor. Needs some sweetness to really sell this, although the cup is refreshingly open overall. Some scratchiness in mouth.
+
+## Bermudez, Z, 5.775 @ 211ºF, 12.5g/250g Day 12, Score: 3
+
+Spicy, expansive, vague flavors, highly loud/scratchy, no sweetness, last third of cup glows a bit more but still not quite distinct flavors. This seems far enough to warrant **5.725**.
+
+## Meza, Z, 5.725 @ 211ºF, 12.5g/250g Day 12, Score: 4
+
+The noisy surroundings have settled at this setting, while brown tea spices are very notable. Jasmine florality. Good moderate sugary sweetness, though I think it has more to give. Loud scratchiness/chalkiness in mouth. Long finish.
