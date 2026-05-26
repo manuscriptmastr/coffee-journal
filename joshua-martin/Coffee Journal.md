@@ -4375,3 +4375,13 @@ The noisy surroundings have settled at this setting, while brown tea spices are 
 ## Guchienda, Z, 5.775 @ 211ºF, 12.5g/250g Day 14, Score: 5
 
 The first sip is immediately the plump sweet tomato acidity, no punches pulled. Middle part of cup is a little tame, then towards the end some of the bright and tart quality to acidity comes back. Mouth scratchy. Flavors are good and focused in. While this barely misses out on the steady explosiveness that the first two cups had, this is still an exceptional cup, and hopefully will get better and loosen up as the coffee ages.
+
+## Blue Strudel, Z, 6.775 @ 211ºF, 12.5g/250g Day 39, Score: 4
+
+Quite good. Flavors are well balanced with sweetness. This is a bit of the more gravy-like blueberry natural process quality.
+
+## Amber Drop, Z, 6.675 @ 211ºF, 12.5g/250g Day 39, Score: 4
+
+Pretty good if not darker flavors, highly scratchy in mouth and lips, heavy almost natural process finish, actually a bit similar to the gravy quality of Blue Strudel. This might be a little overextracted, but a good cup nonetheless.
+
+## Guchienda, Z, 5.775 @ 211ºF, 12.5g/250g Day 15, Score:
