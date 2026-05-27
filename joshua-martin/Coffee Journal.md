@@ -4395,3 +4395,5 @@ A very addictive juicy cup, the kind that makes you thirst. Great balance betwee
 ## Bermudez, Z, 5.8 @ 211ºF, 12.5g/250g Day 14, Score: 4
 
 Similar to Alba, this is melded (not noisy/foggy) and makes me thirst quite a bit, but not in the most positive way. Pineapple acidity and hops finish are here but a little muted or unfocused. I want this to be brighter/shinier, but it's so close and overall much better balanced than other cups.
+
+## Bermudez, Z, 5.825 @ 211ºF, 12.5g/250g Day 14

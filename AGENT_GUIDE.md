@@ -274,9 +274,9 @@ These numbers are partially confounded by drift-tracking: a coarser move between
 The sweet spot is a window ~2–3 grinder steps wide, not a point. Two distinct signatures mark its edges — both can still earn Score 5, but they tell you which direction the coffee is headed:
 
 - **Coarser edge (mild under, no roughness):** "soft", "gentle", "barely out of focus", "mouthfilling but diffuse", "may be fully focused by next cup". Big volume, bright qualities present, no astringency or scratchiness — just slightly unresolved. Drift will catch up within a day; **no corrective action needed.**
-- **Finer edge (mild over, slight roughness):** "barely smaller flavor volume", "slight roughness, localized", "focused / resolved / introverted", "black tea forward", "pleasant perfuminess, edges softening". **Bump coarser next brew** — ignoring this signature lets it accumulate into the spiral.
+- **Finer edge (mild over, slight roughness or thick mouthfeel):** "barely smaller flavor volume", "slight roughness, localized", "focused / resolved / introverted", "black tea forward", "pleasant perfuminess, edges softening" — _or_ "thick saliva / addictive juicy / makes me thirst / could be coarser" (the thirst sub-signature; see § Distinguishing under vs. over when astringency is present). **Bump coarser next brew** — ignoring this signature lets it accumulate into the spiral.
 
-The tiebreaker between the two: **mouthfeel**. Coarser edge = loose and diffuse. Finer edge = any hint of scratch/rough/tight, even subtle.
+The tiebreaker between the two: **mouthfeel**. Coarser edge = loose and diffuse, mouth still slippery. Finer edge = any hint of scratch/rough/tight _or_ thick/sticky/thirst-driving — anything that disrupts the normal salivary lubrication.
 
 ### Underextracted (go finer)
 
@@ -297,7 +297,7 @@ Both under and overextraction can produce small, underwhelming cups. The key dif
 - **Over**: Flavors are dishonest — dull, collapsed, homogeneous. "Gravy-like." Harsh phenolic compounds have overwhelmed the delicate aromatics. Mouthfeel rough/scratchy.
 - **Mouthfeel is the tiebreaker**: scratchiness/roughness = over, almost always. Loose/genuine texture with small flavors = under. This works because [retronasal olfaction shares processing circuitry with the gustatory (taste) cortex](https://pmc.ncbi.nlm.nih.gov/articles/PMC6604050/) — mouthfeel and flavor perception are neurologically intertwined.
 
-**The spiral's signature:** "small/watery/fragile" flavors + any mouthfeel discomfort (scratchy, rubbing, tight, stiff). When both signals appear together, **overextraction is substantially more likely than underextraction** in most journals' data — going finer from this pattern fails the majority of the time. **When in doubt, go coarser.**
+**The spiral's signature:** "small/watery/fragile" flavors + any mouthfeel discomfort (scratchy, rubbing, tight, stiff, thick-saliva, thirst-driving). When both signals appear together, **overextraction is substantially more likely than underextraction** in most journals' data — going finer from this pattern fails the majority of the time. **When in doubt, go coarser.**
 
 **Distinguishing over from under when both "small" and "mouthfeel" are present:**
 
@@ -311,6 +311,13 @@ Astringency can appear on both sides of the extraction curve (confirmed by [Perg
 - **Underextracted astringency**: "Green", "papery", "dry-sour" — a tannic, tea-bag-steeped-too-long quality. Often accompanied by sourness and quick finish. **Whole-mouth clenching/puckering with stiff lips** is a sourness/underextraction tell — the entire mouth reacts to the acid.
 - **Overextracted astringency**: "Rough", "scratchy", "raspy", "powdery" — a sandpaper-on-tongue quality, typically localized (tongue, roof of mouth) **without** the full-mouth clenching. Often accompanied by dullness and collapsed flavors.
 - If astringency appears alongside **sour + bitter simultaneously**, the issue may be **uneven extraction** (channeling/bypass) rather than grind setting — the bed has both over- and under-extracted zones ([Rao](https://www.scottrao.com), _Everything but Espresso_; [Perger](https://www.baristahustle.com)).
+
+**Overextracted astringency has two sub-signatures from the same mechanism.** Both come from polyphenol–salivary-protein binding ([Soares et al. 2020](https://www.intechopen.com/chapters/73161); [Bajec & Pickering 2008](https://doi.org/10.1080/10408390701724223); [Gawel 1998](https://doi.org/10.1111/j.1755-0238.1998.tb00131.x)). They sit at **different depths along the overextraction curve** and present as different mouthfeel:
+
+- **Thirst / thick-saliva (earliest, mildest over)**: thick/cloying saliva, sticky mouth coating, drying-but-not-rough finish, thirst-driving. "Addictive juicy" if balanced; "muted / unfocused / want brighter" if not. Mechanism: small polyphenols form **soluble** complexes that thicken (don't precipitate) the salivary film. The cup self-diagnosis "could be coarser" is **reliable** here — trust it.
+- **Scratchy / powdery / raspy (deeper over)**: localized friction on tongue and lips, sandpaper texture, particulate roughness in finish. Mechanism: higher polyphenol load **precipitates** salivary proteins onto the mucosa. The cup self-diagnosis often misreads as "needs finer" — distrust the direction call (see overextraction spiral below).
+
+Both clusters call for **coarser**. The thirst cluster typically resolves in ~1 click; the scratchy/powdery cluster typically needs 1–2 clicks. Coffee's astringency compounds are mostly small phenolics (chlorogenic acids and lactones rather than condensed tannins), so light-roast filter brews often present the thirst cluster first and only reach scratchy/powdery deeper into over. Higher TDS brews (espresso) and darker roasts jump to scratchy/powdery more readily.
 
 ### Three calibration laws (derived across journals)
 

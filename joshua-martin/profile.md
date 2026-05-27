@@ -249,13 +249,13 @@ Densest Score-5 carpet of any roaster — eleven coffees with similar drift make
 
 This is the first multi-coffee same-day grind-spectrum SEY observation in the journal. The bracket places the batch SS-center at **~5.6875–5.70 at D10**; per-coffee window-width (not per-coffee SS-center) explains most of the score variation. **Cross-coffee intercept fan-out narrows to ~±0.025 within the current batch** — much tighter than the all-batches ~0.15 estimate (which pooled across Sept–Oct 2025 and May 2026 batches). The Meza D9 self-diagnosis "5.7?" came from an over-leaning cup; acting on it produced a clear-under cup at D10 5.725 — **a clean prototype of the SEY misleading-astringency trap profiled in §11**.
 
-**Current SEY batch trajectory (D7–D14, Z brewer, 2026-05).** Score-weighted per-day grind centers (weights = Score²: S5=25, S4=16, S3=9) reveal a **two-regime trajectory** with a CO₂-degas discontinuity, rather than the historical single-slope SEY +0.025/day model:
+**Current SEY batch trajectory (D7–D15, Z brewer, 2026-05).** Three regimes, revised after the D14/D15 cross-coffee anchor at 5.8 falsified the earlier plateau model:
 
-- **D7–D10 (early-life CO₂-masked window)**: slope **+0.030/day**, anchors 5.60→5.69. Per-coffee fan-out ~0.025. CO₂ in the bed throttles extraction, masking the bean's post-rest "real" center.
-- **D10→D11 (CO₂-degas step-shift)**: one-day batch-center jump of **~+0.07 grind units** (5.69→5.76). The single largest one-day batch movement in the current-batch dataset. Per-coffee shift timing is asynchronous (Alba/Bermudez +0.075–0.10 D10→D11; Meza ~+0.025 D10→D11 then +0.0375 D11→D12).
-- **D11–D14 (post-CO₂ slow-drift plateau)**: slope **+0.005/day** (essentially flat), centered ~5.76. D14 Guchienda 5.775 S5 confirms the plateau extends through D14; the hypothesized "D14+ resumption of normal +0.025/day drift" did **not** occur on schedule. The historical SEY +0.025/day batch-average rate is best read as pooling the D10→D11 step with the flat-pre/post phases, not as an instantaneous slope.
+- **D7–D10 (early-life CO₂-masked window)**: slope **+0.030/day**, anchors 5.60→5.69. Per-coffee fan-out ~0.025. CO₂ in the bed throttles extraction, masking the post-rest "real" center.
+- **D10→D11 (CO₂-degas step-shift)**: one-day batch-center jump of **~+0.07 grind units** (5.69→5.76). The single largest one-day batch movement in the dataset. Per-coffee shift timing is asynchronous.
+- **D11–D14 brief slow-drift (~+0.005/day) — then D14→D15 second step-shift**: Initial reading of D11–D14 was a flat plateau (~5.76 batch center). The **D14/D15 four-coffee 5.8 anchor falsified this**: Alba D14 5.8 S5 ("sweet spot or 5.825"), Bermudez D14 5.8 S4 (thirst + muted, wants brighter), Guchienda D15 5.8 S4 (dark/powdery cooldown). Three coffees at 5.8 all calling for coarser puts the D14/D15 batch center at **~5.825–5.85**, ~0.06–0.08 coarser than the plateau model predicted (5.755–5.765). The bean has degassed past a second threshold, opening a wider SS-center window than D11–D13 anchored. Working model: a **second step-shift around D13→D14** (~+0.06 over 1–2 days), then likely a new plateau or slow drift D15+. **Two-step-shift trajectory matches community evidence** (§11) that SEY bean fully rests at ~3 weeks; the May 2026 batch is compressing the rest window into a series of step-shifts rather than a single discontinuity.
 
-Score-weighted per-day centers:
+Score-weighted per-day centers (updated D14/D15):
 
 | Day | n | Weighted grind |
 | --- | - | -------------- |
@@ -266,22 +266,12 @@ Score-weighted per-day centers:
 | 11  | 3 | 5.759          |
 | 12  | 3 | 5.765          |
 | 13  | 1 | 5.750          |
-| 14  | 1 | 5.775          |
+| 14  | 2 | 5.81 (Guchienda 5.775 S5 + Alba/Bermudez 5.8 S5/S4 cluster, revised upward to reflect coarser-leaning self-diagnoses) |
+| 15  | 1 | 5.825 (Guchienda 5.8 S4, wanting +0.025–0.05) |
 
-```mermaid
-xychart-beta
-    title "SEY current batch (2026-05) — score-weighted grind vs day age, two-regime fit"
-    x-axis "Day age" 7 --> 17
-    y-axis "Grind setting" 5.55 --> 5.85
-    line [5.600, 5.650, 5.658, 5.686, 5.759, 5.765, 5.750, 5.775, 5.780, 5.785, 5.790]
-    line [5.605, 5.635, 5.664, 5.694, 5.756, 5.761, 5.766, 5.771, 5.776, 5.781, 5.786]
-```
+**Per-coffee offsets from D14+ batch center**: Guchienda ≈ batch −0.025 (finest); Bermudez 0 (center); Alba 0 to +0.0125 (coarsest by a hair). Fan-out ~0.025–0.0375, same as pre-shift. **Predict each current-batch SEY coffee from the batch trajectory ± its post-CO₂ offset.**
 
-_First line: score-weighted per-day grind centers D7–D14 (data), D15–D17 extrapolated at the plateau rate +0.005/day. Second line: two-regime best-fit (D7–D10 linear at +0.030/day, D10→D11 step of +0.062, D11+ linear at +0.005/day). Fit RMSE ≈ 0.007. The D14 anchor confirms the post-CO₂ plateau rather than triggering a return to normal +0.025/day drift._
-
-**Per-coffee offsets from post-CO₂ batch center (D11+):** Guchienda ≈ Meza −0.025 (finest); Bermudez 0 (center); Alba 0 to +0.0125 (coarsest by a hair). Fan-out ~0.025–0.0375, tighter than the pre-CO₂ fan. **Predict each current-batch SEY coffee from the batch trajectory ± its post-CO₂ offset.**
-
-**Forward predictions under the plateau model:** D15 batch center ~5.765, D16 ~5.770, D17 ~5.775, D21 ~5.795. **Watch for a second discontinuity** (predicted ~D21+ per community fully-rested timeline); if it appears, the model needs a third regime. Until then, treat ~5.76 as the working batch center.
+**Forward predictions under the two-step-shift model:** D16 batch center ~5.85, D17 ~5.85–5.875, D21 ~5.875+. Past D21, watch for either a return to historical D22+ SEY behavior (S5 cluster ~5.9 from prior batches) or a third step-shift. Treat predictions D16+ as ±0.025 uncertain until next anchor confirms.
 
 ## 9. Correction Bias
 
@@ -354,7 +344,7 @@ xychart-beta
 ## 11. Known Failure Modes
 
 - **La Esperanza 2 spiral**: Score 4 at 5.85 degraded to Score 2 by 6.0 as Joshua kept going finer thinking the cup was underextracted. Clearest journal example of the spiral; use as a teaching case.
-- **SEY misleading astringency**: SEY's natural "tight mouth + green qualities" read as under even when over. Finer adjustments made things worse across many entries. Trust coarser when SEY shows "small + mouthfeel" pattern. **Prototype (Meza, 2026-05-23)**: D9 5.675 read "small flavor profile, scratchy, tight tongue" with self-diag "5.7?"; following that diagnosis to D10 5.725 produced a clear under cup (soft + vague + lost flavors + cooldown improving). **Lesson**: when a SEY cup reads small+mouthfeel and the in-cup self-diagnosis says "coarser," weight the profile warning higher than the self-diagnosis — the cup was already past center.
+- **SEY misleading astringency**: SEY's natural "tight mouth + green qualities" read as under even when over. Finer adjustments made things worse across many entries. Trust coarser when SEY shows "small + mouthfeel" pattern. **Prototype (Meza, 2026-05-23)**: D9 5.675 read "small flavor profile, scratchy, tight tongue" with self-diag "5.7?"; following that diagnosis to D10 5.725 produced a clear under cup (soft + vague + lost flavors + cooldown improving). **Lesson**: when a SEY cup reads small+mouthfeel and the in-cup self-diagnosis says "coarser," weight the profile warning higher than the self-diagnosis — the cup was already past center. **Caveat**: the misleading-astringency rule applies to the **scratchy/powdery** variant of over-astringency. The **thirst/thick-saliva variant** (§13 and AGENT_GUIDE) is more honest — when a SEY cup reads thirst-driving + thick saliva + "could be coarser" without scratchy, the self-diagnosis is reliable and points genuinely coarser. Prototype: Alba D14 5.8 S5 "addictive juicy, makes you thirst, sweet spot or 5.825" — self-diagnosis correct, cup was one click too fine.
 - **SEY rest-floor + post-rest finer-grind shift (community cross-reference, 2026-05-23)**: External community evidence (multiple independent Reddit threads + SEY's own published guidance) converges on three claims that explain the journal's SEY behavior:
   - **Rest floor ≥ 3 weeks.** Loring-roasted ultralight coffees off-gas slowly; pre-rest cups present as astringent/scratchy/tight regardless of grind. SEY publishes a 14-day soft floor; community consensus (gunga_galungaa, bayleafbabe, XenoDrake1, asdfmaster314, Theanswer17, Chase1891, International-Heat55, MD76543, igotquestionsthanks, Cheap_Scratch4600, starryvarius) lands closer to 3 weeks for peak. **Maps onto the journal's historical D11–D21 zero-S5 dead zone** across ~49 pre-2026 SEY entries — the dead zone is not a journal-specific artifact; it's the off-gas window.
   - **SEY's own rule: "drying / astringent → grind coarser."** Confirms the §11 misleading-astringency direction call: when SEY reads tight/scratchy/small, the bean is over-extracted, not under. The community evidence and the roaster's own guidance agree with the journal's empirical pattern.
@@ -496,53 +486,61 @@ Overall Joshua direction-call accuracy: **~60–65%.** Breakdown:
 
 ## 13. Vocabulary Map (Joshua-specific descriptor → direction)
 
-Descriptors with strong directional signal in Joshua's journal beyond the universal set:
+Descriptors with strong directional signal in Joshua's journal beyond the universal set. Organized by where they sit on the over/under spectrum.
 
-- **Coarser edge of sweet spot (Score 5 leaning under)**: "big in mouth, not quite focused initially", "soft", "gentle", "mouthfilling but diffuse", "may be fully focused by next cup". Prototype: **Pena Day 19 @ 5.65** (most recent Hydrangea batch).
-- **Finer edge of sweet spot (Score 5 leaning over)**: "barely smaller flavor volume", "slight roughness, localized", "pleasant perfuminess, edges softening", "black tea forward". Prototype: **Paraiso Day 19 @ 5.625**.
-- **Overextraction spiral signature**: "small" + any mouth discomfort ("scratchy", "tight", "rubbing", "stiff"). Joshua's journal: going finer from this fails 67% of the time.
-- **"Hollow" / "watery" / "little substance or development in the flavor"**: Reliable underextraction signal. Prototype: **La Isabela Day 21 @ 5.7**.
-- **"Nothing shining / sweetness not sugary / acidity not genuine / cocoa a little off / balanced but flat"**: **Ambiguous — lean mild over.** Looks like under ("nothing shining") but often resolves as mild over in Joshua's journal. Prototype: **Pena Day 21 @ 5.7** — finer tiebreaker at 5.675 came out with mouth rubbing + heavy cocoa, confirming mild over. When this vocabulary appears, brew a tiebreaker in either direction before committing.
-- **"Brilliant / effervescent / peaking acidity" + "small flavor volume" + clean mouthfeel**: **Ambiguous — probe coarser to distinguish.** Joshua's formulated heuristic was "this equals barely overextracted," but the coarser probe disambiguates. If acidity _softens_ under coarsening → confirmed mild over. If acidity _unlocks further_ (brightens, texture opens up) → not over; the coffee is inside a sweet-spot window with varietal acidity that has headroom, and the "small volume" symptom is likely a reference-anchor artifact (see below). Prototype: **La Isabela Day 22** — 5.75 "brilliant grape soda + small volume" → 5.775 "even more brilliant, even looser" = not over, SS-window with headroom.
-- **"Small flavor volume" when compared to a Day 8–14 peak cup**: Suspect **reference-anchor bias**, not compression. Fresh-coffee perfuminess and CO₂ lift fade regardless of grind; late-life cups cannot reproduce the young-coffee "big first impression" even at peak extraction. Check whether the mental anchor is a specific early-days cup ("one of the best of the year"-class memory). If other markers are sweet-spot-coded (loose, defined acidity, honest flavors, clean mouthfeel), the cup is probably peaking for its age and doesn't need adjustment. Prototype: **La Isabela Day 9 @ 5.45** anchors Day 22's "small volume" perception.
-- **Per-coffee coarse-tolerance (same setting, same day, opposite inflection)**: When sibling coffees all Score 4 at the same setting but with differently-coded deficits — one reads _bright-but-loose_ (coarse-edge SS), another reads _soft/limp/could-be-brighter_ (under-leaning) — the SS center is probably shared, and the coffees differ in how they _fail_ past SS. Act on the under-leaning coffee's instinct (finer); don't infer divergent drift rates. Prototype: **Hydrangea batch Day 22** — La Isabela/Paraiso at 5.75 bright-but-loose, Monteblanco at 5.75 soft/limp with Joshua calling 5.725; all four share a ~5.725 SS center.
+### Sweet-spot spectrum (fine ← over | sweet spot | under → coarse)
 
-### Coffee-specific SS-edge fingerprints (Hydrangea late-life)
+| Position | Vocabulary cluster | Mouthfeel | Action |
+|---|---|---|---|
+| **Deep over** (2+ clicks too fine) | "gross/green/roasty/silty/metallic", "heavy/dark", "powdery", "harsh phenolic finish", flavors collapsed/dishonest | sandpapery, particulate, mouth-discomfort dominates cup | +2 clicks coarser; consider whether water/dose/temp are also off |
+| **Mild over — scratchy variant** | "small flavor volume" + "scratchy / tight / rubbing / rough", "middle dip", "hopes it loosens", "nothing shining / cocoa off / synthetic acidity" | surface friction on tongue + lips, localized rasp | +1 click coarser; cup often self-misdiagnoses as "needs finer" — distrust direction call |
+| **Mild over — thirst variant** | "thick saliva", "thirst-driving", "addictive juicy" (if balanced) or "muted / unfocused / want brighter" (if not), "sticky", "cloying" | thick/sticky salivary film, no powdery/scratchy roughness, makes you reach for water | +1 click coarser; cup self-diagnosis ("could be coarser") **is reliable** here, unlike the scratchy variant |
+| **Finer edge of SS** | "barely smaller volume", "slight localized roughness", "focused / introverted", "black tea forward", "pleasant perfuminess, edges softening" | clean but with hints of either roughness or thickness | +1 click coarser next brew (drift-tracking) |
+| **On center** | "loose", "open", "voluminous", "honest flavors", "musical/shimmering/melded", acidity immediate and integrated | clean, slippery saliva, no friction or coating | hold; expect drift to require +1 next day |
+| **Coarser edge of SS** | "big in mouth, not quite focused initially", "soft / gentle / mouthfilling but diffuse", "may be fully focused by next cup", varietal acidity unlocks further when probed coarser | loose, expansive, clean | hold or +1 coarser (test edge); no corrective action needed |
+| **Mild under** | "loose + bright + softening + slightly diffuse", acidity present but thin/far-off, "searching for tasting notes" | loose, clean, possibly slightly watery | +1 click finer |
+| **Deep under (hurricane)** | "large + foggy + structureless", "no sweetness", "hollow / watery / little substance", flavors present in surroundings but not in cup | thin, watery, no body | +2 clicks finer; rare past D14 in most batches |
 
-The Hydrangea batch Days 21–23 produced clean examples of each coffee's vocabulary at the edges of its sweet-spot window. These are **within-SS edge** signatures (not spiral/over or crash/under), useful for fine-tuning by one grinder click.
+### Key ambiguity resolutions
 
-- **Pena coarse-edge SS (one click coarse of center)**: _sharp / citric / mouthfilling but lacks focus / needs sweetness to define / good flavors but edge-forward_. The acidity surfaces first without structural support. Often mistaken for fine-edge SS because "sharp + citric" reads as brightness. **Tell**: "lacks focus" + "needs sweetness" (structural incompleteness). Action: **one click finer** toward center. Prototype: **Pena Day 23 @ 5.80** → Joshua called 5.775.
-- **Pena mild-over (past fine edge)**: _nothing shining / sweetness not sugary / acidity not genuine / cocoa a little off / balanced but flat / heavy English-breakfast-tea_. Introverted and homogeneous, flavors closing down. Finer probe produces mouth-rubbing and heavy/stinky cocoa. **Tell**: the cup is quiet in a "nothing is wrong but nothing is right" way, and acidity feels synthetic rather than varietal. Action: **one click coarser**. Prototype: **Pena Day 21 @ 5.7** (tiebreaker at 5.675 confirmed mild over).
-- **Monteblanco fine-edge SS (one click fine of center)**: _soft first sip / limp / small volume / missing bright / fantastic clarity / less complex / juicy in cooldown_. Unusual presentation — "fantastic clarity" and preserved flavor cleanliness alongside muted brightness. Looks like mild under at first read ("missing bright" sounds like thin extraction) but is fine-side of SS: the cup's brightness is being suppressed by slight-over-extraction without the spiral signals (no scratchiness, no astringency). Action: **one click coarser**. Prototype: **Monteblanco Day 22–23 @ 5.75** → Joshua called 5.775+.
-- **La Isabela / Paraiso coarse-edge SS (within varietal headroom)**: _loose / funky / bright / brilliant / still-structured_, often with "small volume" (partly reference-anchor bias, partly real looseness). These two have enough varietal acidity to stay inside SS even at shared batch-center +1 click coarse. Action: often **hold**, or go coarser by one click to test the window's coarse boundary. Prototype: **La Isabela Day 22 @ 5.75 → 5.775 probe** (both S4, coarser brighter).
-- **Paraiso coarse-edge SS at late life (one click coarse of center)**: _soft glow that falls off each sip / expansiveness grows through cooldown / peach-gummy flavor just-barely-out-of-focus / scratchy at cooldown but flavors growing not shrinking_. **Distinguishes from the Day-22 La Isabela coarse-edge**: La Isabela coarse-edge is **bright + loose** (acidity-led, structurally loose); Paraiso late-life coarse-edge is **soft + diffuse** (the peach-gummy character is preserved but defocused, brightness recedes rather than dominates). The "scratchy at cooldown" is **not** the spiral signature here — it appears alongside *expanding* flavor volume, not "small + scratchy." Action: **one click finer** toward center. Prototype: **Paraiso Day 33 @ 6.15 → SS-center 6.125** (user correction confirmed). _Note: my earlier Day-32 prototype at 6.10 was misread — Day 32's actual SS-center was ~6.10–6.115 (regime-shift territory), not 6.075. Paraiso D32 @ 6.10 was nearly on-center, not coarse-edge. Use the Day-33 prototype instead._
-- **Pena late-life mixed-edge ≠ "aged out" — bracket coarser by +2 steps first**: Simultaneous fine-edge ("muddy", "dark", "melded but obscured") and coarse-edge ("pointy", "citric", "edge-forward") vocabulary in the same cup looks like a narrowed SS window with no clean center. **Initial reading was that this meant the bean had aged out and chasing was futile.** Day 33 falsified that: Pena at 6.125 (+0.050 coarser than the Day-32 mixed-edge cup) hit S5 with no mixed-edge signals. The mixed-edge cup at Day 32 was actually a **fine-edge cup with residual coarse-edge tells** — the SS-center had moved past +1-step into +2-step territory due to late-life acceleration. **Lesson**: when a coffee shows mixed-edge vocabulary while siblings are also struggling at +1-step settings, treat it as a missed-by-acceleration cup and bracket with **+2 steps (0.050)** before concluding the bean is done. Prototype: **Pena Day 32 @ 6.075 (S4 mixed-edge) → Day 33 @ 6.125 (S5)**.
+- **"Small flavor volume" alone is not directional.** It can be mild over (compression), under (incomplete extraction), or reference-anchor bias against an early-life peak cup. Always pair with mouthfeel and acidity-timing markers to call direction.
+- **"Brilliant / effervescent acidity + small volume + clean mouthfeel"**: ambiguous. Probe coarser to disambiguate. If acidity _softens_ → confirmed mild over (finer next). If acidity _unlocks further_ → SS-window with varietal headroom (hold or coarser).
+- **"Nothing shining / flat / synthetic acidity / cocoa off / balanced but flat"**: reads as under but **frequently mild over**. Brew a tiebreaker before committing direction.
+- **"Sharp / citric / lacks focus / needs sweetness"** at SS-adjacent setting: usually **coarse-edge SS** (one click coarse of center). Acidity surfaces without structural support. Action: one click finer.
+- **"Soft / limp / missing bright + fantastic clarity"**: **fine-edge SS** (one click fine of center). Brightness suppressed by slight-over without spiral signals. Action: one click coarser.
+- **"Scratchy at cooldown" with _expanding_ flavor volume ≠ spiral.** Spiral requires shrinking flavors + mouth discomfort _together_. Expansion-during-cooldown is the disambiguator: scratchy + expanding = coarse-edge SS (finer); scratchy + shrinking = spiral (coarser).
+- **Simultaneous mixed-edge vocabulary in one cup** (e.g., "muddy/dark" AND "pointy/citric"): often a **fine-edge cup with residual coarse-edge tells during late-life drift acceleration**, not a narrowed window. Bracket with +2 steps coarser before concluding the bean is aged out.
 
-- **Pena Day-36 best-cup prototype** (S5 vocabulary at center, late-life): _decadent yet focused / sugary-tea immediate / English breakfast tea with sugar and cream / less eucalyptus, more cocoa / more emphasis on balance and tea complexity / clean cup_. The "best of this version" tier of Pena cups comes through when the Mejorado-style brown-sweetness profile lands cleanly without the Day-21–35 spectrum of off-tells (no "stinky cocoa", no "synthetic acidity", no "weaker / gentler", no "needs sweetness"). The cocoa↑ + eucalyptus↓ + tea-complexity↑ swap is the in-window-center signature; departures in any direction lose one of those three axes first. Prototype: **Pena Day 36 @ 6.20** (matching Monteblanco's S5 at the same setting same day — confirms Pena's center is not offset from siblings, only its window edges are tighter).
+### Reference-anchor bias
 
-- **Pena window-narrowing ≠ center-offset**: The Day-32→33 narrative described Pena's window as "narrower than its siblings'" and warned that Pena might fail S4 at sibling-consensus settings. **Day 36 refines this**: Pena hit S5 at 6.20 on the same day Monteblanco hit S5 at 6.20 — Pena's *center* tracks siblings precisely; only the *width* of its acceptable window is narrower. Practical implication: predict Pena's setting from sibling consensus the same way you'd predict Monteblanco's, but expect Pena to fail S4 (rather than S5) more often when one click off-center. Don't apply a finer-by-default offset to Pena.
-
-- **4-way same-batch blend at SS-center**: A blend of all four Hydrangea coffees brewed at the batch SS-center landed S5 ("lovely last cup!"), in contrast to prior 2-component blends that more often landed S4 ("introverted and small / round, simple, enjoyable"). Working hypothesis: when ≥3 components have shared center vocabulary (Day-36 three-way SS gave Monteblanco "melded easy", Pena "decadent focused", Paraiso "quite good!"), a blend at that center has a high probability of inheriting the shared SS character rather than averaging to a muted "introverted" reading. Single data point — needs more blends-at-center to confirm — but the heuristic is: **blend more aggressively at the batch SS-center when sibling consensus is ≥3-way; blend conservatively (and expect S4) when consensus is weaker**. Prototype: **Hydrangea 4-way blend Day 37 @ 6.25** (S5).
-
-**Why this matters for prediction**: at any shared batch-center, different coffees end up at different edge-positions within their SS windows because (a) their windows have different widths and (b) their descriptors index different features. When Pena reads "sharp/citric/needs-sweetness" and Monteblanco reads "soft/limp/missing-bright" on the same day at similar settings, **they are not misaligned on the same side of SS** — Pena is one click coarse of its center (wants finer), Monteblanco is one click fine of its center (wants coarser). Treat each coffee's edge-signatures independently; don't apply a single batch-direction correction.
+"Small flavor volume" compared against a Day 8–14 peak cup is often **perceptual, not extraction-based**. Fresh-coffee CO₂ lift and perfuminess fade regardless of grind; late-life cups cannot reproduce the young-coffee "big first impression" at any setting. If other markers are sweet-spot-coded (loose, defined acidity, honest flavors, clean mouthfeel), the cup is likely peaking for its age. Stop chasing volume.
 
 ### Vocabulary → direction quick-reference
 
 ```mermaid
 flowchart TD
-    A[Off-peak cup, need to call direction] --> B{Mouth discomfort?<br/>scratchy/tight/rubbing/stiff}
-    B -->|Yes + 'small' flavors| C[Overextraction spiral<br/>→ COARSER]
-    B -->|No| D{Flavor character?}
-    D -->|hollow / watery /<br/>little substance| E[Underextraction<br/>→ FINER]
-    D -->|nothing shining /<br/>flat / synthetic acidity /<br/>cocoa off| F[Ambiguous, lean MILD OVER<br/>→ probe coarser first]
-    D -->|brilliant + small +<br/>clean mouthfeel| G{Coarser probe result}
-    G -->|acidity softens| H[Confirmed mild over<br/>→ COARSER]
-    G -->|acidity unlocks/brightens| I[SS-window with headroom<br/>→ HOLD or coarser to test edge]
-    D -->|sharp/citric/lacks focus<br/>'needs sweetness'| J[Coarse-edge SS<br/>→ one click FINER]
-    D -->|soft/limp/missing bright<br/>+ fantastic clarity| K[Fine-edge SS<br/>→ one click COARSER]
-    D -->|big/diffuse/soft/<br/>'fully focused next cup'| L[Coarse-edge SS<br/>→ HOLD or one click finer]
-    D -->|simultaneous muddy/dark<br/>AND pointy/citric in same cup| M[Mixed-edge during late-life acceleration<br/>→ bracket +2 steps coarser, NOT aged out]
+    A[Off-peak cup, need to call direction] --> B{Mouth discomfort?}
+    B -->|Scratchy/rough/powdery<br/>+ 'small' flavors| C[Spiral / mild–deep over<br/>→ COARSER 1-2 clicks]
+    B -->|Thick saliva / thirst-driving<br/>without scratchy| T[Thirst-cluster mild over<br/>→ COARSER 1 click<br/>trust self-diagnosis]
+    B -->|No discomfort| D{Flavor character?}
+    D -->|Hollow / watery /<br/>little substance| E[Underextraction<br/>→ FINER]
+    D -->|Nothing shining / flat /<br/>synthetic acidity / cocoa off| F[Ambiguous, lean mild over<br/>→ tiebreaker brew]
+    D -->|Brilliant acidity +<br/>small volume + clean mouth| G{Coarser probe result}
+    G -->|Acidity softens| H[Confirmed mild over<br/>→ COARSER]
+    G -->|Acidity unlocks/brightens| I[SS-window with headroom<br/>→ HOLD or test coarser edge]
+    D -->|Sharp/citric/lacks focus<br/>'needs sweetness'| J[Coarse-edge SS<br/>→ one click FINER]
+    D -->|Soft/limp/missing bright<br/>+ fantastic clarity| K[Fine-edge SS<br/>→ one click COARSER]
+    D -->|Big/diffuse/soft/<br/>'fully focused next cup'| L[Coarse-edge SS<br/>→ HOLD or one click finer]
+    D -->|Simultaneous muddy/dark<br/>AND pointy/citric in same cup| M[Mixed-edge during drift acceleration<br/>→ bracket +2 steps coarser]
 ```
+
+### Notable prototype cups (one each, for vocabulary recall)
+
+- **Spiral (scratchy)**: La Esperanza 2 chased finer from 5.85 S4 to 6.00 S2 — classic spiral case in the journal.
+- **Thirst-cluster mild over**: Alba D14 5.8 S5 ("addictive juicy, makes you thirst, sweet spot or 5.825") — balanced thirst self-diagnosed coarser correctly.
+- **Mixed-edge during acceleration**: Pena Day 32 6.075 S4 mixed-edge → Day 33 6.125 S5 (proved bean wasn't aged out, just outside +1 bracket during late-life acceleration).
+- **SS window with varietal headroom**: La Isabela Day 22 5.75 → 5.775 ("even more brilliant, even looser") — acidity unlocks under coarsening, not over.
+- **Stalled-drift false alarm**: Hydrangea Day 35 four-coffee 6.20 S4 cluster all calling "lean 6.175" → Day 36 three-way S5 at 6.20 (same-day vocabulary cluster ≠ real center shift).
 
 ## 14. Open Questions / TODO
 
@@ -551,6 +549,7 @@ flowchart TD
 - The Day-30 one-click spread between Paraiso (6.025 S5) and Monteblanco (6.00 S5) was within bracket-corridor noise, not evidence of a per-coffee coarser-bias for Paraiso. The Day 33 sibling consensus at 6.125 (Monteblanco + Pena both S5; Paraiso user-correction also 6.125) confirms all three remaining coffees track the same trend. **Methodological lesson**: a single-day, one-click anchor spread between sibling coffees is within noise; require ≥2 non-adjacent days of consistent spread before promoting to a per-coffee drift bias.
 - Does the coarser-edge "may be fully focused by next cup" observation hold across roasters, or is it specific to Hydrangea's gentler profile?
 - More Sey data needed: the SEY drift estimate of ~0.025/day rests on per-coffee slopes across 6 coffees (Muhito, Dota, Gotiti, Botina, Guchienda, Bermudez-new) with ≥3 anchors each in this journal, after excluding Bermudez-old (which is not a SEY coffee). **Sample-size caveat**: this journal represents a small fraction of the maintainer's total SEY brewing history (hundreds of cups, mostly pre-journal). Claims derived purely from the journal — "narrow window", "S3 modal outcome", per-coffee S5-window narrowness — should be weighted lightly compared to claims about other roasters where the journal sample is closer to the full brewing history. The roaster's suggested 14-day rest is a soft floor; in practice good cups are coaxable from D7–D9 with appropriate grind (Guchienda D9 5.65 S5, Alba D8 5.65 S5, Bermudez D8 5.65 S5 confirm this — all in the May 2026 batch). The pre-2026-04 SEY dataset contains zero S5 anchors D7–D21 across ~49 entries; whether this reflects batch-specific behavior or a general rule needs more data from future SEY batches.
+- **SEY May 2026 batch trajectory still unfolding.** Two step-shifts confirmed (D10→D11 + D13→D14); next anchors will clarify whether the trajectory plateaus, takes a third step, or returns to historical +0.025/day drift past D21. Watch for: (a) whether the post-D14 center holds at ~5.825–5.85 or continues climbing; (b) whether per-coffee offsets remain stable (Guchienda finest, Alba/Bermudez at-or-just-above batch center) or fan out further; (c) whether Meza re-enters the dataset and where it lands. Provisionally treat any future SEY batch as **multi-step-shift during the off-gas window, not single-slope drift** until the next batch's anchors confirm or falsify.
 - **Paix late-life regime confirmed at ~0.025/day batch-wide from D27+** (AD D31→D33, FS D27→D28, Blue D31→D33 all moving at 0.025/day; **D39 cross-coffee check: Blue 6.775 S4 coarse-edge implies center ~6.75; AD 6.675 S4 fine-edge mild-over implies center ~6.625–6.65 — per-coffee gap of ~0.10–0.125 holds, drift D33→D39 ≈ +0.021/day for Blue and +0.020/day for AD; flat regime extends through D39 with no acceleration signal**). Two-regime drift documented in §7 and §11. Open sub-questions: (a) does the per-coffee fan-out (~0.18 at D25 mid-life, ~0.10–0.13 at D31 late-life, ~0.10–0.125 at D39) reproduce on the next Paix purchase, suggesting roaster-side per-coffee structural differences; (b) at what age does the late-life flat regime end — **D27→D39 (12 days) confirms continuation; no signal yet that Paix re-accelerates like H&S/Hydrangea late-life batches**; watch past D40 for any change; (c) Blossom Wine "narrow + intermittent productive window late-life" needs more anchors — D31/D32 S4 + D35 S2 is suggestive but not conclusive; (d) the prior mid-life intercepts (AD 4.320, Blue 4.637, Blossom 4.51, FS 4.78) are correct for D16–D27 predictions, but should they be re-anchored from the late-life S5 cluster if Paix re-orders coffees on a future batch.
 
 ## 15. Holdout Validation
