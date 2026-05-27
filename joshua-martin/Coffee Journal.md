@@ -4384,4 +4384,14 @@ Quite good. Flavors are well balanced with sweetness. This is a bit of the more 
 
 Pretty good if not darker flavors, highly scratchy in mouth and lips, heavy almost natural process finish, actually a bit similar to the gravy quality of Blue Strudel. This might be a little overextracted, but a good cup nonetheless.
 
-## Guchienda, Z, 5.775 @ 211ºF, 12.5g/250g Day 15, Score:
+## Guchienda, Z, 5.8 @ 211ºF, 12.5g/250g Day 15, Score: 4
+
+Good texture and sweetness, a little dark and powdery in first two sips. Third sip pretty clear. Becomes increasingly sharp in cooldown, with lots of scratchiness. Good plumpness, with an even more scratchy feel. Exciting overall but not fully balanced and could be more explicit in the loose sweet tomato?
+
+## Alba, Z, 5.8 @ 211ºF, 12.5g/250g Day 14, Score: 5
+
+A very addictive juicy cup, the kind that makes you thirst. Great balance between tartness and sweetness. It is possible we could get a sweeter cup (maybe age will help here), but the balance of this cup makes it so easy to drink. **Sweet spot or 5.825**
+
+## Bermudez, Z, 5.8 @ 211ºF, 12.5g/250g Day 14, Score: 4
+
+Similar to Alba, this is melded (not noisy/foggy) and makes me thirst quite a bit, but not in the most positive way. Pineapple acidity and hops finish are here but a little muted or unfocused. I want this to be brighter/shinier, but it's so close and overall much better balanced than other cups.
