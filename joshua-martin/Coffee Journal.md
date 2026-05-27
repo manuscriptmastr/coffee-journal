@@ -4394,6 +4394,12 @@ A very addictive juicy cup, the kind that makes you thirst. Great balance betwee
 
 ## Bermudez, Z, 5.8 @ 211ºF, 12.5g/250g Day 14, Score: 4
 
-Similar to Alba, this is melded (not noisy/foggy) and makes me thirst quite a bit, but not in the most positive way. Pineapple acidity and hops finish are here but a little muted or unfocused. I want this to be brighter/shinier, but it's so close and overall much better balanced than other cups.
+Similar to Alba, this is melded (not noisy/foggy) and makes me thirst quite a bit, but not in the most positive way. Pineapple acidity and hops finish are here but a little muted or unfocused. I want this to be brighter/shinier, but it's so close and overall much better balanced than other cups. **5.825**
 
-## Bermudez, Z, 5.825 @ 211ºF, 12.5g/250g Day 14
+## Meza, Z, 5.825 @ 211ºF, 12.5g/250g Day 14, Score: 4
+
+No astringency or thirst, no noise or fogginess, a very soft profile with a natural glow and brightness, not necessarily the most distinct cup but acidity has a nice glow. Some tea complexity. A very balanced cup, but needs the focused sugary sweetness and jasmine.
+
+## Guchienda, Z, 5.875 @ 211ºF, 12.5g/250g Day 16, Score: 3
+
+Somewhat tasteless and watery first sip. Becomes increasingly citric and currant-like, with sharp scratchiness in mouth. Very bright and vivid acidity, but imbalanced and not deep ripe tomato.

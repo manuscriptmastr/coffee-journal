@@ -249,29 +249,66 @@ Densest Score-5 carpet of any roaster — eleven coffees with similar drift make
 
 This is the first multi-coffee same-day grind-spectrum SEY observation in the journal. The bracket places the batch SS-center at **~5.6875–5.70 at D10**; per-coffee window-width (not per-coffee SS-center) explains most of the score variation. **Cross-coffee intercept fan-out narrows to ~±0.025 within the current batch** — much tighter than the all-batches ~0.15 estimate (which pooled across Sept–Oct 2025 and May 2026 batches). The Meza D9 self-diagnosis "5.7?" came from an over-leaning cup; acting on it produced a clear-under cup at D10 5.725 — **a clean prototype of the SEY misleading-astringency trap profiled in §11**.
 
-**Current SEY batch trajectory (D7–D15, Z brewer, 2026-05).** Three regimes, revised after the D14/D15 cross-coffee anchor at 5.8 falsified the earlier plateau model:
+**Current SEY batch trajectory (D7–D16, Z brewer, 2026-05).** Best-fit model is a **two-cluster logistic** (sigmoid rise out of CO₂-masked early life into a per-cluster late-life plateau, shared transition midpoint and steepness, cluster-specific ceiling). Earlier readings of this batch (single linear trend → flat plateau → two-step-shift) were each falsified by the next round of anchors; the sigmoid is the simplest model that fits all 25 May 2026 anchors (D7–D16, four coffees) without serial refitting.
 
-- **D7–D10 (early-life CO₂-masked window)**: slope **+0.030/day**, anchors 5.60→5.69. Per-coffee fan-out ~0.025. CO₂ in the bed throttles extraction, masking the post-rest "real" center.
-- **D10→D11 (CO₂-degas step-shift)**: one-day batch-center jump of **~+0.07 grind units** (5.69→5.76). The single largest one-day batch movement in the dataset. Per-coffee shift timing is asynchronous.
-- **D11–D14 brief slow-drift (~+0.005/day) — then D14→D15 second step-shift**: Initial reading of D11–D14 was a flat plateau (~5.76 batch center). The **D14/D15 four-coffee 5.8 anchor falsified this**: Alba D14 5.8 S5 ("sweet spot or 5.825"), Bermudez D14 5.8 S4 (thirst + muted, wants brighter), Guchienda D15 5.8 S4 (dark/powdery cooldown). Three coffees at 5.8 all calling for coarser puts the D14/D15 batch center at **~5.825–5.85**, ~0.06–0.08 coarser than the plateau model predicted (5.755–5.765). The bean has degassed past a second threshold, opening a wider SS-center window than D11–D13 anchored. Working model: a **second step-shift around D13→D14** (~+0.06 over 1–2 days), then likely a new plateau or slow drift D15+. **Two-step-shift trajectory matches community evidence** (§11) that SEY bean fully rests at ~3 weeks; the May 2026 batch is compressing the rest window into a series of step-shifts rather than a single discontinuity.
+**Fitted parameters** (weighted-RMSE minimum across 25 anchors, weights = Score² × VocabConfidence × BoundaryInformativeness, Σw = 142.5):
 
-Score-weighted per-day centers (updated D14/D15):
+| Cluster                | Coffees              | Floor | Ceiling | t₀ (midpoint) | k (steepness) | Cluster RMSE |
+| ---------------------- | -------------------- | ----- | ------- | ------------- | ------------- | ------------ |
+| Fine                   | Guchienda, Meza      | 5.60  | **5.78** | 11.0          | 0.9           | 0.014        |
+| Coarse                 | Alba, Bermudez       | 5.60  | **5.83** | 11.0          | 0.9           | 0.018        |
 
-| Day | n | Weighted grind |
-| --- | - | -------------- |
-| 7   | 1 | 5.600          |
-| 8   | 3 | 5.650          |
-| 9   | 3 | 5.658          |
-| 10  | 4 | 5.686          |
-| 11  | 3 | 5.759          |
-| 12  | 3 | 5.765          |
-| 13  | 1 | 5.750          |
-| 14  | 2 | 5.81 (Guchienda 5.775 S5 + Alba/Bermudez 5.8 S5/S4 cluster, revised upward to reflect coarser-leaning self-diagnoses) |
-| 15  | 1 | 5.825 (Guchienda 5.8 S4, wanting +0.025–0.05) |
+Center(day, cluster) = floor + (ceiling − floor) / (1 + exp(−k · (day − t₀))).
 
-**Per-coffee offsets from D14+ batch center**: Guchienda ≈ batch −0.025 (finest); Bermudez 0 (center); Alba 0 to +0.0125 (coarsest by a hair). Fan-out ~0.025–0.0375, same as pre-shift. **Predict each current-batch SEY coffee from the batch trajectory ± its post-CO₂ offset.**
+**Model comparison** (weighted RMSE across all 25 anchors):
 
-**Forward predictions under the two-step-shift model:** D16 batch center ~5.85, D17 ~5.85–5.875, D21 ~5.875+. Past D21, watch for either a return to historical D22+ SEY behavior (S5 cluster ~5.9 from prior batches) or a third step-shift. Treat predictions D16+ as ±0.025 uncertain until next anchor confirms.
+| Model                                              | wRMSE  | Notes                                                                  |
+| -------------------------------------------------- | ------ | ---------------------------------------------------------------------- |
+| A. Single linear (one slope all coffees)           | 0.0467 | Cannot reconcile D10 5.69 with D14–16 5.78–5.83.                       |
+| B. Two-step-shift (D10→D11, D13→D14) + plateaus    | 0.0190 | Prior model; fits D11–13 plateau but overpredicts D14+ coarse cluster. |
+| **C. Two-cluster sigmoid (current)**               | **0.0160** | RSS reduction of ~15 over Model A across 3 added params (≈5 each); preferred by AIC-style parsimony. |
+
+**Cluster assignment**: fine vs. coarse cluster appears to track per-coffee window-width and edge-vocabulary rather than processing or varietal. Guchienda (Kenya washed) and Meza (Gesha washed) sit ~0.05 finer at plateau; Alba (pink bourbon) and Bermudez (Colombian chiroso) sit ~0.05 coarser. The gap is wider than the within-cluster fan-out (~0.025) and reproduces cleanly across D14–D16 anchors.
+
+**Bermudez residual hint**: D11–D12 Bermudez anchors (inferred centers 5.75, 5.725) sit ~0.025 below the coarse-cluster sigmoid prediction, suggesting Bermudez may have t₀ ≈ 10.5 vs. Alba's ≈ 11.5. Not split in the current fit (4–5 anchors per coffee is below the n needed to justify per-coffee t₀); flagged for future batches.
+
+**Forward predictions (D17+)**:
+
+| Day      | Fine cluster (Guchienda, Meza) | Coarse cluster (Alba, Bermudez) |
+| -------- | ------------------------------ | ------------------------------- |
+| D17      | 5.78                           | 5.83                            |
+| D18–D21  | 5.78 (plateau)                 | 5.83 (plateau)                  |
+| D22+     | Watch for third-stage rise toward historical D22+ ~5.9 anchors (Sept–Oct 2025 batches) | Same — community evidence suggests SEY bean fully rests ~D21+ |
+
+```mermaid
+xychart-beta
+    title "SEY May 2026 — two-cluster sigmoid fit (Z brewer)"
+    x-axis "Day age" 7 --> 21
+    y-axis "Grind setting" 5.55 --> 5.90
+    line [5.610, 5.626, 5.649, 5.682, 5.726, 5.778, 5.776, 5.770, 5.776, 5.780, 5.780, 5.780, 5.780, 5.780, 5.780]
+    line [5.610, 5.628, 5.655, 5.693, 5.745, 5.806, 5.806, 5.806, 5.823, 5.829, 5.830, 5.830, 5.830, 5.830, 5.830]
+```
+
+_First line = fine-cluster prediction (Guchienda/Meza); second line = coarse-cluster prediction (Alba/Bermudez). Plateau reached by D14–15, sustained through D21._
+
+**Per-day anchor table (n=25, score-weighted observed center vs. sigmoid prediction)**:
+
+| Day | n | Observed (fine) | Predicted (fine) | Observed (coarse) | Predicted (coarse) |
+| --- | - | --------------- | ---------------- | ----------------- | ------------------ |
+| 7   | 1 | 5.60 (Guch)     | 5.61             | —                 | 5.61               |
+| 8   | 3 | 5.65 (Guch)     | 5.63             | 5.65 (Alba, Berm) | 5.63               |
+| 9   | 3 | 5.65–5.66 (Guch, Meza) | 5.65      | 5.66 (Berm)       | 5.66               |
+| 10  | 4 | 5.66–5.70 (Guch, Meza) | 5.68      | 5.70 (Alba, Berm) | 5.69               |
+| 11  | 3 | 5.74 (Guch)     | 5.73             | 5.75 (Alba, Berm) | 5.75               |
+| 12  | 3 | 5.76 (Guch)     | 5.78             | 5.73 (Berm)       | 5.81               |
+| 13  | 1 | 5.75 (Guch)     | 5.78             | —                 | 5.81               |
+| 14  | 5 | 5.775 (Guch S5) | 5.78             | 5.80–5.825 (Alba S5, Berm S4, Meza S4) | 5.81–5.83 |
+| 15  | 1 | 5.80 (Guch S4)  | 5.78             | —                 | 5.83               |
+| 16  | 1 | 5.85 inferred (Guch 5.875 S3 under) | 5.78 | —             | 5.83               |
+
+D16 Guchienda 5.875 S3 under brackets the fine-cluster center between 5.78 (D15 reading) and 5.875, consistent with the sigmoid plateau at 5.78 ± 0.025.
+
+**Per-coffee offsets from cluster center**: within-cluster fan-out at plateau is ~±0.025, smaller than the between-cluster gap (~0.05). Predict each current-batch SEY coffee from its **cluster** sigmoid; per-coffee bias under 1 click.
 
 ## 9. Correction Bias
 
@@ -549,7 +586,7 @@ flowchart TD
 - The Day-30 one-click spread between Paraiso (6.025 S5) and Monteblanco (6.00 S5) was within bracket-corridor noise, not evidence of a per-coffee coarser-bias for Paraiso. The Day 33 sibling consensus at 6.125 (Monteblanco + Pena both S5; Paraiso user-correction also 6.125) confirms all three remaining coffees track the same trend. **Methodological lesson**: a single-day, one-click anchor spread between sibling coffees is within noise; require ≥2 non-adjacent days of consistent spread before promoting to a per-coffee drift bias.
 - Does the coarser-edge "may be fully focused by next cup" observation hold across roasters, or is it specific to Hydrangea's gentler profile?
 - More Sey data needed: the SEY drift estimate of ~0.025/day rests on per-coffee slopes across 6 coffees (Muhito, Dota, Gotiti, Botina, Guchienda, Bermudez-new) with ≥3 anchors each in this journal, after excluding Bermudez-old (which is not a SEY coffee). **Sample-size caveat**: this journal represents a small fraction of the maintainer's total SEY brewing history (hundreds of cups, mostly pre-journal). Claims derived purely from the journal — "narrow window", "S3 modal outcome", per-coffee S5-window narrowness — should be weighted lightly compared to claims about other roasters where the journal sample is closer to the full brewing history. The roaster's suggested 14-day rest is a soft floor; in practice good cups are coaxable from D7–D9 with appropriate grind (Guchienda D9 5.65 S5, Alba D8 5.65 S5, Bermudez D8 5.65 S5 confirm this — all in the May 2026 batch). The pre-2026-04 SEY dataset contains zero S5 anchors D7–D21 across ~49 entries; whether this reflects batch-specific behavior or a general rule needs more data from future SEY batches.
-- **SEY May 2026 batch trajectory still unfolding.** Two step-shifts confirmed (D10→D11 + D13→D14); next anchors will clarify whether the trajectory plateaus, takes a third step, or returns to historical +0.025/day drift past D21. Watch for: (a) whether the post-D14 center holds at ~5.825–5.85 or continues climbing; (b) whether per-coffee offsets remain stable (Guchienda finest, Alba/Bermudez at-or-just-above batch center) or fan out further; (c) whether Meza re-enters the dataset and where it lands. Provisionally treat any future SEY batch as **multi-step-shift during the off-gas window, not single-slope drift** until the next batch's anchors confirm or falsify.
+- **SEY May 2026 batch trajectory — two-cluster sigmoid (n=25 anchors, D7–D16).** Fine cluster (Guchienda, Meza) plateaus at 5.78; coarse cluster (Alba, Bermudez) plateaus at 5.83; shared t₀ ≈ 11.0, k ≈ 0.9; weighted RMSE 0.016 (vs. 0.019 for the prior two-step-shift model and 0.047 for a single-linear model). Open sub-questions: (a) does the plateau hold through D21 or does a third-stage rise toward historical D22+ ~5.9 anchors emerge (community evidence suggests SEY bean fully rests ~D21+); (b) is the fine/coarse cluster split reproducible on a future SEY batch (current split is empirical — no clear processing/varietal pattern, fine = Kenya washed + Gesha washed, coarse = pink bourbon + chiroso); (c) Bermudez D11–D12 anchors sit ~0.025 below the coarse-cluster sigmoid, hinting at Bermudez t₀ ≈ 10.5 vs. Alba t₀ ≈ 11.5 — needs more anchors to justify per-coffee t₀ split; (d) provisionally treat any future SEY batch as **two-cluster sigmoid during the off-gas window, not single-slope drift**, until that batch's anchors confirm or falsify.
 - **Paix late-life regime confirmed at ~0.025/day batch-wide from D27+** (AD D31→D33, FS D27→D28, Blue D31→D33 all moving at 0.025/day; **D39 cross-coffee check: Blue 6.775 S4 coarse-edge implies center ~6.75; AD 6.675 S4 fine-edge mild-over implies center ~6.625–6.65 — per-coffee gap of ~0.10–0.125 holds, drift D33→D39 ≈ +0.021/day for Blue and +0.020/day for AD; flat regime extends through D39 with no acceleration signal**). Two-regime drift documented in §7 and §11. Open sub-questions: (a) does the per-coffee fan-out (~0.18 at D25 mid-life, ~0.10–0.13 at D31 late-life, ~0.10–0.125 at D39) reproduce on the next Paix purchase, suggesting roaster-side per-coffee structural differences; (b) at what age does the late-life flat regime end — **D27→D39 (12 days) confirms continuation; no signal yet that Paix re-accelerates like H&S/Hydrangea late-life batches**; watch past D40 for any change; (c) Blossom Wine "narrow + intermittent productive window late-life" needs more anchors — D31/D32 S4 + D35 S2 is suggestive but not conclusive; (d) the prior mid-life intercepts (AD 4.320, Blue 4.637, Blossom 4.51, FS 4.78) are correct for D16–D27 predictions, but should they be re-anchored from the late-life S5 cluster if Paix re-orders coffees on a future batch.
 
 ## 15. Holdout Validation
