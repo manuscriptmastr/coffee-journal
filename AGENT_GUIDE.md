@@ -269,6 +269,17 @@ These numbers are partially confounded by drift-tracking: a coarser move between
 - Scientifically, this is the point where complex late-extracting aromatics (fruity/floral compounds like beta-damascenone) have fully dissolved while [harsh phenolics haven't yet overwhelmed them](https://www.sciencedirect.com/science/article/pii/S1387380616000440). Aromatic compounds extract in order of polarity: bright/buttery notes first, complex fruity/floral depth mid-extraction, harsh/smoky phenolics last.
 - **Acidity timing in the sip** distinguishes extraction levels: at the sweet spot, acidity is **immediate and integrated** — bright from the first sip, woven into sweetness. When underextracted, acidity is **far-off and searching** — you sense it could be there but it never fully arrives. When overextracted, acidity is **delayed to the finish** — heavy late-extracting compounds (phenolics, melanoidins) mask the acids upfront, but the acids emerge as a "warm glow" in the finish once the heavier compounds clear the palate. This last signal is easy to mistake for a positive quality, but if acidity only appears in the finish and not immediately, the cup may be over.
 
+### Cooldown trajectory as a diagnostic axis
+
+How a cup evolves from first sip to last is independent evidence of where it sits on the extraction curve, separate from the static descriptors of the opening sips. Treat it as a first-class diagnostic alongside flavor character and mouthfeel.
+
+- **Sweet spot:** flavors *grow or hold* in articulacy through cooldown. Acidity becomes more defined, sweetness undergirds more visibly, tasting notes resolve further. Mouthfeel stays slippery throughout.
+- **Mild over (finer edge of SS):** flavor character may hold or even sharpen, but **mouthfeel discomfort persists or grows** as the cup cools — scratchiness, tight tongue, thick saliva, or thirst-driving finish that wasn't obvious in the hot first sips. Heat was masking the polyphenol-binding signal; cooldown reveals it.
+- **Deep over:** cup *loses* brightness and *gains* heavy / gravy / dark / roasty notes as it cools. Aromatic top-end collapses while harsh phenolics dominate. Finish gets worse, not better.
+- **Under (either volume signature):** cup *improves* notably in cooldown — late-extracting aromatics ([beta-damascenone](https://pmc.ncbi.nlm.nih.gov/articles/PMC8230519/) and similar) surface at lower temperatures, so flavors become more perceptible and "honest." But the improvement **plateaus thin**: the cup never resolves to full body or sustained finish, just gets cleaner about what little is there.
+
+The diagnostic pivot: when first-sip descriptors are ambiguous ("nothing shining", "small flavor volume", "balanced but flat"), let cooldown trajectory cast the deciding vote. **Improvement-then-plateau** = under; **mouthfeel discomfort surfacing or growing** = over; **growth in articulacy with stable slippery mouthfeel** = sweet spot.
+
 ### Edges of the sweet-spot window (still Score 5, but trending)
 
 The sweet spot is a window ~2–3 grinder steps wide, not a point. Two distinct signatures mark its edges — both can still earn Score 5, but they tell you which direction the coffee is headed:
@@ -282,6 +293,7 @@ The tiebreaker between the two: **mouthfeel**. Coarser edge = loose and diffuse,
 
 - "Watery", "fragile", "toyish", "small flavor volume"
 - "Hollow" — aromatics and dynamics present in the surroundings of the cup, but no substance or development in the actual flavor. Strongly underextracted signal when it appears.
+- **Two volume signatures of under, not one.** The classic small/watery/fragile/toyish presentation is *low-volume* under (insufficient mass extracted). The opposite presentation is *high-volume* under — sometimes called the **hurricane**: large, mouthfilling, foggy, structureless cup with **flat dynamic range** ("everything is loud and indistinct, nothing focused"), no sweetness backbone, flavors present as ambient noise rather than discrete notes. Both are under; both call for finer. The hurricane typically sits further past the coarse edge than the small/watery variant and usually needs ≥2 clicks finer to resolve, whereas small/watery often resolves in one. Mouthfeel is the disambiguator from over: hurricane texture is loose / open / non-friction; if "big and foggy" arrives with rasp or stiffness, the cup is over, not under.
 - Far-off flavors, "searching" for tasting notes
 - Flavors present but not "focused in"
 - "Unfocused", "dulled", "missing edge / definition", "nothing shining" — **ambiguous**; can appear on either side. If accompanied by "acidity not genuine / cocoa off / balanced but flat" or any mouthfeel rubbing, suspect mild over. Confirm with a tiebreaker brew before committing.
