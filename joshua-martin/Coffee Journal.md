@@ -4403,3 +4403,35 @@ No astringency or thirst, no noise or fogginess, a very soft profile with a natu
 ## Guchienda, Z, 5.875 @ 211ºF, 12.5g/250g Day 16, Score: 3
 
 Somewhat tasteless and watery first sip. Becomes increasingly citric and currant-like, with sharp scratchiness in mouth. Very bright and vivid acidity, but imbalanced and not deep ripe tomato.
+
+## Blossom Wine, Z, 6.8 @ 211ºF, 12.5g/250g Day 41, Score: 3
+
+Not bad. No defects. No clear flavors but not watery either. A very tolerable cup.
+
+## Floral Standard, Z, 6.65 @ 211ºF, 12.5g/250g Day 37, Score: 5
+
+Wow, from start to finish this is gentle, mouthfilling, sustaining moderate intensity of jasmine and gesha sweetness, balanced with a citrus acidity. Extremely balanced, glowing, and sustained. Lovely!
+
+## Bermudez, Z, 5.85 @ 211ºF, 12.5g/250g Day 15, Score: 5
+
+Compelling first sip, with a slight graininess yet melded and crisp flavors and a notable finish. Quiet but defined and structured acidity. The slight astringency actually reminds me of the listed pineapple descriptor. Delicacy continues, without being watery. True nature of pineapple occasionally pops out toward the end, along with the slight 'funk' character in the finish that is likely the hops tasting note. Continues to be crisp, delicate, subtle, yet complex. All the flavors are represented here and the texture is balanced. Last sip continues to hold. It is possible this might be barely on the lighter/underextracted side of the sweet spot, but it is the most compelling cup I've had so far.
+
+## Alba, Z, 5.85 @ 211ºF, 12.5g/250g Day 15, Score: 5
+
+Unmistakeable currant immediately noticeable in first sip, along with graininess. Wonderful sweetness-backed vivid tart acidity. Tongue is just barely dry. A very good cup. I could see 5.825 also being effective.
+
+## Meza, Z, 5.825 @ 211ºF, 12.5g/250g Day 16, Score: 3
+
+No jasmine or obvious gesha sugariness, but acidity is a bit more noticeable. Becomes more plump as cools. Barely tight in mouth. No obvious flaws, just confused where the gesha qualities are. **5.8?**
+
+## Guchienda, Z, 5.85 @ 211ºF, 12.5g/250g Day 18, Score: 4
+
+Tricky cup. Sharp tomato, a little imbalanced, some vividness in cooldown. I think it needs more sweetness, but mouth is also scratchy. Moderate finish. The flavor volume is not quite explosive, but close. Profile slightly tight. I feel as if we can intensify the tomato by going finer, but not entirely sure. I wasn't sure whether the flavors were 100% genuine. **5.825? 5.875?**
+
+## Meza, Z, 5.8 @ 211ºF, 12.5g/250g Day 16, Score: 3
+
+Also tricky. This has less acidity, barely more florals, a much tighter texture, extremely loud scratchiness in mouth, a strange offtaste (or is it a very woody jasmine?) in a heavy finish, a flavor profile that is both flat and loud as cools, and a sense that the juiciness and plumpness of flavors have become more harsh yet empty. Last sip, however, is bright if not domineering. A confusing profile. Gesha sugary quality not here, yet I believe I'm tasting an extremely accurate jasmine note in the finish. **5.85-5.875**
+
+## Guchienda, Z, 5.875 @ 211ºF, 12.5g/250g Day 18, Score: 5
+
+First sip: much much looser tomato note, with a good finish and fairly undergirded by sweetness. Pretty instant, and finish continues. Slight scratchiness in mouth. I do wonder if this can be more overt and sweet like the first cup or two. Middle portion is straightforward, with a slight 'zing' to tomato acidity, continuing into finish. I still wonder if I can get more explosion or sweetness out of this. Finish continues to linger, almost into herbal/woody territory (think tomato vine aromatics). Tomato continues to grow in cooldown, which is what I was hoping. Scratchiness does as well. 4 or 5. This was very good, with the slightest wonder if 5.9 would have been better.
