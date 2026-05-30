@@ -4435,3 +4435,19 @@ Also tricky. This has less acidity, barely more florals, a much tighter texture,
 ## Guchienda, Z, 5.875 @ 211ºF, 12.5g/250g Day 18, Score: 5
 
 First sip: much much looser tomato note, with a good finish and fairly undergirded by sweetness. Pretty instant, and finish continues. Slight scratchiness in mouth. I do wonder if this can be more overt and sweet like the first cup or two. Middle portion is straightforward, with a slight 'zing' to tomato acidity, continuing into finish. I still wonder if I can get more explosion or sweetness out of this. Finish continues to linger, almost into herbal/woody territory (think tomato vine aromatics). Tomato continues to grow in cooldown, which is what I was hoping. Scratchiness does as well. 4 or 5. This was very good, with the slightest wonder if 5.9 would have been better.
+
+## Blue Strudel, Z, 6.875 @ 211ºF, 12.5g/250g Day 43, Score: 5
+
+Wow. That was the best cup I've ever had of this coffee. Gravy character gone, and instead a perfumy sweet berry jam profile. Lovely from beginning to end. Glowing, luxurious, creamy, etc.
+
+## Bermudez, Z, 5.9 @ 211ºF, 12.5g/250g Day 17, Score: 4
+
+A barely vague and tight but still bright and expansive cup. Flavor volume increases noticeably in cooldown, but refrains from distinct pineapple and hops tasting notes and finish. Finish dissipates quickly. Acidity is just barely unfocused. I wonder if perhaps **5.875** could have given us a 5 today?
+
+## Amber Drop, Z, 6.8 @ 211ºF, 12.5g/250g Day 43, Score: 4
+
+Stunning flavors. Alcoholic quality to acidity ever present, plump sweetness and texture, vivid, juicy all the way through finish. However, the mouth is very scratchy and tight even in lips. This brew overall was delightful to drink. **6.825?**
+
+## Alba, Z, 5.875 @ 211ºF, 12.5g/250g Day 17, Score: 4
+
+This one is so darn close. The first half is slightly boring: suggesting (but not exploding with) currant and berry tones, but not quite selling it 100%. A true berry tone appears in finish. Mouth is a little tight and scratchy. Flavor volume is great, but could be just a touch looser and larger. Last third suddenly becomes wonderfully soft and plump (though still scratchy in mouth). Juniper suggested. This is so close, but just not as distinct and juicy/loose as it could be.
