@@ -4451,3 +4451,31 @@ Stunning flavors. Alcoholic quality to acidity ever present, plump sweetness and
 ## Alba, Z, 5.875 @ 211ºF, 12.5g/250g Day 17, Score: 4
 
 This one is so darn close. The first half is slightly boring: suggesting (but not exploding with) currant and berry tones, but not quite selling it 100%. A true berry tone appears in finish. Mouth is a little tight and scratchy. Flavor volume is great, but could be just a touch looser and larger. Last third suddenly becomes wonderfully soft and plump (though still scratchy in mouth). Juniper suggested. This is so close, but just not as distinct and juicy/loose as it could be.
+
+## Bermudez, Z, 5.9 @ 211ºF, 12.5g/250g Day 18, Score: 3
+
+Loosened up, no noisiness in surroundings, melded texture and flavor, glowing qualities and brightness, but — possibly due to my intense allergies yesterday — exact acidity is hard to discern, and while I feel something exotic in the finish, I can't distinguish it. The way this felt and behaved was exactly what I expect of a top scoring coffee, so make another coffee and see if this is an allergy problem or a dialing in problem. **Update**: I have my full sense of taste and smell. **5.925?**
+
+## Alba, Z, 5.925 @ 211ºF, 12.5g/250g Day 18, Score: 5
+
+I can smell the dry aroma of this coffee as it grinds, so sense of smell is present. Okay, I definitely have my sense of taste because this has that intense brightness and glow, a highly lingering red currant/Kenyan-like acidity and finish, berry tones, lemon sharpness, etc. Highly vivid, and yet the texture is completely rounded, melded, and silky.
+
+## Meza, Z, 5.925 @ 211ºF, 12.5g/250g Day 18, Score: 5
+
+Very good! Slightly more acidity-forward instead of sugary + jasmine, but a "wash" of flavor that continues to hold structure through last sip.
+
+## Guchienda, Z, 5.95 @ 211ºF, 12.5g/250g Day 21, Score: 3
+
+Surprisingly almost no tomato acidity. Vague, but big flavor volume, no discernable flavors. Moderate but vague finish. Volume grows a bit in cooldown but betrays no flavors. **5.925?** Or are we in overextraction territory?
+
+## Blossom Wine, Z, 6.85 @ 211ºF, 12.5g/250g Day 45, Score: 3
+
+Not bad. Some florality, looseness, barely roasty, slight rubbing in mouth. Suggests some acidity toward the end, but also increases in roasty bitterness and rubbing.
+
+## Bermudez, Z, 5.95 @ 211ºF, 12.5g/250g Day 19, Score: 4
+
+This is categorically better than the last entry, meaning we had previously overextracted it. The texture is still fantastic, but there is now some acidity and perfumy hops distinct in both the flavor and finish. However, I'm still having to fish for the exact acidity a bit, although it pops out here and there. Fantastic sweetness and plumpness that grows in the cooldown. Mouth highly scratchy. Acidity is present but small, making me think this is still slightly overextracted. **5.975?**
+
+## Guchienda, Z, 5.925 @ 211ºF, 12.5g/250g Day 21, Score: 4
+
+Certainly better than 5.95. Not the generic/vague/spicy flavor, but slightly more distinct tomato vine. More sweetness, not quite sweet tomato. Large flavor volume but still not explosive. Highly noisy scratchiness. Moderately perfumy finish. No obvious defects or insincerity. Comes across as sharp and citric with good body. **5.9 or 6.025-6.05**
