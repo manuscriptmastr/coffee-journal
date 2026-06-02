@@ -4479,3 +4479,19 @@ This is categorically better than the last entry, meaning we had previously over
 ## Guchienda, Z, 5.925 @ 211ºF, 12.5g/250g Day 21, Score: 4
 
 Certainly better than 5.95. Not the generic/vague/spicy flavor, but slightly more distinct tomato vine. More sweetness, not quite sweet tomato. Large flavor volume but still not explosive. Highly noisy scratchiness. Moderately perfumy finish. No obvious defects or insincerity. Comes across as sharp and citric with good body. **5.9 or 6.025-6.05**
+
+## Floral Standard, Z, 6.875 @ 211ºF, 12.5g/250g Day 42, Score: 4
+
+Lovely, deep, ripe perfumy jasmine and gesha sweetness. Acidity a touch dulled/hollow comparatively. Overall a tremendous cup, would **6.9** have been a touch better?
+
+## Blue Strudel, Z, 6.95 @ 211ºF, 12.5g/250g Day 46, Score: 4
+
+Overall a wonderful perfumy berry jam forward cup. Sweetness and perfuminess barely more prominent than immediate acidity, which makes for a very enjoyable experience. That said, I think I would prefer the acidity to be slightly more direct and singing... **6.975 or 7?**
+
+## Meza, Z, 5.975 @ 211ºF, 12.5g/250g Day 20, Score: 4
+
+Accidentally ground from cold start. Immediate dirty brown but sweet note, tastes like a defect, reminds me of some of my more negative experiences with washed Mejorados. There is a nice English-breakfast-tea-with-cream-and-sugar as well. As cools, the brown note goes away (or I am accustomed to it). The overall character is light, sweet, slightly tangy, and having that distinct cream-in-tea dairy tartness. Cooldown is much nicer, more focused on tea complexity and creamy sweetness. Slight raspiness/powderiness noticed toward end. This had some excellent qualities to it although the defect is weird. Might be a dud and not a good data point. It's possible that the Lagom produced more fines, but not confirmed.
+
+## Alba, Z, 5.975 @ 211ºF, 12.5g/250g Day 20, Score: 4
+
+A little dirty/spicy, some good melded texture and sweetness. I think this is a touch overextracted. Slightly scratchy. A more focused profile, less expansive. Still some notable good currant acidity. **6?**
