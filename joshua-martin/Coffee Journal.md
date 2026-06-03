@@ -4495,3 +4495,15 @@ Accidentally ground from cold start. Immediate dirty brown but sweet note, taste
 ## Alba, Z, 5.975 @ 211ºF, 12.5g/250g Day 20, Score: 4
 
 A little dirty/spicy, some good melded texture and sweetness. I think this is a touch overextracted. Slightly scratchy. A more focused profile, less expansive. Still some notable good currant acidity. **6?**
+
+## Bermudez, Z, 6 @ 211ºF, 12.5g/250g Day 20, Score: 4
+
+Slightly more obvious and spiced pineapple, with some grainy astringency. Acidity continues to be balanced, sweet, grainy, tart, and a little focused, with a more distinct pineapple finish. Holds integrity through cooldown, continuing to be a little tight in mouth but exciting in flavor, though focused and sharp rather than open and explosive. Overall, very good and noticeably better than the last entry. I'd push to **6.025**.
+
+## Alba, Z, 6.05 @ 211ºF, 12.5g/250g Day 21, Score: 3
+
+Noisy/foggy/grainy profile with no real flavors. Loose, gentle, but dynamic surroundings. Mouth occasionally feels like a raisin. Only in last 2 sips is the currant acidity discernable. **6.025**
+
+## Meza, Z, 6.025 @ 211ºF, 12.5g/250g Day 21, Score: 2
+
+No discernable flavors. Mouth noticeably loud scratchy. Flavor volume is not small in any regard, but spicy/even noisy instead of tasting like something in particular. Maybe a dud?
