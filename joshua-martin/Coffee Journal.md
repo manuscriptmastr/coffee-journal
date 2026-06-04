@@ -4507,3 +4507,23 @@ Noisy/foggy/grainy profile with no real flavors. Loose, gentle, but dynamic surr
 ## Meza, Z, 6.025 @ 211ºF, 12.5g/250g Day 21, Score: 2
 
 No discernable flavors. Mouth noticeably loud scratchy. Flavor volume is not small in any regard, but spicy/even noisy instead of tasting like something in particular. Maybe a dud?
+
+## Guchienda, Z, 5.95 @ 211ºF, 12.5g/250g Day 23, Score: 5
+
+Good tart sweetness in first sip. Moderate flavor volume. Continues to hold balance. Scratchy but not in an irritating way. Moderate tomato finish. Good clarity and balance in second half, with a more definitive Kenyan tomato flavor. Holds integrity very well, delicate yet unmistakeable flavors that hold in a pleasant, glowing finish. Crystal clear and articulate and bright/vivid to last sip. Easily the best cup I've had of this in awhile.
+
+## Bermudez, Z, 6.05 @ 211ºF, 12.5g/250g Day 21, Score: 4
+
+Reserved in first sip, grows and shifts with a slight musicality. Heavy finish. Holds refined and focused acidity, slightly tight/scratchy but not too distracting. Good cooldown. Holds flavors, still not exploding in juiciness, but overall very good with no obvious defects. It is possible this or 6.025 would have been equally compelling. The acidity here is just barely aloof. **6.025-6.05**
+
+## Amber Drop, Z, 6.975 @ 211ºF, 12.5g/250g Day 48, Score: 5
+
+Best cup I've had of this coffee yet. The flavors are vividly distinct, incredibly tart and sweet and bready and perfumy and less of the dark fermented quality that overextraction can produce. Fantastic!
+
+## Alba, Z, 6.05 @ 211ºF, 12.5g/250g Day 22, Score: 5
+
+Not noisy. A little scratchy. Flavors are melded and focused, sometimes to the point of not being 100% discernable. Not an explosive profile. Tart qualities present immediately in front though, then backed by some sweetness. This feels and tastes like a sweet spot kind of profile given the bright edge present on flavor. There is a very unusual herbal note in the finish that perhaps the "hibiscus" tasting note represents. Tartness continues to grow and now has an unmistakeable lemon zest note (not just citrus, not just lemon). The berry tones of earlier cups takes a backseat here, showing up more as a purple surrounding. There is a lightness and delicacy to this cup that is compelling, just different than the perfumy berry profile I had experienced for most of this coffee. This cup turned out quite different than past cups... but seems more accurate to the tasting notes.
+
+## Meza, Z, 6.05 @ 211ºF, 12.5g/250g Day 22, Score: 4
+
+White tea profile, with a citrus acidity in background/surroundings. Mouth slightly powdery at times, though not in a very uncomfortable way. Profile is delicate (like Alba) rather than nailing the gesha sugary quality, but becomes more pink citrus-forward and slightly sweeter as cools. Compared to earlier cups, I feel like the flavor here is balanced but not completely focused in. Acidity continues to hold and grow a little through cooldown, and suggests jasmine. Last sip is bright. This was a compelling cup, just... I know what this can do and I feel like this cup had me fishing for notes a little. Seems to be slightly on the noisy/vague/acidic side of the sweet spot vs. sugary + jasmine side. **6.025?**
