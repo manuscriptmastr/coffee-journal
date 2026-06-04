@@ -6,7 +6,7 @@ Calibration file for Joshua's coffee journal. Pair with `AGENT_GUIDE.md` (univer
 
 ## 1. Scope
 
-- **Brew method**: pour-over, primarily Z1 (Zerno) with Orea in earlier entries and occasional Aeropress.
+- **Brew method**: pour-over, primarily Orea Z1 and Orea V3 in earlier entries and occasional Aeropress.
 - **Roast profile**: specialty light-roast, often very light (H&S is among the lightest in the world).
 - **Journal size**: ~1 year of daily entries, 4000+ lines of `Coffee Journal.md`.
 - **Maintainer**: Joshua. Entries are top-to-bottom, earliest to most recent.
@@ -16,11 +16,11 @@ Calibration file for Joshua's coffee journal. Pair with `AGENT_GUIDE.md` (univer
 - **Grinder**: **Lagom P64** (primary). Occasionally **Comandante C40** hand grinder (settings 24–27 range; incompatible scale with P64 — do not cross-compare numerically).
 - **Grinder step size**: **0.025** on the dial = one click = 2.5 microns. **All predictions round to 0.025 increments** (e.g., 6.175, 6.200, 6.225).
 - **Observed dial-value ranges**:
-  - **Z1 / Zerno brewer**: ~5.0–7.0+ (most entries fall here).
-  - **Orea brewer**: ~6.6–7.3 (earlier entries).
+  - **Orea Z1 brewer**: ~5.0–7.0+ (most entries fall here).
+  - **Orea V3 brewer**: ~6.6–7.3 (earlier entries).
 - **Brewer shorthand codes** (appear in entry headers):
-  - `O` = Orea
-  - `Z` = Z1 (Zerno)
+  - `O` = Orea V3
+  - `Z` = Orea Z1
   - Accessories: `M` = Melodrip, `NK` = Negotiated Kalita filters
 
 ## 3. Recipe Baseline
@@ -67,26 +67,31 @@ Tasting notes and next-setting suggestions.
 Per-batch drift rates and intercept fits have been removed because they encouraged extrapolation past data. Predict from the most recent same-coffee anchor + a roaster-typical drift estimate (§8) + sibling consensus when available. Each entry below lists only the coffees in current rotation and any stable, repeatedly-confirmed behavioral note.
 
 ### H&S Roasters
+
 - Among the lightest roasts in the world. Densest "low-drift early, accelerating late" pattern.
 - Past Day ~50, expect drift to accelerate; conservative one-click increments fall behind and produce S3 strings. When chasing acceleration, **bracket with +2–3 click jumps**.
 
 ### Hydrangea Coffee Roasters
+
 - Recent batches: Pena (washed), La Isabela (natural), Paraiso (thermal shock), Monteblanco (co-ferment), and earlier Elida, Bolanos, Uberrimo.
 - Notably **forgiving** through early-to-mid life — wide sweet-spot windows, high S5 density Day 8–20.
 - Same-day sibling consensus is unusually strong in this roaster — when ≥2 of 4 siblings agree on a setting, trust that over own-coffee history.
 
 ### September Coffee
+
 - Three loose tiers with different aging speeds:
   - **Core washed** (Pena, Morena, Bermudez, Velasco, Lasso-Sep, Castillo, Cuenca, Ortega, Pintado, Danche, Chelbesa): slow, very consistent across coffees.
   - **Creative / processed** (White Honey, Gingerbread, Putushio, Tamana / Tamama): faster early, decelerates by mid-life; tends to peak early.
   - **Producer-named other** (Buttercream, Sudan Rume, Fajardo, Martinez, Rojas): slowest, noisiest, hardest to diagnose. Highest overextraction-spiral rate. Lean heavily on sibling data.
 
 ### Moonwake Coffee Roasters
+
 - Serrato, Gomez, Ramirez, Benitez.
 - Sweet spots run notably **coarser** than other roasters at the same age (~6.6–6.7 at D50).
 - Benitez is the most stable / distinct; vivid raspberry, rarely misdiagnosed.
 
 ### SEY
+
 - Current batch: Guchienda (Kenya washed), Alba (pink bourbon), Bermudez (Colombian chiroso — pineapple / bright / hops), Meza (Gesha). Historical: Muhito, Dota, Gotiti, Botina (Bonita).
 - **Narrowest sweet-spot window of any roaster in the journal** (~2 clicks each side instead of 3).
 - **Misleading astringency is the defining diagnostic challenge** — see §11. The most reliable rule on SEY: **tight + scratchy + needs-sweetness without watery / hollow as the leading marker = OVER, fix coarser.** The only true-under signature on SEY has watery or hollow as the **leading** symptom.
@@ -94,11 +99,13 @@ Per-batch drift rates and intercept fits have been removed because they encourag
 - Roaster publishes a 14-day rest floor; community evidence (multiple independent Reddit threads + SEY's own published guidance) lands closer to 3 weeks for peak. Pre-rest cups present as astringent / scratchy / tight regardless of grind.
 
 ### Paix
+
 - Recent: Blue Strudel (natural Ethiopian), Blossom Wine (double-ferment washed Ethiopian), Amber Drop, Floral Standard (Andres Martinez washed Gesha).
 - Roasted **darker** than the rest of the journal's calibration baseline — a Hydrangea-equivalent grind lands too coarse. Working baseline: one click finer than a Hydrangea-equivalent at equal age.
 - **Under-rested signature D10–D17**: metallic-roasty (Ethiopians) or hollow-hazy (Gesha). The intervention is time, not grind, not temperature. Don't promote pre-D18 cups to S5 anchors.
 
 ### Other
+
 - **Paix** — see above.
 - **Norena** — roaster unknown.
 
@@ -108,16 +115,16 @@ Per-batch drift rates and intercept fits have been removed because they encourag
 
 Treat these as **starting priors**, not fits. The realised slopes below come from the holdout study in §14 (Score ≥ 4 entries, OLS) and have proven stable across years of data. Per-batch refits historically overfit; trust the roaster-typical rate and let the most recent anchor set the intercept.
 
-| Roaster                    | Drift / day  | Notes                                                                                            |
-| -------------------------- | ------------ | ------------------------------------------------------------------------------------------------ |
-| September (core washed)    | ~0.017       | Very consistent across coffees.                                                                  |
-| September (creative)       | ~0.029       | Decelerates with age; peaks early.                                                               |
-| September (producer-other) | ~0.012       | Slow, noisy, low diagnosis confidence.                                                           |
-| H&S (any batch)            | ~0.018       | Accelerates past D50–58 to ~0.035+.                                                              |
-| Hydrangea (earlier)        | ~0.018       | Sparse anchors.                                                                                  |
-| Hydrangea (recent batches) | ~0.026–0.029 | Has shown late-life acceleration to ~0.035 past D27 in at least one batch.                       |
-| Moonwake                   | ~0.024       | Coarser intercept than other roasters.                                                           |
-| SEY                        | ~0.025       | Per-coffee slopes cluster 0.023–0.030. Within-batch fan-out ~one click at equal day.             |
+| Roaster                    | Drift / day  | Notes                                                                                                              |
+| -------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------ |
+| September (core washed)    | ~0.017       | Very consistent across coffees.                                                                                    |
+| September (creative)       | ~0.029       | Decelerates with age; peaks early.                                                                                 |
+| September (producer-other) | ~0.012       | Slow, noisy, low diagnosis confidence.                                                                             |
+| H&S (any batch)            | ~0.018       | Accelerates past D50–58 to ~0.035+.                                                                                |
+| Hydrangea (earlier)        | ~0.018       | Sparse anchors.                                                                                                    |
+| Hydrangea (recent batches) | ~0.026–0.029 | Has shown late-life acceleration to ~0.035 past D27 in at least one batch.                                         |
+| Moonwake                   | ~0.024       | Coarser intercept than other roasters.                                                                             |
+| SEY                        | ~0.025       | Per-coffee slopes cluster 0.023–0.030. Within-batch fan-out ~one click at equal day.                               |
 | Paix                       | ~0.025–0.07  | Mid-life (D16–D27) runs hot at ~0.06–0.07; late-life (D27+) flattens to ~0.025 batch-wide. Highly batch-dependent. |
 
 **Late-life acceleration is real for some roasters (H&S, sometimes Hydrangea) and not for others (Paix flattens, SEY drift-rate undocumented past D30 in current batch).** When chasing an accelerating bean, switch from 0.025 increments to 0.050–0.075 bracket jumps.
@@ -126,17 +133,18 @@ Treat these as **starting priors**, not fits. The realised slopes below come fro
 
 Holdout count of "should have been X" annotations across the journal (n = 457):
 
-| Score of brew | Coarser  | Finer | Same | Mean Δ     |
-| ------------- | -------- | ----- | ---- | ---------- |
-| 2             | 39 %     | 57 %  | 4 %  | +0.005     |
-| 3             | 49 %     | 49 %  | 2 %  | +0.011     |
-| 4             | **62 %** | 36 %  | 2 %  | +0.021     |
+| Score of brew | Coarser     | Finer | Same | Mean Δ     |
+| ------------- | ----------- | ----- | ---- | ---------- |
+| 2             | 39 %        | 57 %  | 4 %  | +0.005     |
+| 3             | 49 %        | 49 %  | 2 %  | +0.011     |
+| 4             | **62 %**    | 36 %  | 2 %  | +0.021     |
 | 5             | 100 % (n=8) | 0 %   | 0 %  | +0.047     |
-| **All**       | **53 %** | 46 %  | 2 %  | **+0.014** |
+| **All**       | **53 %**    | 46 %  | 2 %  | **+0.014** |
 
 Overall corrections are essentially symmetric (53 / 46). The coarser bias is **score-conditional**: it emerges only once the cup is already close (S4+), where it represents drift-tracking rather than error-correction.
 
 **Implications**:
+
 - After an **S4+ cup**, prefer one click coarser on the next brew (drift-tracking).
 - After an **S2–S3 cup**, the direction is genuinely uncertain — diagnose from vocabulary, don't default-bias.
 - When the most recent S4 read **coarse-edge** ("could be pushed", "soft, slightly loose", "muted"), drift-forward alone is the prediction — do **not** add an additional coarser bias on top. Doing so double-counts the coarse-side movement.
@@ -203,16 +211,16 @@ Descriptors with strong directional signal in Joshua's journal beyond the univer
 
 ### Sweet-spot spectrum (fine ← over | sweet spot | under → coarse)
 
-| Position | Vocabulary cluster | Mouthfeel | Action |
-|---|---|---|---|
-| **Deep over** (2+ clicks too fine) | "gross / green / roasty / silty / metallic", "heavy / dark", "powdery", "harsh phenolic finish", flavors collapsed / dishonest | sandpapery, particulate, mouth-discomfort dominates cup | +2 clicks coarser; check if water / dose / temp are also off |
-| **Mild over — scratchy variant** | "small flavor volume" + "scratchy / tight / rubbing / rough", "middle dip", "hopes it loosens", "nothing shining / cocoa off / synthetic acidity" | surface friction on tongue + lips, localized rasp | +1 click coarser; cup often self-misdiagnoses as "needs finer" — distrust direction call |
-| **Mild over — thirst variant** | "thick saliva", "thirst-driving", "addictive juicy" (if balanced) or "muted / unfocused / want brighter" (if not), "sticky", "cloying" | thick / sticky salivary film, no powdery / scratchy roughness, makes you reach for water | +1 click coarser; cup self-diagnosis is **reliable** here, unlike the scratchy variant |
-| **Finer edge of SS** | "barely smaller volume", "slight localized roughness", "focused / introverted", "black tea forward", "pleasant perfuminess, edges softening" | clean but with hints of either roughness or thickness | +1 click coarser next brew (drift-tracking) |
-| **On center** | "loose", "open", "voluminous", "honest flavors", "musical / shimmering / melded", acidity immediate and integrated | clean, slippery saliva, no friction or coating | hold; expect drift to require +1 next day |
-| **Coarser edge of SS** | "big in mouth, not quite focused initially", "soft / gentle / mouthfilling but diffuse", "may be fully focused by next cup", varietal acidity unlocks further when probed coarser | loose, expansive, clean | hold or +1 coarser (test edge) |
-| **Mild under** | "loose + bright + softening + slightly diffuse", acidity present but thin / far-off, "searching for tasting notes" | loose, clean, possibly slightly watery | +1 click finer |
-| **Deep under (hurricane)** | "large + foggy + structureless", "no sweetness", "hollow / watery / little substance", flavors present in surroundings but not in cup | thin, watery, no body | +2 clicks finer; rare past D14 in most batches |
+| Position                           | Vocabulary cluster                                                                                                                                                                | Mouthfeel                                                                                | Action                                                                                   |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| **Deep over** (2+ clicks too fine) | "gross / green / roasty / silty / metallic", "heavy / dark", "powdery", "harsh phenolic finish", flavors collapsed / dishonest                                                    | sandpapery, particulate, mouth-discomfort dominates cup                                  | +2 clicks coarser; check if water / dose / temp are also off                             |
+| **Mild over — scratchy variant**   | "small flavor volume" + "scratchy / tight / rubbing / rough", "middle dip", "hopes it loosens", "nothing shining / cocoa off / synthetic acidity"                                 | surface friction on tongue + lips, localized rasp                                        | +1 click coarser; cup often self-misdiagnoses as "needs finer" — distrust direction call |
+| **Mild over — thirst variant**     | "thick saliva", "thirst-driving", "addictive juicy" (if balanced) or "muted / unfocused / want brighter" (if not), "sticky", "cloying"                                            | thick / sticky salivary film, no powdery / scratchy roughness, makes you reach for water | +1 click coarser; cup self-diagnosis is **reliable** here, unlike the scratchy variant   |
+| **Finer edge of SS**               | "barely smaller volume", "slight localized roughness", "focused / introverted", "black tea forward", "pleasant perfuminess, edges softening"                                      | clean but with hints of either roughness or thickness                                    | +1 click coarser next brew (drift-tracking)                                              |
+| **On center**                      | "loose", "open", "voluminous", "honest flavors", "musical / shimmering / melded", acidity immediate and integrated                                                                | clean, slippery saliva, no friction or coating                                           | hold; expect drift to require +1 next day                                                |
+| **Coarser edge of SS**             | "big in mouth, not quite focused initially", "soft / gentle / mouthfilling but diffuse", "may be fully focused by next cup", varietal acidity unlocks further when probed coarser | loose, expansive, clean                                                                  | hold or +1 coarser (test edge)                                                           |
+| **Mild under**                     | "loose + bright + softening + slightly diffuse", acidity present but thin / far-off, "searching for tasting notes"                                                                | loose, clean, possibly slightly watery                                                   | +1 click finer                                                                           |
+| **Deep under (hurricane)**         | "large + foggy + structureless", "no sweetness", "hollow / watery / little substance", flavors present in surroundings but not in cup                                             | thin, watery, no body                                                                    | +2 clicks finer; rare past D14 in most batches                                           |
 
 ### Key ambiguity resolutions
 
@@ -273,17 +281,17 @@ Adding drift over a no-drift baseline cuts MAE from 0.091 → 0.065 (29 % improv
 
 Realised drift slopes (Score ≥ 4 entries, OLS) vs documented:
 
-| Roaster                    | Documented  | Realised | n   | Verdict     |
-| -------------------------- | ----------- | -------- | --- | ----------- |
-| Hydrangea (current batch)  | 0.029       | +0.029   | 30  | ✓           |
-| Hydrangea (earlier batch)  | 0.018       | sparse   | 5   | ⚠ low-n     |
-| H&S (pooled, all batches)  | 0.015–0.018 | +0.022   | 106 | ✓           |
-| H&S batch 3                | 0.018       | +0.018   | 37  | ✓           |
-| Moonwake                   | 0.024       | +0.024   | 44  | ✓           |
-| SEY (Z, no Comandante)     | 0.025       | 0.023–0.030 | 62  | ✓           |
-| September (washed)         | 0.017       | +0.017   | 58  | ✓           |
-| September (creative)       | 0.029       | +0.029   | 31  | ✓           |
-| September (producer-other) | 0.012       | +0.012   | 26  | ✓           |
+| Roaster                    | Documented  | Realised    | n   | Verdict |
+| -------------------------- | ----------- | ----------- | --- | ------- |
+| Hydrangea (current batch)  | 0.029       | +0.029      | 30  | ✓       |
+| Hydrangea (earlier batch)  | 0.018       | sparse      | 5   | ⚠ low-n |
+| H&S (pooled, all batches)  | 0.015–0.018 | +0.022      | 106 | ✓       |
+| H&S batch 3                | 0.018       | +0.018      | 37  | ✓       |
+| Moonwake                   | 0.024       | +0.024      | 44  | ✓       |
+| SEY (Z, no Comandante)     | 0.025       | 0.023–0.030 | 62  | ✓       |
+| September (washed)         | 0.017       | +0.017      | 58  | ✓       |
+| September (creative)       | 0.029       | +0.029      | 31  | ✓       |
+| September (producer-other) | 0.012       | +0.012      | 26  | ✓       |
 
 ### Heuristic stress-tests
 
