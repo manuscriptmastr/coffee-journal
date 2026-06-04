@@ -4527,3 +4527,7 @@ Not noisy. A little scratchy. Flavors are melded and focused, sometimes to the p
 ## Meza, Z, 6.05 @ 211ºF, 12.5g/250g Day 22, Score: 4
 
 White tea profile, with a citrus acidity in background/surroundings. Mouth slightly powdery at times, though not in a very uncomfortable way. Profile is delicate (like Alba) rather than nailing the gesha sugary quality, but becomes more pink citrus-forward and slightly sweeter as cools. Compared to earlier cups, I feel like the flavor here is balanced but not completely focused in. Acidity continues to hold and grow a little through cooldown, and suggests jasmine. Last sip is bright. This was a compelling cup, just... I know what this can do and I feel like this cup had me fishing for notes a little. Seems to be slightly on the noisy/vague/acidic side of the sweet spot vs. sugary + jasmine side. **6.025?**
+
+## Blossom Wine, Z, 6.975 @ 211ºF, 12.5g/250g Day 48, Score: 4
+
+Big and flat flavor volume. Slight roasty or bitter note in finish. Slight rubbing in mouth, not much sweetness. Cooldown is soft and slightly sweet — there are some good qualities here. Sweetness grows to moderate volume, but there is a distinct bitter roasty note I associate with stale overroasted coffees. Aside from that, this is generally enjoyable.
