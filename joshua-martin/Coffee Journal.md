@@ -4543,3 +4543,7 @@ Tasting notes of this coffee are prickly pear, lychee, and honeydew. The first s
 ## Ortiz, Z, 5.775 @ 211ºF, 12.5g/250g Day 11, Score: 4
 
 This cup from first to last sip screamed a definite and unmistakeable raspberry tasting note. I remember this kind of profile from a washed, very expensive Colombian gesha from Subtext. The rose is also somewhat discernable at times in the surroundings. Super sweet and melded raspberry flavor and finish — you get hit with the raspberry as a final 'glow' in the finish. However, the flavor volume is noticeably focused and small and occasionally felt slightly more in the second half of the sip than the first. Mouth highly scratchy, especially in the roof of the mouth, and slightly tight and uncomfortable. **Sweet spot or 5.8**. The flavors were absolutely brilliant here though. A hard choice.
+
+## Salas, Z, 5.8 @ 211ºF, 12.5g/250g Day 11, Score: 4
+
+Distinct mouthfilling yet light sweet tea quality. Slightly honeyed jasmine comes through nicely on second sip. Slight powdery quality on teeth, slightly "noisy" quality, flavors not quite dialed in, but overall a nice representive. **5.775?**
