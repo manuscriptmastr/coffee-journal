@@ -380,6 +380,17 @@ Symptoms of reference-anchor bias:
 
 When the bias is in play, stop chasing volume and characterize the _new_ window the coffee is in. Score 4s that aren't missing anything extraction-addressable are the signature of a coffee past its young-peak; they represent the best that setting can produce and shouldn't be treated as near-misses.
 
+### Variety-template-aware diagnosis
+
+A second form of reference bias: comparing one coffee's cup against a **different variety's** flavor template. "Brilliant acidity" or "vivid expression" is the right S5 template for chiroso, aji, washed Kenyan, and many gesha. It is **not** the right S5 template for mejorado (delicate, sugary, subtly complex with tea / cocoa / eucalyptus notes), some pacamara (heavy / dark-fruited / less acid-forward), or natural-process Ethiopians dialed for the fermented-lead profile (jammy / wine-like, not bright). Calling a delicate-template cup "small" or "not vivid" because it lacks brilliant acidity is a misdiagnosis — that variety's S5 just reads differently.
+
+Two practical consequences:
+
+- **The same descriptor cluster diagnoses different directions across variety templates.** "Delicate / rounded / suggested-not-defined flavors" reads as fine-edge SS in a delicate-template coffee but as mild-over compression in a vivid-template coffee. Identify the template before reading the descriptors.
+- **Score-ceiling pessimism is variety-blind.** Less-vivid varieties have the same S5 ceiling as vivid ones; the cup just *reads* differently. Don't lower the ceiling for a delicate-template coffee on the basis of a vivid-template comparison.
+
+When you don't know a variety's template, infer from the listed tasting notes. Bright-fruit / floral / citrus listings imply vivid-template; tea / cocoa / stone-fruit / nut / sugary / "subtle" listings imply delicate-template.
+
 ### Per-coffee coarse-tolerance (same-setting, same-day, opposite inflection)
 
 When sibling coffees from the same batch all land Score 4 at the same setting on the same day but show **different deficit inflections**, the likely explanation is _not_ that the batch entered a narrow window or that drift stalled — it's that each coffee's **coarse-tolerance** differs. The sweet-spot center is roughly shared; how far past it each coffee can go before registering under-signs is not.

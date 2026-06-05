@@ -4531,3 +4531,15 @@ White tea profile, with a citrus acidity in background/surroundings. Mouth sligh
 ## Blossom Wine, Z, 6.975 @ 211ºF, 12.5g/250g Day 48, Score: 4
 
 Big and flat flavor volume. Slight roasty or bitter note in finish. Slight rubbing in mouth, not much sweetness. Cooldown is soft and slightly sweet — there are some good qualities here. Sweetness grows to moderate volume, but there is a distinct bitter roasty note I associate with stale overroasted coffees. Aside from that, this is generally enjoyable.
+
+## Morocho, Z, 5.75 @ 211ºF, 12.5g/250g Day 11, Score: 4
+
+Pleasing, somewhat tart profile. Mouth tight and raspy, especially roof of mouth and lips. Not as sweet as I expect from a mejorado. Finish pretty short. Listed flavors (eucalyptus, nectarine, and white tea) are suggested but not 100% defined. Cooldown continues to be delicate, rounded, some complexity, but not fully delivering. **5.775?**
+
+## Mejia, Z, 5.775 @ 211ºF, 12.5g/250g Day 11, Score: 5
+
+Tasting notes of this coffee are prickly pear, lychee, and honeydew. The first sip was a highly memorable and brilliant sweet-tart acidity with an immediately recognizable lychee glow that sticks to the palate in the finish. The pear quality is also noticeable, making this a distinct and unique profile overall. There is the slightest tightness and scratchiness in mouth, but I would not deviate too much from here as the lychee acidity is brilliant and cooling to the last sip. There is a possibility it could be even more immediate. **Sweet spot or 5.8**
+
+## Ortiz, Z, 5.775 @ 211ºF, 12.5g/250g Day 11, Score: 4
+
+This cup from first to last sip screamed a definite and unmistakeable raspberry tasting note. I remember this kind of profile from a washed, very expensive Colombian gesha from Subtext. The rose is also somewhat discernable at times in the surroundings. Super sweet and melded raspberry flavor and finish — you get hit with the raspberry as a final 'glow' in the finish. However, the flavor volume is noticeably focused and small and occasionally felt slightly more in the second half of the sip than the first. Mouth highly scratchy, especially in the roof of the mouth, and slightly tight and uncomfortable. **Sweet spot or 5.8**. The flavors were absolutely brilliant here though. A hard choice.
