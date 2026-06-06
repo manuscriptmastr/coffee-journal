@@ -4547,3 +4547,19 @@ This cup from first to last sip screamed a definite and unmistakeable raspberry 
 ## Salas, Z, 5.8 @ 211ºF, 12.5g/250g Day 11, Score: 4
 
 Distinct mouthfilling yet light sweet tea quality. Slightly honeyed jasmine comes through nicely on second sip. Slight powdery quality on teeth, slightly "noisy" quality, flavors not quite dialed in, but overall a nice representive. **5.775?**
+
+## Floral Standard, Z, 7.1 @ 211ºF, 12.5g/250g Day 46, Score: 3
+
+Mouth slightly clenched throughout cup. Flavors not fully developed. There is some of the jasmine + citrus profile, but not nearly as much as it had been.
+
+## Guchienda, Z, 6 @ 211ºF, 12.5g/250g Day 26, Score: 4
+
+Sweet tomato, almost like a tomato soup. Slight rubbing. Tight. Grainy. Tomato is quite melded and sweet, probably the sweetest it's been in a long time. A little tight. Perhaps just a touch overextracted? **6.025?**
+
+## Bermudez, Z, 6.125 @ 211ºF, 12.5g/250g Day 24, Score: 3
+
+Big, somewhat spicy/grainy. Big and loud yet monochromatic acidity, melded sweetness. Roof of mouth a bit leathery, mouth a little clenched. As cools, still has a somewhat distinct pineapple tone to acidity, plus a spice/grainy character and a very rough and clenched mouthfeel. Last sip is somehow light yet causing immediate clenching. I actually like the acidity, but the flatness of it and the intense discomfort are obvious detractors from the experience.
+
+## Blue Strudel, Z, 7.1 @ 211ºF, 12.5g/250g Day 50, Score: 5
+
+Tart blackberry. Probably the most berry-forward this has been. Slight rubbing in roof of mouth. Continues to be clean, sweet, and tart in cooldown, although a little dusty/silty in mouth. Still, this is fantastic overall. **Sweet spot?**
