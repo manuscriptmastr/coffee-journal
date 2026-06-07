@@ -4570,8 +4570,12 @@ Lovely. Tart, alcoholic, sweet, exciting through entire cup.
 
 ## Alba, Z, 6.15 @ 211ºF, 12.5g/250g Day 25, Score: 4
 
-Flavor volume is slightly on the more delicate side, but with exciting tart acidity and spice. Slight tightness/tackiness/rubbing in mouth/stiff lips. Last sip has a nice glowing/sweet/musical glow to it. Overall, excellent, but a touch stiff vs. loose and gentle in mouth.
+Flavor volume is slightly on the more delicate side, but with exciting tart acidity and spice. Slight tightness/tackiness/rubbing in mouth/stiff lips. Last sip has a nice glowing/sweet/musical glow to it. Overall, excellent, but a touch stiff vs. loose and gentle in mouth. **6.175?**
 
 ## Morocho, Z, 5.825 @ 211ºF, 12.5g/250g Day 13, Score: 5
 
 This is much more like it. Flavor profile is immediately sweet, with a distinct white tea finish. Like many Mejorados, the acidity is much less the focus and too delicate to be easily discerned, while a certain brown/tea spice/cocoa quality (what SEY and Hydrangea often refer to as "eucalyptus") is everywhere in the surroundings. As cools, the delicate citrus comes out just a touch more, and the tart-sweet-creamy profile of English breakfast tea with cream and sugar is hinted at. Mouth just barely stiff around lips and teeth. This cup sets a very high bar. It's not the absolute sweetest or floral Mejorado I've had (Juan Pena's from H&S takes that rank), but it's complex, sweet, balanced between citric, cocoa-like, and tea-like qualities, etc. A compelling cup.
+
+## Meza, Z, 6.15 @ 211ºF, 12.5g/250g Day 25, Score: 4
+
+Sweet first sip with slight jasmine finish. Pink citrus acidity pops in second sip, followed by moderate gesha quality. Sweet jasmine in third sip, a little dark and spicy complexion. Presents as delicate but darker than I would expect, almost like a Mejorado. Heavy spicy + slight jasmine finish that continues long after sip. Sugary gesha quality improves a little in second half, though still strangely "woody". No strong mouthfeel issues. This cup has lots of warmth and resonance that makes it easy to pick out as a gesha, I'm just expecting it to be more articulate, especially with acidity, given the listed dragonfruit and key lime tasting notes. Cooldown continues to hold integrity but also the slightly woody finish. There are some fantastic qualities to this cup, but the small flavor volume and the slightness of acidity makes me think this isn't the best the coffee can do. **6.175?**
