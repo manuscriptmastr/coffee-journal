@@ -4563,3 +4563,15 @@ Big, somewhat spicy/grainy. Big and loud yet monochromatic acidity, melded sweet
 ## Blue Strudel, Z, 7.1 @ 211ºF, 12.5g/250g Day 50, Score: 5
 
 Tart blackberry. Probably the most berry-forward this has been. Slight rubbing in roof of mouth. Continues to be clean, sweet, and tart in cooldown, although a little dusty/silty in mouth. Still, this is fantastic overall. **Sweet spot?**
+
+## Amber Drop, Z, 7.075 @ 211ºF, 12.5g/250g Day 51, Score: 5
+
+Lovely. Tart, alcoholic, sweet, exciting through entire cup.
+
+## Alba, Z, 6.15 @ 211ºF, 12.5g/250g Day 25, Score: 4
+
+Flavor volume is slightly on the more delicate side, but with exciting tart acidity and spice. Slight tightness/tackiness/rubbing in mouth/stiff lips. Last sip has a nice glowing/sweet/musical glow to it. Overall, excellent, but a touch stiff vs. loose and gentle in mouth.
+
+## Morocho, Z, 5.825 @ 211ºF, 12.5g/250g Day 13, Score: 5
+
+This is much more like it. Flavor profile is immediately sweet, with a distinct white tea finish. Like many Mejorados, the acidity is much less the focus and too delicate to be easily discerned, while a certain brown/tea spice/cocoa quality (what SEY and Hydrangea often refer to as "eucalyptus") is everywhere in the surroundings. As cools, the delicate citrus comes out just a touch more, and the tart-sweet-creamy profile of English breakfast tea with cream and sugar is hinted at. Mouth just barely stiff around lips and teeth. This cup sets a very high bar. It's not the absolute sweetest or floral Mejorado I've had (Juan Pena's from H&S takes that rank), but it's complex, sweet, balanced between citric, cocoa-like, and tea-like qualities, etc. A compelling cup.

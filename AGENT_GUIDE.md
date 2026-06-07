@@ -391,6 +391,15 @@ Two practical consequences:
 
 When you don't know a variety's template, infer from the listed tasting notes. Bright-fruit / floral / citrus listings imply vivid-template; tea / cocoa / stone-fruit / nut / sugary / "subtle" listings imply delicate-template.
 
+### Tasting-note labels are roaster-language, not sensory targets
+
+The labels a roaster prints on the bag (e.g., "eucalyptus, nectarine, white tea") are **roaster-perception or marketing descriptors**, not literal flavors the maintainer should expect to find or that a correctly-dialed cup must deliver. Two implications:
+
+- **A correctly-dialed cup may deliver none, some, or partial-gestalts of the listed notes and still be the bean's S5.** Mismatch between the roaster's listing and the maintainer's sensory experience is normal, not a calibration error. Don't grind-correct toward making the listed notes appear.
+- **The same roaster-label vocabulary frequently maps to different sensory clusters across roasters.** What one roaster calls "eucalyptus" another might call "menthol," "tea-spice," "cocoa surroundings," or "brown spice"; the underlying sensory signal may be similar, but the label translation is roaster-specific. When using tasting-note labels to infer variety template, treat them as soft hints aggregated across the bag's listing, not as literal targets.
+
+The maintainer's own descriptors in the entry body are always the load-bearing signal for direction-calling and SS-locating. The roaster's labels are useful only for variety-template inference and as priors on which descriptor families to expect.
+
 ### Per-coffee coarse-tolerance (same-setting, same-day, opposite inflection)
 
 When sibling coffees from the same batch all land Score 4 at the same setting on the same day but show **different deficit inflections**, the likely explanation is _not_ that the batch entered a narrow window or that drift stalled — it's that each coffee's **coarse-tolerance** differs. The sweet-spot center is roughly shared; how far past it each coffee can go before registering under-signs is not.
