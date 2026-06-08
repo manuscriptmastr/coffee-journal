@@ -4579,3 +4579,21 @@ This is much more like it. Flavor profile is immediately sweet, with a distinct 
 ## Meza, Z, 6.15 @ 211ºF, 12.5g/250g Day 25, Score: 4
 
 Sweet first sip with slight jasmine finish. Pink citrus acidity pops in second sip, followed by moderate gesha quality. Sweet jasmine in third sip, a little dark and spicy complexion. Presents as delicate but darker than I would expect, almost like a Mejorado. Heavy spicy + slight jasmine finish that continues long after sip. Sugary gesha quality improves a little in second half, though still strangely "woody". No strong mouthfeel issues. This cup has lots of warmth and resonance that makes it easy to pick out as a gesha, I'm just expecting it to be more articulate, especially with acidity, given the listed dragonfruit and key lime tasting notes. Cooldown continues to hold integrity but also the slightly woody finish. There are some fantastic qualities to this cup, but the small flavor volume and the slightness of acidity makes me think this isn't the best the coffee can do. **6.175?**
+
+<!-- R/O water from Crozet Market, "Essential Everyday" -->
+
+## Ortiz, Z, 5.875 @ 211ºF, 12.5g/250g Day 14, Score: 3
+
+Consistently crisp, slightly diluted, slightly more citric raspberry acidity, tight and tacky lips. This is 100% just a touch underextracted and sour. Acidity is pointy, brilliantly tart, and lacking resonant sweetness, and coffee seems to suck life out of lips in particular. Wow, that's sour. I think a small nudge finer will fix this easily. **5.85?**
+
+## Guchienda, Z, 6.1 @ 211ºF, 12.5g/250g Day 28, Score: 3
+
+Tight and puckery lips again, with tomato barely hinted at. Instead, a small tart citric almost-tomato acidity. Texture is thin and transparent. Cup hurts a little to drink primarily because of lip discomfort.
+
+## Alba, Z, 6.2 @ 211ºF, 12.5g/250g Day 26, Score: 3
+
+More citric side, also very tight and tacky and puckery, especially in lips and gums. Good flavors, but somewhat thin and in need of sweetness to balance.
+
+## Bermudez, Z, 6.175 @ 211ºF, 12.5g/250g Day 26, Score: 3
+
+First sip a little sharp. Second sip somewhat empty. Mouth rubbing. Pineapple noticed late in the finish. Empty, watery, almost no flavor in the first third. Tight lips. Acidity grows a touch, but still indistinct and highly tart. Little to no sweetness or flavor in last sip. Lips continue to be rough, tight, etc long after finishing.
