@@ -4597,3 +4597,19 @@ More citric side, also very tight and tacky and puckery, especially in lips and 
 ## Bermudez, Z, 6.175 @ 211ºF, 12.5g/250g Day 26, Score: 3
 
 First sip a little sharp. Second sip somewhat empty. Mouth rubbing. Pineapple noticed late in the finish. Empty, watery, almost no flavor in the first third. Tight lips. Acidity grows a touch, but still indistinct and highly tart. Little to no sweetness or flavor in last sip. Lips continue to be rough, tight, etc long after finishing.
+
+## Blossom Wine, Z, 7.05 @ 211ºF, 12.5g/250g Day 53, Score: 4
+
+Honestly, not bad at all! This coffee is still defective, but the cup was very gentle, mouthfilling, and easy to drink.
+
+## Meza, Z, 6.175 @ 211ºF, 12.5g/250g Day 27, Score: 4
+
+Good flavor volume, exact flavors not completely in focus but suggested: acidity with a citric (lime?) edge, a slight jasmine florality, and hinting at gesha sugary sweetness. Mouthfeel mostly neutral. Somewhat thin and light and creamy overall.
+
+## Floral Standard, Z, 7.1 @ 211ºF, 12.5g/250g Day 49, Score: 5
+
+At first a little light in profile. Jasmine and gesha sweetness are very well defined but at the volume I've experienced in some of the best cups, while other qualities like texture and mouthfilling nature are balanced. Towards last third, both qualities become highly defined. An extremely good cup. I would say this is the **sweet spot or 7.075** just in case there's more that we can get out of the focus.
+
+## Salas, Z, 5.85 @ 211ºF, 12.5g/250g Day 15, Score: 4
+
+Some great properties here. A somewhat unsweetened jasmine tea note, a brilliant but hard to discern red fruit (strawberry?) glow in flavor. Good but not excellent sweetness. I feel as if I can tell the flavors but have to fish for them slightly. Jasmine does linger warmly in finish. Not negative mouthfeel. Slightly tea-like and citric limpness to profile overall, making me think we can push this a bit. I think this can go a touch finer: **5.825?**
