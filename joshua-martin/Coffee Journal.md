@@ -4613,3 +4613,19 @@ At first a little light in profile. Jasmine and gesha sweetness are very well de
 ## Salas, Z, 5.85 @ 211ºF, 12.5g/250g Day 15, Score: 4
 
 Some great properties here. A somewhat unsweetened jasmine tea note, a brilliant but hard to discern red fruit (strawberry?) glow in flavor. Good but not excellent sweetness. I feel as if I can tell the flavors but have to fish for them slightly. Jasmine does linger warmly in finish. Not negative mouthfeel. Slightly tea-like and citric limpness to profile overall, making me think we can push this a bit. I think this can go a touch finer: **5.825?**
+
+## Blue Strudel, Z, 7.175 @ 211ºF, 12.5g/250g Day 54, Score: 4
+
+One of the most tart berry forward cups I've had of this. Almost too tart, in fact, and perhaps a touch thin. An excellent cooldown. I took my time with it. Pushing a 5, but I wonder if we can balance this better. No strange mouthfeels.
+
+## Guchienda, Z, 6.075 @ 211ºF, 12.5g/250g Day 30, Score: 4
+
+So darn close. A bright and quite brilliant tart/citric tomato and currant acidity. Small and delicate flavor volume bordering on thin. Sweet tomato in finish. Last third of cup becomes even more brilliant and shining in the acidity. However, mouth is a little rubbing.
+
+## Bermudez, Z, 6.125 @ 211ºF, 12.5g/250g Day 28, Score: 4
+
+Extremely soft, spicy, and silky first sip, with a heavy spiced and pineapple finish. Flavor profile is dark and full of perfumy qualities that make the finish long lasting. Flavors are well melded with sweetness so that there are no harsh edges. Flavors bloom in mouth. I almost prefer if we're capable of a more immediate explosion in the sip. Profound softness and gentle pineapple + hops continues to hold in cooldown. Slight noisy scratchiness in mouth. Last sip is profoundly soft, sweet, almost airy, yet mouthfilling. The only possible issue is that the pineapple acidity tends to not be the main attraction and disappears in parts of the sip vs. being sustained or "juicy".
+
+## Morocho, Z, 5.85 @ 211ºF, 12.5g/250g Day 16, Score: 4
+
+Dark, spicy, brown, somewhat acidic. Slight noisy scratchiness in mouth. Strong finish. Acidity is somewhat bright but difficult to identify. A hint of roastiness. There is some acidity here, but the darkness of the coffee also feels a bit much even for a mejorado. The flavors are a little flat, though texture is clean and even a bit sharp + thin. I'm surprised there's not more tea complexity. An ambiguous cup that is close. Last sip is very citrus-forward.
