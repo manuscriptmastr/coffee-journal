@@ -3980,11 +3980,15 @@ A little weaker today. Some brightness to flavors but not quite as sweet or funk
 
 Tight, bright, exciting, and zingy purple grape acidity. A bit more on the toyish side, but lovely.
 
+<!--Roasted April 17-->
+
 ## Blue Strudel, Z, 5.5 @ 211ºF, 12.5g/250g Day 10, Score: 3
 
 Weird spiciness/gravy quality. Dark complexion with roastiness in finish. As cools, there is some sweetness and fruit brightness, but a fairly muddy intro taste-wise. Sweet fruits come out more as cools. Grows in fruits but with that classic roasty quality natural Ethiopian coffees can have if more developed. Almost zinc-like metallic quality to last couple sips. Last sip is both highly fruity, moderately roasty, and somewhat metallic. No big mouthfeeel issues.
 
 <!--Harris Teeter Purified R/O Water-->
+
+<!--Roasted April 17-->
 
 ## Blossom Wine, Z, 5.6 @ 211ºF, 12.5g/250g Day 11, Score: 2
 
@@ -4005,6 +4009,8 @@ Excellent first sip. Open, gentle, expressive, delicate. Very soft profile, but 
 ## La Isabela, Z, 6.05 @ 211ºF, 12.5g/250g Day 31, Score: 5
 
 A lovely, crisp cup. Fruits and sweetness nicely poised and clean through cooldown.
+
+<!--Roasted April 17-->
 
 ## Amber Drop, Z, 5.5 @ 205ºF, 12.5g/250g Day 12, Score: 4
 
@@ -4081,6 +4087,8 @@ Absolutely lovely. Substantial melded flavors but back to clear and even refresh
 ## La Isabela/Monteblanco/Paraiso/Pena, Z, 6.25 @ 211ºF, 12.5g/250g Day 37, Score: 5
 
 Lovely last cup!
+
+<!--Roasted April 21-->
 
 ## Floral Standard, Z, 5.525 @ 211ºF, 12.5g/250g Day 14, Score: 2
 
@@ -4278,6 +4286,8 @@ A lovely, grainy, sugary-sweet, jasmine-forward, citrus cup. Absolutely lovely.
 
 Actually not bad, feels loose though semi-focused. Somewhat green/fresh character. Actually a really good cooldown. **6.575?**
 
+<!--Roasted May 11-->
+
 ## Guchienda, Z, 5.65 @ 211ºF, 12.5g/250g Day 9, Score: 5
 
 Started out a little vague but with good texture and a clear tomato acidity. In last third, the clarity and sweetness of the tomato + rose hip dramatically increased, reminding me of some of my most nostalgic experiences with SEY. Lovely gentleness, sweetness, and brightness. It is possible I could go a touch finer, but this was incredible.
@@ -4285,6 +4295,8 @@ Started out a little vague but with good texture and a clear tomato acidity. In 
 ## Blue Strudel, Z, 6.6 @ 211ºF, 12.5g/250g Day 33, Score: 4
 
 Small flavor volume, but good flavors overall. Slightest roastiness and scratchiness. The perceived roastiness I think may be from the contrast between this and the SEY Guchienda, which was much lighter. Good through cooldown. 4? 5? Is this the most this coffee is capable of?
+
+<!--Roasted May 13-->
 
 ## Bermudez, Z, 5.6 @ 211ºF, 12.5g/250g Day 7, Score: 4
 
@@ -4294,9 +4306,13 @@ Perhaps too early, but tart-sweet acidity is here but not super easy to define, 
 
 Good but not quite as good as it could be. **6.525?**
 
+<!--Roasted May 13-->
+
 ## Alba, Z, 5.65 @ 211ºF, 12.5g/250g Day 8, Score: 5
 
 A wonderfully toyish sweet-tart purplish currant acidity that grows through the cooldown. Initially I thought this might be barely underextracted, but considering my enjoyment level of the entire cup and the expansiveness, this feels about right. A lovely first impression, reminding me of other SEY pink bourbons.
+
+<!--Roasted May 13-->
 
 ## Meza, Z, 5.65 @ 211ºF, 12.5g/250g Day 8, Score: 4
 
@@ -4532,17 +4548,25 @@ White tea profile, with a citrus acidity in background/surroundings. Mouth sligh
 
 Big and flat flavor volume. Slight roasty or bitter note in finish. Slight rubbing in mouth, not much sweetness. Cooldown is soft and slightly sweet — there are some good qualities here. Sweetness grows to moderate volume, but there is a distinct bitter roasty note I associate with stale overroasted coffees. Aside from that, this is generally enjoyable.
 
+<!--Roasted May 25-->
+
 ## Morocho, Z, 5.75 @ 211ºF, 12.5g/250g Day 11, Score: 4
 
 Pleasing, somewhat tart profile. Mouth tight and raspy, especially roof of mouth and lips. Not as sweet as I expect from a mejorado. Finish pretty short. Listed flavors (eucalyptus, nectarine, and white tea) are suggested but not 100% defined. Cooldown continues to be delicate, rounded, some complexity, but not fully delivering. **5.775?**
+
+<!--Roasted May 25-->
 
 ## Mejia, Z, 5.775 @ 211ºF, 12.5g/250g Day 11, Score: 5
 
 Tasting notes of this coffee are prickly pear, lychee, and honeydew. The first sip was a highly memorable and brilliant sweet-tart acidity with an immediately recognizable lychee glow that sticks to the palate in the finish. The pear quality is also noticeable, making this a distinct and unique profile overall. There is the slightest tightness and scratchiness in mouth, but I would not deviate too much from here as the lychee acidity is brilliant and cooling to the last sip. There is a possibility it could be even more immediate. **Sweet spot or 5.8**
 
+<!--Roasted May 25-->
+
 ## Ortiz, Z, 5.775 @ 211ºF, 12.5g/250g Day 11, Score: 4
 
 This cup from first to last sip screamed a definite and unmistakeable raspberry tasting note. I remember this kind of profile from a washed, very expensive Colombian gesha from Subtext. The rose is also somewhat discernable at times in the surroundings. Super sweet and melded raspberry flavor and finish — you get hit with the raspberry as a final 'glow' in the finish. However, the flavor volume is noticeably focused and small and occasionally felt slightly more in the second half of the sip than the first. Mouth highly scratchy, especially in the roof of the mouth, and slightly tight and uncomfortable. **Sweet spot or 5.8**. The flavors were absolutely brilliant here though. A hard choice.
+
+<!--Roasted May 25-->
 
 ## Salas, Z, 5.8 @ 211ºF, 12.5g/250g Day 11, Score: 4
 
@@ -4630,4 +4654,18 @@ Extremely soft, spicy, and silky first sip, with a heavy spiced and pineapple fi
 
 Dark, spicy, brown, somewhat acidic. Slight noisy scratchiness in mouth. Strong finish. Acidity is somewhat bright but difficult to identify. A hint of roastiness. There is some acidity here, but the darkness of the coffee also feels a bit much even for a mejorado. The flavors are a little flat, though texture is clean and even a bit sharp + thin. I'm surprised there's not more tea complexity. An ambiguous cup that is close. Last sip is very citrus-forward.
 
-## Amber Drop, Z, 7.175 @ 211ºF, 12.5g/250g Day 55, Score:
+## Amber Drop, Z, 7.175 @ 211ºF, 12.5g/250g Day 55, Score: 4
+
+Scale was not tared on first pour, had to eyeball 50g. Overall, great tart acidity mostly supported by sweetness, but not 100% focused in. Somewhat perfumy but slightly short finish.
+
+## Alba, Z, 6.15 @ 211ºF, 12.5g/250g Day 29, Score: 4
+
+Good, melded flavors. Slightly rough/powdery in mouth. Flavors are smaller than expected and not explosive. Does grow in cooldown however. There is a nice sweet-tart edge to this cup, but it feels as if the acidity is not always immediate throughout the sip. All things considered: the flavors are here, but something is slightly off. The slight tightness + lack of directness + not a wide mouthfilling texture.
+
+## Ortiz, Z, 5.9 @ 211ºF, 12.5g/250g Day 17, Score: 3
+
+Immediate raspberry but short-lived, never fully sustaining, and a little citric. Moderate perfuminess in finish. Beginning of sip is instant and attacking yet almost thin like lemon water; middle of sip tends to be a little empty; finish is loud and sustained. Second half is crisp, somewhat devoid of gentleness in texture, and having the slightest rubbing in mouth. Grows brighter and sharper yet less mouthfilling. Seems to lack warmth/resonance in flavor or sweetness, although present in finish. I want to say this is underextracted? **5.85?**
+
+## Floral Standard, Z, 7.125 @ 211ºF, 12.5g/250g Day 51, Score: 4
+
+First sip a little misty, with moderate sweet jasmine. Second sip also a touch vague though still suggestive of sweet jasmine. Mouth slightly scratchy. Citrus component grows a little more. Somewhat delicate complexion, but jasmine complexity and bright edge is growing. Cooldown still has the distinct jasmine, but isn't as loud or juicy or pungent as it could be. I'm surprised this didn't grow more toward the end. Mouth still scratchy, but not obnoxiously so. A good cup, but based on earlier cups, there's more potential here. I suspect this may be overextracted? **7.15**
