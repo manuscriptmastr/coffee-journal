@@ -4629,3 +4629,5 @@ Extremely soft, spicy, and silky first sip, with a heavy spiced and pineapple fi
 ## Morocho, Z, 5.85 @ 211ºF, 12.5g/250g Day 16, Score: 4
 
 Dark, spicy, brown, somewhat acidic. Slight noisy scratchiness in mouth. Strong finish. Acidity is somewhat bright but difficult to identify. A hint of roastiness. There is some acidity here, but the darkness of the coffee also feels a bit much even for a mejorado. The flavors are a little flat, though texture is clean and even a bit sharp + thin. I'm surprised there's not more tea complexity. An ambiguous cup that is close. Last sip is very citrus-forward.
+
+## Amber Drop, Z, 7.175 @ 211ºF, 12.5g/250g Day 55, Score:
