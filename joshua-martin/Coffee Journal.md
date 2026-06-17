@@ -4669,3 +4669,99 @@ Immediate raspberry but short-lived, never fully sustaining, and a little citric
 ## Floral Standard, Z, 7.125 @ 211ºF, 12.5g/250g Day 51, Score: 4
 
 First sip a little misty, with moderate sweet jasmine. Second sip also a touch vague though still suggestive of sweet jasmine. Mouth slightly scratchy. Citrus component grows a little more. Somewhat delicate complexion, but jasmine complexity and bright edge is growing. Cooldown still has the distinct jasmine, but isn't as loud or juicy or pungent as it could be. I'm surprised this didn't grow more toward the end. Mouth still scratchy, but not obnoxiously so. A good cup, but based on earlier cups, there's more potential here. I suspect this may be overextracted? **7.15**
+
+## Blossom Wine, Z, 7.1 @ 211ºF, 12.5g/250g Day 56, Score: 2
+
+Pretty gross. Green, roasty, yet silky texture. No mouthfeel issues, interestingly.
+
+## Meza, Z, 6.225 @ 211ºF, 12.5g/250g Day 30, Score: 3
+
+Simultaneously big, expansive, and mouthfilling, and nearly flavorless/dead except for tea tones. Mouth is nearly neutral. In last third, a touch of citrus barely pops out. Mouth more scratchy toward end. Citrus again peeks out in the last sip. An almost salty/brothy quality.
+
+## Alba, Z, 6.2 @ 211ºF, 12.5g/250g Day 30, Score: 3
+
+Initially a little thin and afar off, with berry profile barely nodded to. In second third, perfumy berries begin to really pop and are very loose and toyish and crisp. In last third, tartness of berries begins to be slightly imbalanced, and mouth is slightly scratchy. Highly crisp and citrus-forward acidity with no ceiling. Lovely last sip due to the acidic excitement. Simply lacks the sweetness to make this brilliant. Juniper berry quality all the way through cup.
+
+## Bermudez, Z, 6.175 @ 211ºF, 12.5g/250g Day 30, Score: 4
+
+Excellent mouthfilling flavor in first sip. Acidity is a little more front and center today, and perfumy hops component is deep and lingering in finish. Second sip has large volume but less explicit acidity. Cooldown strangely softens out, with flavors still intact but less explicit. Flavors are seemingly clean and cooling yet not well defined. There is supporting sweetness and warmth here.
+
+## Blue Strudel, Z, 7.2 @ 211ºF, 12.5g/250g Day 57, Score: 4
+
+A quite good last cup. Bready, sweet, lasting finish (a little gravy-like). This could possibly be **7.225** to get back some of the exciting tartness.
+
+## Guchienda, Z, 6.075 @ 211ºF, 12.5g/250g Day 33, Score: 4
+
+Lovely highly sweet tomato flavor, although not quite as loose and explosive as it could be. Slightly tight, occasionally rubbing mouth. The flavor and sweetness are excellent and melded, just not completely open and expressive. **6.1?**
+
+## Amber Drop, Z, 7.2 @ 211ºF, 12.5g/250g Day 58, Score: 5
+
+Slightly smaller flavor volume than some other cups I've had, but lovely bready and sweet-tart acidity.
+
+## Meza, Z, 6.15 @ 211ºF, 12.5g/250g Day 32, Score: 4
+
+Immediately sweet and soft English-breakfast-tea-with-cream-and-sugar profile. Very little acidity. No obvious mouthfeel issues. Given that the texture is so luxurious, I'm thinking this is a little overextracted. A tasty cup overall, though.
+
+## Alba, Z, 6.175 @ 211ºF, 12.5g/250g Day 32, Score: 4
+
+I feel the berries and currant and lemon zest especially in the finish. I keep wanting to get hit with it more in the initial flavor. Slight tightness in mouth. Grainy + juniper berry quality quite heavy all through. As cools, the citrus quality does become brighter. Flavors become increasingly more interesting as cools, and even softer/sweeter/more plump. Mouth has a bit of a thirsty quality. Bright red berry acidity + just enough sweetness in last couple sips is lovely, though mouth is a little uncomfortable. Absolutely lovely last sip: zippy, yet supported by sweetness which especially shows up later in the sip. This could be a 5 potentially. **Sweet spot or 6.2?**
+
+## Mejia, Z, 5.9 @ 211ºF, 12.5g/250g Day 20, Score: 5
+
+This is really good, sweet-tart, silky, and quite effortless to drink. It's got a little of that brilliant edge to the acidity, and a heavier zest quality to the finish. While this could potentially be more colorful or explosive, the sweetness makes it pretty dang balanced. **Sweet spot? Or 5.925?**
+
+## Ortiz, Z, 5.9 @ 211ºF, 12.5g/250g Day 20, Score: 5
+
+Brilliant raspberry, slightly far off, zippiness continues into finish. Almost grape-like. Not quite as big or explosive, but good raspberry color and a nice raspberry glow in finish. Smaller flavor volume. Good sweetness. An excellent last couple sips. This was such a good cup, I'm just not sure why the flavor volume is so small unless it's just a characteristic of this water (which is possible). Everything else about this cup is lovely.
+
+## Blossom Wine, Z, 7.2 @ 211ºF, 12.5g/250g Day 59, Score: 3
+
+Not bad last cup. Still defective tasting, but not bad.
+
+## Guchienda, Z, 6.125 @ 211ºF, 12.5g/250g Day 35, Score: 3
+
+Super thick texture, heavy finish, generally tomato acidity but fishing for it and not a completely honest flavor. Last few sips have some exciting sweet tomato. Finish after cup noticeably that stale coffee characteristic. Not bad, but this is clearly overextracted.
+
+## Bermudez, Z, 6.225 @ 211ºF, 12.5g/250g Day 33, Score: 3
+
+Thick, nice texture, but hardly any flavors. Occasionally there is a hint of acidity.
+
+<!-- Harris Teeter purified R/O water -->
+
+## Meza, Z, 6.175 @ 211ºF, 12.5g/250g Day 33, Score: 3
+
+Black tea notes and a notable stale quality in first sip. Second sip more mouthfilling but not really betraying a flavor profile. More citric profile potentially. Big expansive quality with slight citric quality, but not going anywhere other than the tea notes and that offtaste. Wall-like profile in cooldown. Mouth slightly powdery. The profile gets crisper in last few sips but still isn't showing defined flavors (and there's still a dirty, slightly bitter cocoa-like quality in finish). Last sip hints at some sweet-tart quality. Moderate almost pungent finish.
+
+## Floral Standard, Z, 7.3 @ 211ºF, 12.5g/250g Day 56, Score: 3
+
+Not bad! Definitely underextracted: jasmine and sweetness are here but not well developed, and there is a naivety and open texture to the cup. **7.25?** Last cup.
+
+## Meza, Z, 6.25 @ 211ºF, 12.5g/250g Day 34, Score: 4
+
+Large expansiveness, good jasmine note and sweetness but not 100% on the dial. Cooldown does grow nicely and based on the ending alone I might have given it a 5. So much more "material" than yesterday's finer cup. **6.275+?**
+
+## Alba, Z, 6.275 @ 211ºF, 12.5g/250g Day 34, Score: 4
+
+This cup is immediately soft and rounded, with no edges or tightness. It becomes bigger and bigger in the cooldown and has the general berry and currant tasting notes, but it barely misses the "shining" lemon zest brilliance that this coffee can offer. Meanwhile, the texture and even sweetness is luxurious. Can we take this to **6.3?** Or do we try to focus it with **6.25?**
+
+Update: **6.25** seems more likely given Bermudez.
+
+## Bermudez, Z, 6.3 @ 211ºF, 12.5g/250g Day 34, Score: 3
+
+Leaning a bit in the "tasty water" direction, though there is still some flavor development. As cools, it increasingly becomes like a "big wall of noise", flat + big + crisp, with graininess, citric acidity, spices, and vague flavors equally emphasized and in need of structure. Last few sips provide some relief with the suggestion of softer citrus. Hops is heavy in finish. Last sip has that watery characteristic without being thin. It is still expansive, but transparent, requiring me to go fishing for the flavors. **6.25, or even finer?**
+
+## Guchienda, Z, 6.3 @ 211ºF, 12.5g/250g Day 37, Score: 4
+
+A good cup with fairly distinct tomato and greate flavor volume. Occasionally going in and out and could be defined a bit more with that brilliant sweetness for a "sweet tomato" flavor. **6.275?**
+
+## Alba, Z, 6.275 @ 211ºF, 12.5g/250g Day 35, Score: 4
+
+Frustratingly close. Initially wows with berry + currant acidity, then presents crisp sweetness but without fully owning the flavor profile, much less the distinct lemon zest quality I know this coffee is capable off. Mouth slightly noisy scratchy in mouth. Feels like a "big" coffee all the way through. Is it possible that **6.25** will get us more, in spite of the slightly concerning mouthfeel? Or **6.3?**
+
+## Meza, Z, 6.25 @ 211ºF, 12.5g/250g Day 35, Score: 3
+
+Sweetness is through the roof, but the flavors are dull overall. Jasmine is technically present, but not brilliant or prominent. No acidity. A slight staleness. Thick, luxurious texture. **6.275+**
+
+## Bermudez, Z, 6.275 @ 211ºF, 12.5g/250g Day 35, Score: 5
+
+A sharp and dark and citric + hops first sip, with a hint of brilliance from sweetness. Noticeable sharp and slightly brilliant acidity. Cooldown exposes a nice balance of crisp acidic shine and sweetness. This isn't quite as shiny + acidic as I expected, but the balance is extremely good.
