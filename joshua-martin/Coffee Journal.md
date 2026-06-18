@@ -4765,3 +4765,19 @@ Sweetness is through the roof, but the flavors are dull overall. Jasmine is tech
 ## Bermudez, Z, 6.275 @ 211ºF, 12.5g/250g Day 35, Score: 5
 
 A sharp and dark and citric + hops first sip, with a hint of brilliance from sweetness. Noticeable sharp and slightly brilliant acidity. Cooldown exposes a nice balance of crisp acidic shine and sweetness. This isn't quite as shiny + acidic as I expected, but the balance is extremely good.
+
+## Guchienda, Z, 6.3 @ 211ºF, 12.5g/250g Day 38, Score: 5
+
+Wow. Excellent body, sweetness, crisp acidity, expansive + explosive flavor profile. Surprisingly not as "sweet tomato" as I expected for such a good cup.
+
+## Mejia, Z, 6.025 @ 211ºF, 12.5g/250g Day 24, Score: 5
+
+An amazing cup. First to last sip are filled with exciting and unique acidity: pear in the beginning, undergirded by a lovely transparent sweetness, and moderately perfumy lychee in finish. It's like experiencing the color yellow-green going to a deep red or fuschia. As cools, the expansiveness increases. In the last two sips my lips felt slightly "zapped" or puckery, but I don't care, it's so good.
+
+## Salas, Z, 6.025 @ 211ºF, 12.5g/250g Day 24, Score: 5
+
+Wow. First sip immediately has body, plumpness, expansive flavor volume. It does just barely lack highly defined notes at first other than gesha tea tones, but as it cools, lychee (and even a hint of jasmine) becomes more noticeable. (They list peach, which I think shares a lot in common with the punchy + juicy quality of lychee.) Unlike Meza, this leans heavily into the fruit qualities over jasmine or tea or sugary sweetness, although perhaps going one setting finer could do that. However, the last several sips are just about perfection: plump, sweet, musical, warbling, glowing, singing lychee, and incredibly complex and sustaining. One of the best cups I've had in a while.
+
+## Bermudez, Z, 6.3 @ 211ºF, 12.5g/250g Day 36, Score: 5
+
+Fantastic plumpness, expansive flavor volume, easy to drink, etc. I'm surprised that the pineapple isn't more explicit, but considering how easily this goes down, I think this is one of the best cups I can get.
