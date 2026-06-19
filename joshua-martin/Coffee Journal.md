@@ -4781,3 +4781,15 @@ Wow. First sip immediately has body, plumpness, expansive flavor volume. It does
 ## Bermudez, Z, 6.3 @ 211ºF, 12.5g/250g Day 36, Score: 5
 
 Fantastic plumpness, expansive flavor volume, easy to drink, etc. I'm surprised that the pineapple isn't more explicit, but considering how easily this goes down, I think this is one of the best cups I can get.
+
+## Alba, Z, 6.325 @ 211ºF, 12.5g/250g Day 37, Score: 5
+
+Wow! A lovely, sweet, ripe, currant-forward cup today. Very much like a Kenyan coffee. Amazing from beginning to end.
+
+## Meza, Z, 6.325 @ 211ºF, 12.5g/250g Day 37, Score: 4
+
+A strange profile. Abundantly sweet and thick and luxurious in mouth, and even big flavors in mouth, but I feel like there's a mix of stale characteristics alongside it. The listed flavors aren't really recognizable today. Still, an enjoyable and big cup reminding me a bit of a mejorado. **6.35?**
+
+## Morocho, Z, 6.05 @ 211ºF, 12.5g/250g Day 25, Score: 5
+
+Fantastic sweetness and body. There is a touch of the robust bitter-sharp cocoa quality here, along with complex tea tones. In last several sips, the acidity does come out more as well as the super rounded and mellow sweetness. A lovely cup.
