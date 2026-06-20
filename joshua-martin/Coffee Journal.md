@@ -4793,3 +4793,15 @@ A strange profile. Abundantly sweet and thick and luxurious in mouth, and even b
 ## Morocho, Z, 6.05 @ 211ºF, 12.5g/250g Day 25, Score: 5
 
 Fantastic sweetness and body. There is a touch of the robust bitter-sharp cocoa quality here, along with complex tea tones. In last several sips, the acidity does come out more as well as the super rounded and mellow sweetness. A lovely cup.
+
+## Guchienda/Bermudez/Alba + Meza, Z, 6.35/6.375 @ 211ºF, 12.5g/250g Day 38/40, Score: 5
+
+Super developed flavors and sweetness. Occasionally rough in mouth but hard to say which is to blame, so overall a 5.
+
+## Mejia, Z, 6.075 @ 211ºF, 12.5g/250g Day 26, Score: 4
+
+Strange. This cup today is barely missing the distinct pear, has a shorter lychee perfuminess, comes across slightly watery or transparent at times, yet is otherwise big and even dark profiled. Is this just barely underextracted? Mouth is slightly scratchy.
+
+## Salas, Z, 6.05 @ 211ºF, 12.5g/250g Day 26, Score: 4
+
+A little bit of a sweet and dull first sip, with tea tones. _Extremely_ melded and smooth in mouth, but missing bright fruit flavors.
