@@ -4804,4 +4804,16 @@ Strange. This cup today is barely missing the distinct pear, has a shorter lyche
 
 ## Salas, Z, 6.05 @ 211ºF, 12.5g/250g Day 26, Score: 4
 
-A little bit of a sweet and dull first sip, with tea tones. _Extremely_ melded and smooth in mouth, but missing bright fruit flavors.
+A little bit of a sweet and dull first sip, with tea tones. _Extremely_ melded and smooth in mouth, but missing bright fruit flavors. **6.075 or 6.1?**
+
+## Guchienda, Z, 6.375 @ 211ºF, 12.5g/250g Day 41, Score: 4
+
+Very good sweetness and flavors, possibly just a touch tighter/smaller/duller than it could be? A great ending overall. **Sweet spot or 6.4**
+
+## Ortiz, Z, 6.1 @ 211ºF, 12.5g/250g Day 27, Score: 5
+
+What a superb cup. First sip is immediately intense, almost brilliant raspberry, tart and exciting and vivid. There are also parts of the cup when the airy and spacious sweetness has room to speak. Vivid, large, intense. Last sip is more airy but hits you with the raspberry perfuminess a few seconds after. The only possible detractor from this cup is that my upper gums behind the lip feel unusually stiff (not scratchy).
+
+## Morocho, Z, 6.1 @ 211ºF, 12.5g/250g Day 27, Score: 5
+
+While mejorados are not generally my favorite profile, this one is doing well within that expectation. A strong robust cocoa/woody depth, delicate enough that delicate citrus has some space, and very good sweetness. A somewhat 'airy' profile, overall, though taking on more definition in the cooldown. An excellent cup!
