@@ -4817,3 +4817,15 @@ What a superb cup. First sip is immediately intense, almost brilliant raspberry,
 ## Morocho, Z, 6.1 @ 211ºF, 12.5g/250g Day 27, Score: 5
 
 While mejorados are not generally my favorite profile, this one is doing well within that expectation. A strong robust cocoa/woody depth, delicate enough that delicate citrus has some space, and very good sweetness. A somewhat 'airy' profile, overall, though taking on more definition in the cooldown. An excellent cup!
+
+## Salas, Z, 6.125 @ 211ºF, 12.5g/250g Day 28, Score: 3
+
+First sip was very promising. Extremely crisp, transparent, occasionally hinting at jasmine or some fruit, but otherwise flavorless and pure for the rest of the cup. Crystal clear texture. Perhaps this runs a bit finer than its sibling? **6.1 or 6.075?**
+
+## Mejia, Z, 6.125 @ 211ºF, 12.5g/250g Day 28, Score: 4
+
+A similar trend to Salas: immediately bursting with pear and perfumy lychee, but then turning to a cup with tons of crisp character, crystal clear transparency, yet almost flavorless. Pear + lychee is ever experienced in the finish. The tons are bright and true here... so why are the flavors not quite filled in clearly? I suspect that yesterday's score 5s were on the underextracted side of the sweet spot (the "airy" quality), and today at the same setting would have rendered a less airy, riper score 4 or 5. So perhaps we are outpacing the sweet spot today. **6.1**
+
+## Ortiz, Z, 6.1 @ 211ºF, 12.5g/250g Day 28, Score: 5
+
+Quite good, excellent mature and juicy raspberry. Excellent cooldown.
