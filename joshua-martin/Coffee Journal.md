@@ -4841,3 +4841,7 @@ Superbly silky and plump texture and jasmine hinted at throughout cup, but almos
 ## Mejia, Z, 6.125 @ 211ºF, 12.5g/250g Day 29, Score: 4
 
 Duller, sweeter fruit profile. Sweet, luxurious, and somewhat dull in cooldown. **6.15?**
+
+## Ortiz, Z, 6.15 @ 211ºF, 12.5g/250g Day 29, Score: 4
+
+Some fantastic raspberry "zing" in the cup and finish, even a little tight in mouth. But strangely slightly small flavors overall, like this could be more open and explosive. **6.175?**
