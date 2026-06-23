@@ -4829,3 +4829,15 @@ A similar trend to Salas: immediately bursting with pear and perfumy lychee, but
 ## Ortiz, Z, 6.1 @ 211ºF, 12.5g/250g Day 28, Score: 5
 
 Quite good, excellent mature and juicy raspberry. Excellent cooldown.
+
+## Morocho, Z, 6.125 @ 211ºF, 12.5g/250g Day 29, Score: 4
+
+A touch on the robust side of the sweet spot and not quite as flavorful, but sweet. **6.15**
+
+## Salas, Z, 6.125 @ 211ºF, 12.5g/250g Day 29, Score: 4
+
+Superbly silky and plump texture and jasmine hinted at throughout cup, but almost no acidity. Excellent in every other way. **6.15**
+
+## Mejia, Z, 6.125 @ 211ºF, 12.5g/250g Day 29, Score: 4
+
+Duller, sweeter fruit profile. Sweet, luxurious, and somewhat dull in cooldown. **6.15?**
