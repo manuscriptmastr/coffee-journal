@@ -4848,8 +4848,12 @@ Some fantastic raspberry "zing" in the cup and finish, even a little tight in mo
 
 ## Morocho, Z, 6.2 @ 211ºF, 12.5g/250g Day 30, Score: 3
 
-No post-bloom shake, as I typically do later in a coffee's life. No offensive flavors, but lacking flavor definition and sweetness is not very interesting. **6.175**
+No post-bloom shake, as I typically do later in a coffee's life when it doesn't retain water as long. No offensive flavors, but lacking flavor definition and sweetness is not very interesting. **6.15**
 
 ## Mejia, Z, 6.175 @ 211ºF, 12.5g/250g Day 30, Score: 4
 
-No post-blook shake. This has the characteristic dark + perfumy acidity and toyishness, but flavors are a little all-on and not well structured, though with excellent tartness at times. **6.15**
+No post-bloom shake. This has the characteristic dark + perfumy acidity and toyishness, but flavors are a little all-on and not well structured, though with excellent tartness at times. **6.15**
+
+## Salas, Z, 6.15 @ 211ºF, 12.5g/250g Day 30, Score: 4
+
+No post-bloom shake. A crisp, transparent, citric + unsweet jasmine flavor profile, with the slightest hint of more perfumy fruits. Easily underextracted and in need of pulling out some deeper + riper character. I do get the impression that this may run a touch finer than its siblings. **6.125**
