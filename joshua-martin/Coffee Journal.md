@@ -4845,3 +4845,11 @@ Duller, sweeter fruit profile. Sweet, luxurious, and somewhat dull in cooldown. 
 ## Ortiz, Z, 6.15 @ 211ºF, 12.5g/250g Day 29, Score: 4
 
 Some fantastic raspberry "zing" in the cup and finish, even a little tight in mouth. But strangely slightly small flavors overall, like this could be more open and explosive. **6.175?**
+
+## Morocho, Z, 6.2 @ 211ºF, 12.5g/250g Day 30, Score: 3
+
+No post-bloom shake, as I typically do later in a coffee's life. No offensive flavors, but lacking flavor definition and sweetness is not very interesting. **6.175**
+
+## Mejia, Z, 6.175 @ 211ºF, 12.5g/250g Day 30, Score: 4
+
+No post-blook shake. This has the characteristic dark + perfumy acidity and toyishness, but flavors are a little all-on and not well structured, though with excellent tartness at times. **6.15**
