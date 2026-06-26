@@ -4857,3 +4857,27 @@ No post-bloom shake. This has the characteristic dark + perfumy acidity and toyi
 ## Salas, Z, 6.15 @ 211ºF, 12.5g/250g Day 30, Score: 4
 
 No post-bloom shake. A crisp, transparent, citric + unsweet jasmine flavor profile, with the slightest hint of more perfumy fruits. Easily underextracted and in need of pulling out some deeper + riper character. I do get the impression that this may run a touch finer than its siblings. **6.125**
+
+## Ortiz, Z, 6.175 @ 211ºF, 12.5g/250g Day 31, Score: 4
+
+Lots of substance and tartness in cup, but raspberry acidity could be defined even better. Some tightness (puckeriness?) in mouth. **6.15**
+
+## Morocho, Z, 6.15 @ 211ºF, 12.5g/250g Day 31, Score: 4
+
+Excellent flavors, sweetness, and texture. Balance and delicacy is great. I don't think this is the best, most focused cup I've had of this coffee, but it is very good. **6.125?**
+
+## Mejia, Z, 6.15 @ 211ºF, 12.5g/250g Day 31, Score: 4
+
+Wall-like and substantial flavor volume, a touch on the tart and juniper-like side. Mouth is a little tight toward the end. **6.125?**
+
+## Salas, Z, 6.15 @ 211ºF, 12.5g/250g Day 32, Score: 5
+
+Excellent sweetness and quite good flavors. This is big and luxurious and has jasmine and fruit character. I think this is probably the finest it can go. **Sweet spot or 6.175**
+
+## Ortiz, Z, 6.15 @ 211ºF, 12.5g/250g Day 32, Score: 5
+
+Really big and mature, perfumy, mouthfilling, crisp + sweet, plump. While this isn't the most zingy raspberry profile I've experienced from this coffee, the overall balance and bigness continues to impress from start to finish. **Sweet spot or 6.175**
+
+## Morocho, Z, 6.15 @ 211ºF, 12.5g/250g Day 32, Score: 4
+
+Wonderfully substantial, big, and mouthfilling. However, the texture and body has taken precedence over the flavors a bit. No obvious flaws though and highly enjoyable anyway. **6.175**
