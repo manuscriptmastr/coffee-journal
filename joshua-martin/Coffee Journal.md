@@ -4881,3 +4881,27 @@ Really big and mature, perfumy, mouthfilling, crisp + sweet, plump. While this i
 ## Morocho, Z, 6.15 @ 211ºF, 12.5g/250g Day 32, Score: 4
 
 Wonderfully substantial, big, and mouthfilling. However, the texture and body has taken precedence over the flavors a bit. No obvious flaws though and highly enjoyable anyway. **6.175**
+
+## Mejia, Z, 6.2 @ 211ºF, 12.5g/250g Day 33, Score: 4
+
+Generally good flavors, but not completely focused in. Flavors surprisingly small and not as tart as I would expect.
+
+## Salas, Z, 6.175 @ 211ºF, 12.5g/250g Day 33, Score: 4
+
+Good — jasmine is here, and slight perfumy hint at acidity, but once again, slightly missing the mark when it should be on the dot.
+
+## Ortiz, Z, 6.25 @ 211ºF, 12.5g/250g Day 34, Score: 4
+
+Dangit we're indeed back in genuine + lively + tart acidity territory. At some point we had previously drifted into overextraction territory, but in retrospect the comments about "body taking precedence of flavors" and "flavors surprisingly small" should have been clues. This cup is immediate and cooling, and slightly lacking structure. **6.225**, but a lovely cup I would drink many, many times over. Unlike other cups, this has "pure" flavors.
+
+## Morocho, Z, 6.225 @ 211ºF, 12.5g/250g Day 34, Score: 5
+
+YES. This has that immediacy I've been looking for. Cooling and bright and crisp tea tones + citrus + mejorado brown sweetness that isn't robust or too dominant. Last sip suddenly turns to a plump and sweet profile, which is a very common mejorado trait.
+
+## Mejia, Z, 6.225 @ 211ºF, 12.5g/250g Day 34, Score: 4
+
+Amazing plump tart-sweet-hoppy chiroso profile. Mouth barely rough. Really good, however I feel like this could use more of the lychee note. **6.2?** or **6.25?**
+
+## Salas, Z, 6.225 @ 211ºF, 12.5g/250g Day 34, Score: 5
+
+Big in mouth, sweet, somewhat tart in the finish, a little "stale" (I let the coffee sit a bit). Great tart-sweet cooldown with moderate jasmine. Honestly while this isn't exactly the profile I expected, it's very much in line with a fantastic cup. It's plump, bright, delicate, and keeps interest through last sip.
