@@ -4905,3 +4905,27 @@ Amazing plump tart-sweet-hoppy chiroso profile. Mouth barely rough. Really good,
 ## Salas, Z, 6.225 @ 211ºF, 12.5g/250g Day 34, Score: 5
 
 Big in mouth, sweet, somewhat tart in the finish, a little "stale" (I let the coffee sit a bit). Great tart-sweet cooldown with moderate jasmine. Honestly while this isn't exactly the profile I expected, it's very much in line with a fantastic cup. It's plump, bright, delicate, and keeps interest through last sip.
+
+## Ortiz, Z, 6.25 @ 211ºF, 12.5g/250g Day 35, Score: 4
+
+Highly focused tart and zingy raspberry, experienced in the second half of sip. Small flavor volume, high sweetness. This cup is more plump but also tighter in mouth vs. loose and big. I think the last cup was a little more preferable. **6.275**
+
+## Morocho, Z, 6.25 @ 211ºF, 12.5g/250g Day 35, Score: 4
+
+Great sweetness, a touch more on the darker robust mejorado characteristics today though highly melded. I think **6.275** could be a touch better?
+
+## Mejia, Z, 6.275 @ 211ºF, 12.5g/250g Day 35, Score: 3
+
+Feels big in mouth, but flavors obscure. Mouth feels noticeably tacky. **6.25 or 6.225**
+
+## Salas, Z, 6.3 @ 211ºF, 12.5g/250g Day 36, Score: 3
+
+Big and plump in mouth, some jasmine, not particularly well developed flavors. Somewhat brown. **6.275?**
+
+## Ortiz, Z, 6.3 @ 211ºF, 12.5g/250g Day 36, Score: 4
+
+Hmmm big but wild and grainy flavors, not as well defined tasting notes. **6.275?**
+
+## Mejia, Z, 6.275 @ 211ºF, 12.5g/250g Day 36, Score: 4
+
+Close. Tart-sweet character and chiroso spice and citric qualities. If I didn't know this was capable of an intense lychee perfuminess, it would be sweet spot worthy. However, it's missing that and feels a little spicy/grainy rather than having an easy distinction of flavors. **6.25?**
