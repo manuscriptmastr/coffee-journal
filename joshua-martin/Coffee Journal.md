@@ -4929,3 +4929,11 @@ Hmmm big but wild and grainy flavors, not as well defined tasting notes. **6.275
 ## Mejia, Z, 6.275 @ 211ºF, 12.5g/250g Day 36, Score: 4
 
 Close. Tart-sweet character and chiroso spice and citric qualities. If I didn't know this was capable of an intense lychee perfuminess, it would be sweet spot worthy. However, it's missing that and feels a little spicy/grainy rather than having an easy distinction of flavors. **6.25?**
+
+## Salas, Z, 6.275 @ 211ºF, 12.5g/250g Day 37, Score: 4
+
+Great plump sweetness and big, overall very enjoyable to drink, but flavors not strongly defined. A slight stale note here and there, and mouth barely rough. **6.3**
+
+## Ortiz, Z, 6.3 @ 211ºF, 12.5g/250g Day 37, Score: 4
+
+Quite good, especially at the beginning with lovely raspberry tartness. However, the flavors become less distinct as cools, making me think we're slightly in overextraction territory. To find genuine flavors again, this could have been **6.325 or 6.35**
