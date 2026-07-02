@@ -4937,3 +4937,23 @@ Great plump sweetness and big, overall very enjoyable to drink, but flavors not 
 ## Ortiz, Z, 6.3 @ 211ºF, 12.5g/250g Day 37, Score: 4
 
 Quite good, especially at the beginning with lovely raspberry tartness. However, the flavors become less distinct as cools, making me think we're slightly in overextraction territory. To find genuine flavors again, this could have been **6.325 or 6.35**
+
+## Morocho, Z, 6.35 @ 211ºF, 12.5g/250g Day 38, Score: 3
+
+Not the most enjoyable flavors, but does grow in "acidity" as cools. No obvious defects.
+
+## Mejia, Z, 6.35 @ 211ºF, 12.5g/250g Day 38, Score: 3
+
+Similarly, missing real flavors though having no obvious defects.
+
+<!-- Washed Variedad Colombia roasted on June 24, 2026 by Tim Wendelboe -->
+
+## Variedad, Z, 5.8 @ 211ºF, 12.5g/250g Day 8, Score: 3
+
+No post-bloom shake. Highly open and loose, but not focused in with sweetness. Definite roasty chocolate note I normally avoid, but it's well separated from the rest of the profile like it's intentional. **5.75?** Degassing may be to blame for the offtastes as well.
+
+<!-- Washed K7, SL28, and SL34 from Kenya roasted on June 24, 2026 by Tim Wendelboe -->
+
+## Kapsokisio, Z, 5.75 @ 211ºF, 12.5g/250g Day 8, Score: 3
+
+No post-bloom shake. Big, open, and roasty + currant. Not tasty. Could be degassing to blame for all the offtastes. Flavor volume big but flavors far off. Persistent roasty quality. Big and slightly citric, no centering flavor. Super big in last sip, starting to show more currant.
