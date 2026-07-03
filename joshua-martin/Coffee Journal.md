@@ -4957,3 +4957,19 @@ No post-bloom shake. Highly open and loose, but not focused in with sweetness. D
 ## Kapsokisio, Z, 5.75 @ 211ºF, 12.5g/250g Day 8, Score: 3
 
 No post-bloom shake. Big, open, and roasty + currant. Not tasty. Could be degassing to blame for all the offtastes. Flavor volume big but flavors far off. Persistent roasty quality. Big and slightly citric, no centering flavor. Super big in last sip, starting to show more currant.
+
+## Salas, Z, 6.4 @ 211ºF, 12.5g/250g Day 39, Score: 4
+
+Toyish, genuine, loose, a bit flimsy and small, highly definite jasmine and some good sweetness.
+
+## Morocho, Z, 6.4 @ 211ºF, 12.5g/250g Day 39, Score: 4
+
+Also back to a loose, toyish, mostly genuine tart-sweet flavor profile, although flimsy and small as well.
+
+## Ortiz, Z, 6.425 @ 211ºF, 12.5g/250g Day 39, Score: 5
+
+Raspberry acidity is absolutely vivid, exciting, brilliant, etc, and while barely puckery (somewhat tight/clyoing mouth), the exciting and genuine acidity to the very last sip is so worth it. My sips slowed down a lot on this one due to the density of flavor present even in small sips. It is ironic that once again I ended up in the overextraction spiral. Even the flimsy character of the last two cups made it difficult for me to go even coarser.
+
+## Mejia, Z, 6.425 @ 211ºF, 12.5g/250g Day 39, Score: 5
+
+Immediately mouthfilling grainy and somewhat perfumy green acidity. Continues to be grainy, open, loose, big, with green acidity forward (apple, lime, etc) through cooldown. A lovely, unapologetic, sweet cup.
