@@ -4973,3 +4973,11 @@ Raspberry acidity is absolutely vivid, exciting, brilliant, etc, and while barel
 ## Mejia, Z, 6.425 @ 211ºF, 12.5g/250g Day 39, Score: 5
 
 Immediately mouthfilling grainy and somewhat perfumy green acidity. Continues to be grainy, open, loose, big, with green acidity forward (apple, lime, etc) through cooldown. A lovely, unapologetic, sweet cup.
+
+## Morocho, Z, 6.45 @ 211ºF, 12.5g/250g Day 40, Score: 4
+
+Sweet, well-developed and melded flavors, but a touch small. **6.475**
+
+## Salas, Z, 6.45 @ 211ºF, 12.5g/250g Day 40, Score: 4
+
+Slightly small flavors but tart-sweet. **6.475**
