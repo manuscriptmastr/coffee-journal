@@ -4981,3 +4981,15 @@ Sweet, well-developed and melded flavors, but a touch small. **6.475**
 ## Salas, Z, 6.45 @ 211ºF, 12.5g/250g Day 40, Score: 4
 
 Slightly small flavors but tart-sweet. **6.475**
+
+## Ortiz, Z, 6.5 @ 211ºF, 12.5g/250g Day 41, Score: 5
+
+One of the best cups I've had in awhile! Super perfumy raspberry, pineapple, and other tart-sweet acidity. Incredibly potent and open and dense through cooldown.
+
+## Morocho, Z, 6.5 @ 211ºF, 12.5g/250g Day 41, Score: 5
+
+Unapologetic robust eucalyptus/cocoa note, great sweetness and clarity and plumpness through last sip.
+
+## Mejia, Z, 6.5 @ 211ºF, 12.5g/250g Day 41, Score: 3
+
+Strange. Big, spice-driven, not nearly as much acidic clarity as I expected, and highly powdery/scratchy in mouth. There is in the last sip or two some growing plumpness and suggestion of the prickly pear, but not nearly as much as usual. Dud?
