@@ -4948,7 +4948,7 @@ Similarly, missing real flavors though having no obvious defects.
 
 <!-- Washed Variedad Colombia roasted on June 24, 2026 by Tim Wendelboe -->
 
-## Variedad, Z, 5.8 @ 211ºF, 12.5g/250g Day 8, Score: 3
+## Tamana (Variedad), Z, 5.8 @ 211ºF, 12.5g/250g Day 8, Score: 3
 
 No post-bloom shake. Highly open and loose, but not focused in with sweetness. Definite roasty chocolate note I normally avoid, but it's well separated from the rest of the profile like it's intentional. **5.75?** Degassing may be to blame for the offtastes as well.
 
@@ -4993,3 +4993,9 @@ Unapologetic robust eucalyptus/cocoa note, great sweetness and clarity and plump
 ## Mejia, Z, 6.5 @ 211ºF, 12.5g/250g Day 41, Score: 3
 
 Strange. Big, spice-driven, not nearly as much acidic clarity as I expected, and highly powdery/scratchy in mouth. There is in the last sip or two some growing plumpness and suggestion of the prickly pear, but not nearly as much as usual. Dud?
+
+<!-- Washed Red and Pink Bourbon roasted on June 24, 2026 by Tim Wendelboe -->
+
+## Tamana (Pink Bourbon), Z, 5.8 @ 211ºF, 12.5g/250g Day 11
+
+I can smell a lot of CO2 while brewing. No post-bloom shake. Big, vague, far-off, gassy/roasty, possible tea notes, transparent texture. Last third of cup relaxes and is somewhat watery, suggestive of sweetness. Highly transparent, rather silky.
