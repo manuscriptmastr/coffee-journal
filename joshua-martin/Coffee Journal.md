@@ -4999,3 +4999,15 @@ Strange. Big, spice-driven, not nearly as much acidic clarity as I expected, and
 ## Tamana (Pink Bourbon), Z, 5.8 @ 211ºF, 12.5g/250g Day 11
 
 I can smell a lot of CO2 while brewing. No post-bloom shake. Big, vague, far-off, gassy/roasty, possible tea notes, transparent texture. Last third of cup relaxes and is somewhat watery, suggestive of sweetness. Highly transparent, rather silky.
+
+## Salas, Z, 6.55 @ 211ºF, 12.5g/250g Day 42, Score: 4
+
+Extremely plump and big in mouth, but jasmine and acidity is not quite as focused as it has been historically. Overall still very enjoyable. **6.525**
+
+## Ortiz, Z, 6.55 @ 211ºF, 12.5g/250g Day 42, Score: 3
+
+Extremely puckery and stiff as cools. Raspberry is not focused in. Big and somewhat vague profile. **6.525**
+
+## Mejia, Z, 6.525 @ 211ºF, 12.5g/250g Day 42, Score: 5
+
+Acidic and exciting first sip. Great vividness toward end, but stiff in mouth and a little more spicy toward end. Last sip is very nice sweet/tart/loose/plump. It's awfully good.
