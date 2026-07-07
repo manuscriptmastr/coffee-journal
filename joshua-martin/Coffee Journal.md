@@ -5011,3 +5011,15 @@ Extremely puckery and stiff as cools. Raspberry is not focused in. Big and somew
 ## Mejia, Z, 6.525 @ 211ºF, 12.5g/250g Day 42, Score: 5
 
 Acidic and exciting first sip. Great vividness toward end, but stiff in mouth and a little more spicy toward end. Last sip is very nice sweet/tart/loose/plump. It's awfully good.
+
+## Morocho, Z, 6.55 @ 211ºF, 12.5g/250g Day 42, Score: 4
+
+Slightly stale offtaste but otherwise great flavors and plumpness. **6.6?**
+
+## Salas, Z, 6.575 @ 211ºF, 12.5g/250g Day 42, Score: 4
+
+Small but pretty good flavors. Plump. No obvious off tastes. Just small. **6.6?**
+
+## Ortiz, Z, 6.575 @ 211ºF, 12.5g/250g Day 42, Score: 4
+
+Pretty good tart-sweet raspberry! Balanced, but a little small in volume. **6.6?**
