@@ -5023,3 +5023,15 @@ Small but pretty good flavors. Plump. No obvious off tastes. Just small. **6.6?*
 ## Ortiz, Z, 6.575 @ 211ºF, 12.5g/250g Day 42, Score: 4
 
 Pretty good tart-sweet raspberry! Balanced, but a little small in volume. **6.6?**
+
+## Morocho, Z, 6.625 @ 211ºF, 12.5g/250g Day 42, Score: 4
+
+Quite good. On the delicate/small but flavorful side. **6.65?**
+
+## Mejia, Z, 6.625 @ 211ºF, 12.5g/250g Day 42, Score: 5
+
+Exciting, riveting, bright, citrusy, extremely tart-sweet profile, almost candied. Lovely openness and sweetness in second half.
+
+## Salas, Z, 6.625 @ 211ºF, 12.5g/250g Day 42, Score: 4
+
+Extremely well defined jasmine, which is the dominant tasting note in this cup. Lovely through last sip though smaller in volume and mouth is barely rough/tight. **6.65?**
