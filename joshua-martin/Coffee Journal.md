@@ -5035,3 +5035,9 @@ Exciting, riveting, bright, citrusy, extremely tart-sweet profile, almost candie
 ## Salas, Z, 6.625 @ 211ºF, 12.5g/250g Day 42, Score: 4
 
 Extremely well defined jasmine, which is the dominant tasting note in this cup. Lovely through last sip though smaller in volume and mouth is barely rough/tight. **6.65?**
+
+<!-- Washed heirloom cultivars roasted June 24, 2026 by Tim Wendelboe -->
+
+## Echemo, Z, 5.8 @ 211ºF, 12.5g/250g Day 14, Score: 3
+
+Smooth, tea-toned, slightly sweet washed Ethiopian profile. Pretty good transparency, though not the most developed acidity. Grows in volume quite a bit, though still not quite betraying what the acidity is. Tight/stiff in mouth. Very much in the ballpark!
