@@ -5024,15 +5024,15 @@ Small but pretty good flavors. Plump. No obvious off tastes. Just small. **6.6?*
 
 Pretty good tart-sweet raspberry! Balanced, but a little small in volume. **6.6?**
 
-## Morocho, Z, 6.625 @ 211ºF, 12.5g/250g Day 42, Score: 4
+## Morocho, Z, 6.625 @ 211ºF, 12.5g/250g Day 43, Score: 4
 
 Quite good. On the delicate/small but flavorful side. **6.65?**
 
-## Mejia, Z, 6.625 @ 211ºF, 12.5g/250g Day 42, Score: 5
+## Mejia, Z, 6.625 @ 211ºF, 12.5g/250g Day 43, Score: 5
 
 Exciting, riveting, bright, citrusy, extremely tart-sweet profile, almost candied. Lovely openness and sweetness in second half.
 
-## Salas, Z, 6.625 @ 211ºF, 12.5g/250g Day 42, Score: 4
+## Salas, Z, 6.625 @ 211ºF, 12.5g/250g Day 43, Score: 4
 
 Extremely well defined jasmine, which is the dominant tasting note in this cup. Lovely through last sip though smaller in volume and mouth is barely rough/tight. **6.65?**
 
@@ -5041,3 +5041,15 @@ Extremely well defined jasmine, which is the dominant tasting note in this cup. 
 ## Echemo, Z, 5.8 @ 211ºF, 12.5g/250g Day 14, Score: 3
 
 Smooth, tea-toned, slightly sweet washed Ethiopian profile. Pretty good transparency, though not the most developed acidity. Grows in volume quite a bit, though still not quite betraying what the acidity is. Tight/stiff in mouth. Very much in the ballpark!
+
+## Ortiz, Z, 6.7 @ 211ºF, 12.5g/250g Day 44, Score: 4
+
+Great openness and looseness. Slightly unstructured. **6.675**
+
+## Mejia, Z, 6.675 @ 211ºF, 12.5g/250g Day 44, Score: 5
+
+Really fantastic open and intense acidity. Last few sips are slightly less distinct, but overall great!
+
+## Salas, Z, 6.675 @ 211ºF, 12.5g/250g Day 44, Score: 5
+
+Lovely sweet jasmine and tea tones.
