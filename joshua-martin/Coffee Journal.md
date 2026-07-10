@@ -5065,3 +5065,7 @@ Absolutely heady/perfumy raspberry, with wonderful tart-sweet complexion. Last c
 ## Mejia, Z, 6.825 @ 211ºF, 12.5g/250g Day 45, Score: 4
 
 Pretty good, but mostly suggestive of acidity.
+
+## Salas, Z, 6.85 @ 211ºF, 12.5g/250g Day 45, Score: 3
+
+Kind of empty and spicy and vague. Jasmine is almost vague peppery, with no sweetness to amplify it. Second half though the citrus + jasmine becomes bigger in volume. Almost herbal/woody. No sweetness. Last sip is a little citrusy, open, spicy, woody, big. **6.825**
