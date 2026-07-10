@@ -5042,14 +5042,26 @@ Extremely well defined jasmine, which is the dominant tasting note in this cup. 
 
 Smooth, tea-toned, slightly sweet washed Ethiopian profile. Pretty good transparency, though not the most developed acidity. Grows in volume quite a bit, though still not quite betraying what the acidity is. Tight/stiff in mouth. Very much in the ballpark!
 
-## Ortiz, Z, 6.7 @ 211ºF, 12.5g/250g Day 44, Score: 4
+## Ortiz, Z, 6.8 @ 211ºF, 12.5g/250g Day 44, Score: 4
 
-Great openness and looseness. Slightly unstructured. **6.675**
+Great openness and looseness. Slightly unstructured. **6.775**
 
-## Mejia, Z, 6.675 @ 211ºF, 12.5g/250g Day 44, Score: 5
+## Mejia, Z, 6.775 @ 211ºF, 12.5g/250g Day 44, Score: 5
 
 Really fantastic open and intense acidity. Last few sips are slightly less distinct, but overall great!
 
-## Salas, Z, 6.675 @ 211ºF, 12.5g/250g Day 44, Score: 5
+## Salas, Z, 6.775 @ 211ºF, 12.5g/250g Day 44, Score: 5
 
 Lovely sweet jasmine and tea tones.
+
+## Morocho, Z, 6.725 @ 211ºF, 12.5g/250g Day 45, Score: 3
+
+Dull but sweet flavors. A touch robust. Luxurious in mouth. Small. I think yesterday's settings were accidentally 6.775, so this being overextracted makes sense.
+
+## Ortiz, Z, 6.825 @ 211ºF, 12.5g/250g Day 45, Score: 5
+
+Absolutely heady/perfumy raspberry, with wonderful tart-sweet complexion. Last couple sips just barely less vivid, but still lovely.
+
+## Mejia, Z, 6.825 @ 211ºF, 12.5g/250g Day 45, Score: 4
+
+Pretty good, but mostly suggestive of acidity.
