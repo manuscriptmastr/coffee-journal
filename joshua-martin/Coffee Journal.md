@@ -5069,3 +5069,15 @@ Pretty good, but mostly suggestive of acidity.
 ## Salas, Z, 6.85 @ 211ºF, 12.5g/250g Day 45, Score: 3
 
 Kind of empty and spicy and vague. Jasmine is almost vague peppery, with no sweetness to amplify it. Second half though the citrus + jasmine becomes bigger in volume. Almost herbal/woody. No sweetness. Last sip is a little citrusy, open, spicy, woody, big. **6.825**
+
+## Morocho, Z, 6.875 @ 211ºF, 12.5g/250g Day 46, Score: 5
+
+Some extremely good sweetness and robust tea tones. Very drinkable. This feels like the sweet spot, though not my favorite coffee in general.
+
+## Ortiz, Z, 6.875 @ 211ºF, 12.5g/250g Day 46, Score: 5
+
+One of the best cups I've had in awhile, and easily the best cup of this coffee or the whole SEY batch. Liquid gold, brilliant, shimmering, endless perfumy raspberry finish, vivid and tart-sweet from start to finish. Plump and intense rather than open and loose.
+
+## Salas, Z, 6.875 @ 211ºF, 12.5g/250g Day 46, Score: 4
+
+Interesting, the jasmine is pretty well defined, with moderate sweetness, but not quite a knockout cup. Mouth is slightly abrasive and tight, and there's a woody quality to the flavors overall. **6.85?** This would mean Salas runs slightly finer than Ortiz. Mejia might also be this way.
