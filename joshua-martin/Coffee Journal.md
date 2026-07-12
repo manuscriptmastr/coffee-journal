@@ -5081,3 +5081,11 @@ One of the best cups I've had in awhile, and easily the best cup of this coffee 
 ## Salas, Z, 6.875 @ 211ºF, 12.5g/250g Day 46, Score: 4
 
 Interesting, the jasmine is pretty well defined, with moderate sweetness, but not quite a knockout cup. Mouth is slightly abrasive and tight, and there's a woody quality to the flavors overall. **6.85?** This would mean Salas runs slightly finer than Ortiz. Mejia might also be this way.
+
+## Mejia, Z, 6.9 @ 211ºF, 12.5g/250g Day 47, Score: 4
+
+A touch on the small side, but very drinkable overall.
+
+## Morocho, Z, 6.925 @ 211ºF, 12.5g/250g Day 47, Score: 4
+
+Very good flavors. A touch rubbing. Initially a little vague, but becomes more focused and sweet as cools.
