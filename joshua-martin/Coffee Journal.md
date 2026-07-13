@@ -5089,3 +5089,11 @@ A touch on the small side, but very drinkable overall.
 ## Morocho, Z, 6.925 @ 211ºF, 12.5g/250g Day 47, Score: 4
 
 Very good flavors. A touch rubbing. Initially a little vague, but becomes more focused and sweet as cools.
+
+## Variedad, Z, 6 @ 211ºF, 12.5g/250g Day 19, Score: 4
+
+Frankly, a lovely cup. Although missing some sweetness and being a touch/nutty robust in the finish, this coffee has a lovely honesty to the chocolate/caramel flavor profile. Crisp, transparent, powerful in each sip. Excellent looseness and flavor volume. A touch finer?
+
+## Kapsokisio, Z, 6 @ 211ºF, 12.5g/250g Day 19: Score: 4
+
+Also amazingly open, strong, and big. Some small offtastes here and there. Lacking a well defined sweetness, and the profile lacks a focal point. 'Wild' at times. Consider a touch finer!
