@@ -5094,6 +5094,10 @@ Very good flavors. A touch rubbing. Initially a little vague, but becomes more f
 
 Frankly, a lovely cup. Although missing some sweetness and being a touch/nutty robust in the finish, this coffee has a lovely honesty to the chocolate/caramel flavor profile. Crisp, transparent, powerful in each sip. Excellent looseness and flavor volume. A touch finer?
 
-## Kapsokisio, Z, 6 @ 211ºF, 12.5g/250g Day 19: Score: 4
+## Kapsokisio, Z, 6 @ 211ºF, 12.5g/250g Day 19, Score: 4
 
 Also amazingly open, strong, and big. Some small offtastes here and there. Lacking a well defined sweetness, and the profile lacks a focal point. 'Wild' at times. Consider a touch finer!
+
+## Red Bourbon, Z, 5.95 @ 211ºF, 12.5g/250g Day 19, Score: 3
+
+Big and somewhat sweet first sip, somewhat vague and murky and lacking acidic definition. Abundantly soft and voluminous and plump in mouth. There is some tartness but not brightness.
