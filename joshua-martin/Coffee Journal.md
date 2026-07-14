@@ -5101,3 +5101,15 @@ Also amazingly open, strong, and big. Some small offtastes here and there. Lacki
 ## Red Bourbon, Z, 5.95 @ 211ºF, 12.5g/250g Day 19, Score: 3
 
 Big and somewhat sweet first sip, somewhat vague and murky and lacking acidic definition. Abundantly soft and voluminous and plump in mouth. There is some tartness but not brightness.
+
+## Echemo, Z, 5.9 @ 211ºF, 12.5g/250g Day 20, Score: 5
+
+Surprisingly good! Plump, crisp, fully present and voluminous, melded, and continues to hold integrity and clarity through very last sip.
+
+## Kapsokisio, Z, 5.9 @ 211ºF, 12.5g/250g Day 20, Score: 4
+
+Very good overall! Much better than 6.
+
+## Variedad, Z, 5.95 @ 211ºF, 12.5g/250g Day 20, Score: 4
+
+Nice thickness and heft and robust chocolate, with a slight acidic edge. The robustness of the chocolate is almost a little much. Becomes more delicate in cooldown. Rubbing/silty in mouth. "Caramel" brown sweetness is quite luxurious, though there is a bit of a bite to the robustness. **6?**
