@@ -5108,8 +5108,24 @@ Surprisingly good! Plump, crisp, fully present and voluminous, melded, and conti
 
 ## Kapsokisio, Z, 5.9 @ 211ºF, 12.5g/250g Day 20, Score: 4
 
-Very good overall! Much better than 6.
+Very good overall! Much better than 6. A little robust like a slightly overextracted Kenyan coffee.
 
 ## Variedad, Z, 5.95 @ 211ºF, 12.5g/250g Day 20, Score: 4
 
 Nice thickness and heft and robust chocolate, with a slight acidic edge. The robustness of the chocolate is almost a little much. Becomes more delicate in cooldown. Rubbing/silty in mouth. "Caramel" brown sweetness is quite luxurious, though there is a bit of a bite to the robustness. **6?**
+
+## Red Bourbon, Z, 6.05 @ 211ºF, 12.5g/250g Day 21, Score: 3
+
+Lovely openness. Somewhat watery but "pure" acidity. We can push this a bit.
+
+## Kapsokisio, Z, 6 @ 211ºF, 12.5g/250g Day 21, Score: 5
+
+A beautiful cup. Zero robustness. The red currant is intense but well-backed by sweetness. In the cooldown, the clarity and balance continues to hold steady. A lovely profile from beginning to end, neither too tart or too robust.
+
+## Echemo, Z, 6 @ 211ºF, 12.5g/250g Day 21, Score: 4
+
+Very open and big, a touch noisy and can probably be a touch finer to focus in flavors and sweetness better. Big sips in cooldown! **5.95**
+
+## Variedad, Z, 6 @ 211ºF, 12.5g/250g Day 21, Score: 5
+
+Lovely sharp and active and crisp acidity, undergirded by chocolate surrounding. Barely robust. Lovely cooldown, continuing to hold integrity, plumpness, and rich-but-crisp character. Lovely to the last sip.
