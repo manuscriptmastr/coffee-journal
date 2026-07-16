@@ -5129,3 +5129,15 @@ Very open and big, a touch noisy and can probably be a touch finer to focus in f
 ## Variedad, Z, 6 @ 211ºF, 12.5g/250g Day 21, Score: 5
 
 Lovely sharp and active and crisp acidity, undergirded by chocolate surrounding. Barely robust. Lovely cooldown, continuing to hold integrity, plumpness, and rich-but-crisp character. Lovely to the last sip.
+
+## Red Bourbon, Z, 6.025 @ 211ºF, 12.5g/250g Day 22, Score: 3
+
+Pale, watery, lemon-water complexion, big and open. **6 or 5.975?**
+
+## Echemo, Z, 5.975 @ 211ºF, 12.5g/250g Day 22, Score: 3
+
+Big, watery, noisy, not very flavorful. Mouth very powdery. This makes me think "underextracted", but it is concerning that the score has gotten worse from going finer. However, the Red Bourbon also presented as underextracted.
+
+## Kapsokisio, Z, 6.025 @ 211ºF, 12.5g/250g Day 22, Score: 3
+
+Also suddenly watery, noisy, powdery in mouth, and no real clarity to flavors. Today's cups seemed to have shifted the same way. Are they overextracted? **6.05 or 6.075**
