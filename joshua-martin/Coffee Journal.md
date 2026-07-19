@@ -5141,3 +5141,39 @@ Big, watery, noisy, not very flavorful. Mouth very powdery. This makes me think 
 ## Kapsokisio, Z, 6.025 @ 211ºF, 12.5g/250g Day 22, Score: 3
 
 Also suddenly watery, noisy, powdery in mouth, and no real clarity to flavors. Today's cups seemed to have shifted the same way. Are they overextracted? **6.05 or 6.075**
+
+## Variedad, Z, 6.1 @ 211ºF, 12.5g/250g Day 23, Score: 4
+
+Back to open, loose, and flavorful, just lacking a little sweetness. **6.075?**
+
+## Red Bourbon, Z, 6.125 @ 211ºF, 12.5g/250g Day 25, Score: 4
+
+Quite good — dense, balanced, but not quite as bright or punchy as I would expect.
+
+## Echemo, Z, 6.15 @ 211ºF, 12.5g/250g Day 25, Score: 4
+
+Quite nice! Open, loose, some sweetness, delicate flavor. This could be more pronounced, but is more enjoyable than I typically find washed Ethiopian coffees.
+
+## Kapsokisio, Z, 6.15 @ 211ºF, 12.5g/250g Day 25, Score: 4
+
+Interesting! A somewhat tart, somewhat herbal/exotic profile, with red currant and hibiscus dominant. Delicate, ever-present Kenyan undertone. Slightly scratchy. Not entirely plump and a "knockout" cup, but very close. Highly enjoyable. Could use a touch more sweetness. Heavy hibiscus tones to finish.
+
+## Variedad, Z, 6.15 @ 211ºF, 12.5g/250g Day 25, Score: Unknown
+
+Gave to a friend.
+
+## Red Bourbon, Z, 6.2 @ 211ºF, 12.5g/250g Day 26, Score: 4
+
+Generally good flavors, good balance, just not super bright or exciting.
+
+## Echemo, Z, 6.2 @ 211ºF, 12.5g/250g Day 26, Score: 4
+
+Although this is getting almost to the limp/watery side of things, the flavors are becoming more toy-like, crisp, and defined. The cooldown was surprisingly well defined. Could be sweeter.
+
+## Kapsokisio, Z, 6.2 @ 211ºF, 12.5g/250g Day 26, Score: 4
+
+Good, loose, open, but not quite as flavorful as last time. Red currant isn't obvious or perfumy, and overall this is a spicier, less sweet/plump cup. **6.175?**
+
+## Variedad, Z, 6.175 @ 211ºF, 12.5g/250g Day 26, Score: 5
+
+Good sweetness. Quite good.
