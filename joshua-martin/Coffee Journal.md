@@ -5177,3 +5177,27 @@ Good, loose, open, but not quite as flavorful as last time. Red currant isn't ob
 ## Variedad, Z, 6.175 @ 211ºF, 12.5g/250g Day 26, Score: 5
 
 Good sweetness. Quite good.
+
+## Red Bourbon, Z, 6.2 @ 211ºF, 12.5g/250g Day 27, Score: 3
+
+A little weak.
+
+## Echemo, Z, 6.225 @ 211ºF, 12.5g/250g Day 27, Score: 5
+
+Big, loose, surprisingly flavorful and juicy. It's never tasted this good before! Lots of complexity: fruits, jasmine, herbal components, and (surprisingly) sweet. Continues to grow in flavor, looseness, fullness, juiciness, and complexity. Wow. It's like I've never tasted this coffee before.
+
+## Kapsokisio, Z, 6.225 @ 211ºF, 12.5g/250g Day 27, Score: 5
+
+Lovely!
+
+## Variedad, Z, 6.225 @ 211ºF, 12.5g/250g Day 27, Score: 5
+
+Also lovely!
+
+## Red Bourbon, Z, 6.275 @ 211ºF, 12.5g/250g Day 28, Score: 4
+
+Pretty good.
+
+## Echemo, Z, 6.275 @ 211ºF, 12.5g/250g Day 28, Score: 4
+
+Quite good, but not as good as yesterday. Are we outpacing or lagging behind the sweet spot drift?
