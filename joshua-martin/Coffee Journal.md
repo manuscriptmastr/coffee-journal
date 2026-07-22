@@ -5201,3 +5201,11 @@ Pretty good.
 ## Echemo, Z, 6.275 @ 211ºF, 12.5g/250g Day 28, Score: 4
 
 Quite good, but not as good as yesterday. Are we outpacing or lagging behind the sweet spot drift?
+
+## Kapsokisio, Z, 6.325 @ 211ºF, 12.5g/250g Day 29, Score: 4
+
+Toyish and wide flavors, not long lasting or deep red currant flavor.
+
+## Variedad, Z, 6.3 @ 211ºF, 12.5g/250g Day 29, Score: 4
+
+Quite good in a sweet and balanced way. Not quite as chocolatey as it has been.
