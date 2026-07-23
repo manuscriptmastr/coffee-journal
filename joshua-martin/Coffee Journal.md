@@ -5209,3 +5209,17 @@ Toyish and wide flavors, not long lasting or deep red currant flavor.
 ## Variedad, Z, 6.3 @ 211ºF, 12.5g/250g Day 29, Score: 4
 
 Quite good in a sweet and balanced way. Not quite as chocolatey as it has been.
+
+## Red Bourbon, Z, 6.35 @ 211ºF, 12.5g/250g Day 30, Score: 4
+
+A little dull, but develops some nice sharpness and crisp sweetness in cooldown.
+
+## Echemo, Z, 6.4 @ 211ºF, 12.5g/250g Day 30, Score: 4
+
+Not bad! A little too vague in flavor, but big in mouth.
+
+## Kapsokisio, Z, 6.35 @ 211ºF, 12.5g/250g Day 30, Score: 3
+
+## Variedad, Z, 6.45 @ 211ºF, 12.5g/250g Day 30, Score: 4
+
+Open and big, not a bad flavor though there's one offtaste. Good overall!
