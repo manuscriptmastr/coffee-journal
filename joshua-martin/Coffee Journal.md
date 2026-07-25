@@ -5223,3 +5223,43 @@ Not bad! A little too vague in flavor, but big in mouth.
 ## Variedad, Z, 6.45 @ 211ºF, 12.5g/250g Day 30, Score: 4
 
 Open and big, not a bad flavor though there's one offtaste. Good overall!
+
+<!-- Washed Mejorado roasted by Hydrangea Coffee on July 12, 2026 -->
+
+## Meridiano, Z, 5.6 @ 211ºF, 12.5g/250g Day 12, Score: 3
+
+Not the best, possibly overextracted?
+
+<!-- Natural caturra frmo Jose Ignacio Gomez, roasted July 12, 2026 by Hydrangea Coffee -->
+
+## Fig, Z, 5.7 @ 211ºF, 12.5g/250g Day 12, Score: 5
+
+Very, very distinct sparkling white grape juice or Welch's grape juice aroma. Flavor has this quality as well and also a distinct tahini nut butter component. Wow. Highly perfumy like other amazing Hydrangea naturals.
+
+<!-- Semi-washed castillo from Diego Bermudez, roasted July 12, 2026 by Hydrangea Coffee -->
+
+## Rose Tea, Z, 5.8 @ 211ºF, 12.5g/250g Day 12, Score: 4
+
+Crisp, a little watery, bright, clean, tart-sweet. A touch thin. Rose is present but not 100% focused. Glassy, transparent, lovely. **5.75 or 5.7?**
+
+<!-- Washed co-ferment castillo from Felipe Arcila, roasted July 12, 2026 by Hydrangea Coffee -->
+
+## Lychee, Z, 5.75 @ 211ºF, 12.5g/250g Day 12, Score: 5
+
+Delicate and open and pretty darn good. An absolutely lovely complex and sweet flavor profile and lychee finish that lasts forever. **Sweet spot or 5.7**
+
+## Meridiano, Z, 5.75 @ 211ºF, 12.5g/250g Day 13, Score: 4
+
+Much better — actual flavors, some balance, even some lychee or similar in end of sip — but still dominated by mejorado spice character.
+
+## Rose Tea, Z, 5.75 @ 211ºF, 12.5g/250g Day 13, Score: 4
+
+Okay, not nearly as good as yesterday.
+
+## Fig, Z, 5.8 @ 211ºF, 12.5g/250g Day 13, Score: 5
+
+Wonderful as well!
+
+## Lychee, Z, 5.8 @ 211ºF, 12.5g/250g Day 13, Score: 5
+
+Absolutely incredible.
