@@ -5263,3 +5263,35 @@ Wonderful as well!
 ## Lychee, Z, 5.8 @ 211ºF, 12.5g/250g Day 13, Score: 5
 
 Absolutely incredible.
+
+## Red Bourbon, Z, 6.6 @ 211ºF, 12.5g/250g Day 33, Score: 3
+
+Not bad overall, but some offtastes and not really the listed tasting notes.
+
+## Rose Tea, Z, 5.85 @ 211ºF, 12.5g/250g Day 14, Score: 3
+
+Started out with some sweetness and acidic flavor (not really rose, specifically), but then died out in last few sips.
+
+## Echemo, Z, 6.7 @ 211ºF, 12.5g/250g Day 33, Score: 4
+
+A breakfast tea kind of profile. Very sharp and crisp and slightly sweet. Very tacky in mouth. Somewhat heavy black tea finish. Becomes brighter and brighter in cooldown. **6.65?**
+
+## Meridiano, Z, 5.9 @ 211ºF, 12.5g/250g Day 14, Score: 4
+
+Spicy, juniper and citrus profile, purplish. Open and loose and dark, sweetness not completely focused. Cooldown continues to be juniper forward. Not bad. Very soft/plump/rounded mouthfeel.
+
+## Fig, Z, 5.9 @ 211ºF, 12.5g/250g Day 15, Score: 5
+
+A wonderfully clear and transparent cup. Barely on the fragile/watery side of the sweet spot perhaps, but lovely clarity of flavor!
+
+## Kapsokisio, Z, 6.7 @ 211ºF, 12.5g/250g Day 34, Score: 5
+
+Actually very nice Kenyan currant acidity. Very good overall!
+
+## Lychee, Z, 5.9 @ 211ºF, 12.5g/250g Day 15, Score: 5
+
+Woah. There is lychee but also something else that is almost a flavor/scent I'd find in a fancy soap. What is that??? It's red, almost candy-like, floral, maybe cherry or cherry blossom? It has the dark crisp edge of a cherry lollipop. Holy cow, sakura is literally one of the tasting notes lollll. I nailed that tasting note. Absolutely stunning — an award-winning cup. So much juiciness and complexity. Unique.
+
+## Variedad, Z, 6.7 @ 211ºF, 12.5g/250g Day 34, Score: 4
+
+Not bad! Not the absolute best it's been, but overall quite good.
