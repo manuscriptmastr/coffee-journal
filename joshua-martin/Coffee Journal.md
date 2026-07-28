@@ -5295,3 +5295,11 @@ Woah. There is lychee but also something else that is almost a flavor/scent I'd 
 ## Variedad, Z, 6.7 @ 211ºF, 12.5g/250g Day 34, Score: 4
 
 Not bad! Not the absolute best it's been, but overall quite good.
+
+## Meridiano, Z, 5.95 @ 211ºF, 12.5g/250g Day 16, Score: 4
+
+Really balanced and sweet, if not a touch watery. Almost a 5, but I suspect this is capable of more flavor volume.
+
+## Rose Tea, Z, 5.925 @ 211ºF, 12.5g/250g Day 16, Score: 3
+
+Missing flavors, although hints at them in second half. **5.95 or 6**
