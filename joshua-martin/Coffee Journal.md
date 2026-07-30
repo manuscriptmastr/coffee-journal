@@ -5303,3 +5303,31 @@ Really balanced and sweet, if not a touch watery. Almost a 5, but I suspect this
 ## Rose Tea, Z, 5.925 @ 211ºF, 12.5g/250g Day 16, Score: 3
 
 Missing flavors, although hints at them in second half. **5.95 or 6**
+
+## Red Bourbon, Z, 6.8 @ 211ºF, 12.5g/250g Day 36, Score: 3
+
+Vague overall, becomes more vague and nutty as cools though somewhat large.
+
+## Echemo, Z, 6.9 @ 211ºF, 12.5g/250g Day 36, Score: 4
+
+Open, fully, not bad. A somewhat flat flavor structure.
+
+## Fig, Z, 6 @ 211ºF, 12.5g/250g Day 17, Score: 4
+
+Good flavors, but definitely a touch watery and could be more focused/potent. **5.95**
+
+## Lychee, Z, 5.95 @ 211ºF, 12.5g/250g Day 17, Score: 5
+
+First sip kind of gravy-like. Pretty good overall! Very drinkable.
+
+## Kapsokisio, Z, 6.9 @ 211ºF, 12.5g/250g Day 37, Score: 4
+
+Not bad! A little on the vague and/or nutty side, but good density.
+
+## Rose Tea, Z, 6 @ 211ºF, 12.5g/250g Day 17, Score: N/A
+
+Took in a thermos. Couldn't pick out any real flavor notes.
+
+## Variedad, Z, 6.85 @ 211ºF, 12.5g/250g Day 37, Score: 3
+
+Not really any flavors, but great balanced texture.
