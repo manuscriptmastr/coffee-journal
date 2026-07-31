@@ -5324,10 +5324,18 @@ First sip kind of gravy-like. Pretty good overall! Very drinkable.
 
 Not bad! A little on the vague and/or nutty side, but good density.
 
-## Rose Tea, Z, 6 @ 211ºF, 12.5g/250g Day 17, Score: N/A
+## Rose Tea, Z, 6 @ 211ºF, 12.5g/250g Day 18, Score: N/A
 
 Took in a thermos. Couldn't pick out any real flavor notes.
 
 ## Variedad, Z, 6.85 @ 211ºF, 12.5g/250g Day 37, Score: 3
 
 Not really any flavors, but great balanced texture.
+
+## Meridiano, Z, 6 @ 211ºF, 12.5g/250g Day 19, Score: 4
+
+Noticeably sweeter in the second half. Strong cocoa tones typical of Mejorado. Not much acidic interest or complexity.
+
+## Lychee, Z, 6.05 @ 211ºF, 12.5g/250g Day 19, Score: 4
+
+A touch watery but otherwise very good flavors and sweetness. This is making me wonder if we are hovering in the overextraction spiral/uncanny valley. Consider **6.1** and higher to make it obvious.
