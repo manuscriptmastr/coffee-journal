@@ -5339,3 +5339,29 @@ Noticeably sweeter in the second half. Strong cocoa tones typical of Mejorado. N
 ## Lychee, Z, 6.05 @ 211ºF, 12.5g/250g Day 19, Score: 4
 
 A touch watery but otherwise very good flavors and sweetness. This is making me wonder if we are hovering in the overextraction spiral/uncanny valley. Consider **6.1** and higher to make it obvious.
+
+## Red Bourbon, Z, 7.5 @ 211ºF, 12.5g/250g Day 38, Score: 3
+
+Surprisingly not bad. Acidity isn't well-defined though it is present, and there is little sweetness but the cup is crisp and clear and mouthfilling.
+
+## Echemo, Z, 7.4 @ 211ºF, 12.5g/250g Day 38, Score: 3
+
+Surprisingly clear. Good but a little fragile. Loose.
+
+## Kapsokisio, Z, 7.3 @ 211ºF, 12.5g/250g Day 38, Score:
+
+## Fig, Z, 6.15 @ 211ºF, 12.5g/250g Day 21, Score: 4
+
+Tangy initially, but excellent flavors and sweetness. Cooldown is remarkable. Barely timid or watery.
+
+## Meridiano, Z, 6.2 @ 211ºF, 12.5g/250g Day 21, Score: 4
+
+First time this has lacked the robust cocoa quality. Intensely acidic and playful in ways I hadn't experienced before. Highly vivid especially in cooldown, a touch on the watery/unsweet side.
+
+## Rose Tea, Z, 6.15 @ 211ºF, 12.5g/250g Day 21, Score: 3
+
+Exact flavors are hard to tell, although this slightly reminds me of a pink bourbon kind of crisp acidity. One or two offtastes. Not much that is distinct in this cup. Either this is defective or we need to go coarser.
+
+## Lychee, Z, 6.25 @ 211ºF, 12.5g/250g Day 21, Score: 5
+
+Actually really really good. Highly honest flavors, bright and vivid sweetness, lovely complexity.
