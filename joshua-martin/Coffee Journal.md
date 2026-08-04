@@ -5365,3 +5365,19 @@ Exact flavors are hard to tell, although this slightly reminds me of a pink bour
 ## Lychee, Z, 6.25 @ 211ºF, 12.5g/250g Day 21, Score: 5
 
 Actually really really good. Highly honest flavors, bright and vivid sweetness, lovely complexity.
+
+## Variedad, Z, 7.3 @ 211ºF, 12.5g/250g Day 40, Score: 3
+
+Not bad but a little off. **7.4 and higher**
+
+## Fig, Z, 6.3 @ 211ºF, 12.5g/250g Day 23, Score: 4
+
+Very good overall, but first half was not quite there. Cooldown became much better. Almost a 5!
+
+## Meridiano, Z, 6.35 @ 211ºF, 12.5g/250g Day 23, Score: 3
+
+Open but a little vague and flavorless.
+
+## Rose Tea, Z, 6.3 @ 211ºF, 12.5g/250g Day 23, Score: 4
+
+Crisp, mouthfilling, easy to drink, but not very flavorful. Possibly defective coffee.
