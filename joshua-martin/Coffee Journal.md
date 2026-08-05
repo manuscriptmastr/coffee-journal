@@ -5381,3 +5381,19 @@ Open but a little vague and flavorless.
 ## Rose Tea, Z, 6.3 @ 211ºF, 12.5g/250g Day 23, Score: 4
 
 Crisp, mouthfilling, easy to drink, but not very flavorful. Possibly defective coffee.
+
+## Red Bourbon, Z, 7.5 @ 211ºF, 12.5g/250g Day 42, Score: 3
+
+Small, watery, not much flavor, barely any sweetness.
+
+## Echemo, Z, 7.45 @ 211ºF, 12.5g/250g Day 42, Score: 4
+
+Actually quite good! Starting to get definition, acidity, and sweetness.
+
+## Lychee, Z, 6.35 @ 211ºF, 12.5g/250g Day 24, Score: 4
+
+Quite good. A touch off but not sure which direction.
+
+## Fig, Z, 6.3 @ 211ºF, 12.5g/250g Day 24, Score: 5
+
+By far the most consistently drinkable cup I've had in awhile from this batch. Still a touch small in volume, but juicy, syrupy, focused flavors like boozy berries and a distinct nut butter finish. Great through cooldown. It may benefit from a microadjustment coarser today, but it is compelling.
