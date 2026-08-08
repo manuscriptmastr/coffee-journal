@@ -5397,3 +5397,35 @@ Quite good. A touch off but not sure which direction.
 ## Fig, Z, 6.3 @ 211ºF, 12.5g/250g Day 24, Score: 5
 
 By far the most consistently drinkable cup I've had in awhile from this batch. Still a touch small in volume, but juicy, syrupy, focused flavors like boozy berries and a distinct nut butter finish. Great through cooldown. It may benefit from a microadjustment coarser today, but it is compelling.
+
+## Meriadiano, Z, 6.35 @ 211ºF, 12.5g/250g Day 25, Score: 4
+
+Pretty good, mostly distinct. Slightly more in the cocoa direction?
+
+## Kapsokisio, Z, 7.5 @ 211ºF, 12.5g/250g Day 44, Score: 4
+
+Not bad, but not quite explosive. Good sweetness. **7.55+**
+
+## Variedad, Z, 7.55 @ 211ºF, 12.5g/250g Day 44, Score: 3
+
+Almost flavorless. Big in mouth. Go either notably coarser or slightly finer, e.g. **7.6 or 7.45**
+
+## Red Bourbon, Z, 7.6 @ 211ºF, 12.5g/250g Day 44, Score: 3
+
+Crisp, but flavorless, yet seems to be growing.
+
+## Lychee, Z, 6.4 @ 211ºF, 12.5g/250g Day 26, Score: 4
+
+Open, crisp, stiff. Good through cooldown, a touch aloof vs. developed sweetness.
+
+## Meridiano, Z, 6.5 @ 211ºF, 12.5g/250g Day 27, Score: 3
+
+Good flavors, but definitely underextracted. **6.45**
+
+## Fig, Z, 6.45 @ 211ºF, 12.5g/250g Day 27, Score: 4
+
+Very good! A touch holding back in some ways, but brilliant, sweet, and tart acidity.
+
+## Echemo, Z, 7.6 @ 211ºF, 12.5g/250g Day 45, Score: 4
+
+Not bad. Has some flavors.
