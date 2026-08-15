@@ -5470,4 +5470,54 @@ Absolutely lovely.
 
 Very good!
 
-## Rose Tea, Z, 6.6 @ 211ºF, 12.5g/250g Day 30, Score:
+## Rose Tea, Z, 6.6 @ 211ºF, 12.5g/250g Day 30, Score: 5
+
+Very good!
+
+## Fig, Z, 6.65 @ 211ºF, 12.5g/250g Day 31, Score: 4
+
+Maybe a touch watery, but otherwise very good. **6.625?**
+
+## Meridiano, Z, 6.625 @ 211ºF, 12.5g/250g Day 31, Score: 5
+
+Very good, well developed.
+
+## Kapsokisio, Z, 7.7 @ 211ºF, 12.5g/250g Day 49, Score: 4
+
+Very close, not quite. Acidity is pretty good but could be more genuine and explosive.
+
+## Variedad, Z, 7.75 @ 211ºF, 12.5g/250g Day 49, Score: 2
+
+Nearly flavorless. Not good at all through cooldown, just no substance. **7.7 and lower**
+
+## Red Bourbon, Z, 7.7 @ 211ºF, 12.5g/250g Day 50, Score: 3
+
+Good texture and sweetness, not much flavor.
+
+## Lychee, Z, 6.65 @ 211ºF, 12.5g/250g Day 32, Score: 4
+
+Very good, just barely lacking explosion to flavors though well developed. **6.7?**
+
+## Rose Tea, Z, 6.675 @ 211ºF, 12.5g/250g Day 32, Score: 4
+
+Overall very good considering this coffee has been a problem child. Slightly scratchy at the end, but has good balance and crispness.
+
+## Fig, Z, 6.725 @ 211ºF, 12.5g/250g Day 33, Score: 5
+
+Wow amazing!
+
+## Echemo, Z, 7.75 @ 211ºF, 12.5g/250g Day 52, Score: 4
+
+Not bad. Try **7.8** just to see if this improves.
+
+## Kapsokisio, Z, 7.8 @ 211ºF, 12.5g/250g Day 52, Score: 5
+
+Very good introduction! Good acidity and sweetness and interest.
+
+## Meridiano, Z, 6.775 @ 211ºF, 12.5g/250g Day 34, Score: 4
+
+A surprisingly clear gesha-like floral + tea + sugary quality. Not entirely sure whether it can be improved, but quite good!
+
+## Lychee, Z, 6.8 @ 211ºF, 12.5g/250g Day 34, Score: 5
+
+Smells like lychee-infused soap, tastes so so complex! Cooldown is absolutely stunning, soapy, perfumy, etc. One of the best cups I've had in awhile!
