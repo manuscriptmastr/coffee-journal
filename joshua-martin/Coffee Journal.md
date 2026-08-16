@@ -5521,3 +5521,19 @@ A surprisingly clear gesha-like floral + tea + sugary quality. Not entirely sure
 ## Lychee, Z, 6.8 @ 211ºF, 12.5g/250g Day 34, Score: 5
 
 Smells like lychee-infused soap, tastes so so complex! Cooldown is absolutely stunning, soapy, perfumy, etc. One of the best cups I've had in awhile!
+
+## Rose Tea, Z, 6.85 @ 211ºF, 12.5g/250g Day 35, Score: 5
+
+Very good!
+
+## Fig, Z, 6.85 @ 211ºF, 12.5g/250g Day 35, Score: 5
+
+Absolutely gorgeous from beginning to end!
+
+## Meridiano, Z, 6.85 @ 211ºF, 12.5g/250g Day 35, Score: 5
+
+Absolutely wonderful.
+
+## Lychee, Z, 6.85 @ 211ºF, 12.5g/250g Day 35, Score: 4
+
+Really good, but not _quite_ as explosive in the cooldown.
