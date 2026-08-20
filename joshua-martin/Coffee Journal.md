@@ -5537,3 +5537,47 @@ Absolutely wonderful.
 ## Lychee, Z, 6.85 @ 211ºF, 12.5g/250g Day 35, Score: 4
 
 Really good, but not _quite_ as explosive in the cooldown.
+
+## Variedad, Z, 7.9 @ 211ºF, 12.5g/250g Day 54, Score: 3
+
+Watery and flat and robust.
+
+## Red Bourbon, Z, 7.95 @ 211ºF, 12.5g/250g Day 54, Score: 3
+
+Grainy, vague, slightly bigger flavor volume, no real flavors.
+
+## Echemo, Z, 7.85 @ 211ºF, 12.5g/250g Day 54, Score: 4
+
+Pretty tea forward. Not bad — there is some juiciness and clarity, but slightly more black tea flavors than anything else. Not bad overall, and certainly better than 7.95.
+
+## Rose Tea, Z, 6.95 @ 211ºF, 12.5g/250g Day 37, Score: 4
+
+Messed up most markers/timing, but ended on time. Slightly watery though big, and some slight offtastes.
+
+## Fig, Z, 6.9 @ 211ºF, 12.5g/250g Day 37, Score: 4
+
+Not bad, but not quite as explosive.
+
+## Meridiano, Z, 7 @ 211ºF, 12.5g/250g Day 38, Score: 4
+
+Great sweetness and generally great flavors. A touch small in flavor volume and a somewhat stale profile.
+
+## Rose Tea, Z, 7.05 @ 211ºF, 12.5g/250g Day 38, Score: 4
+
+Much more crisp and bright than 7.
+
+## Lychee, Z, 7.1 @ 211ºF, 12.5g/250g Day 39, Score: 4
+
+Good flavors, a touch watery.
+
+## Fig, Z, 7.05 @ 211ºF, 12.5g/250g Day 39, Score: 5
+
+Great boozy flavors. I didn't think too much about the cup, but I think it had all the aspects I was looking for?
+
+## Meridiano, Z, 7.05 @ 211ºF, 12.5g/250g Day 39, Score: 5
+
+Tea tones and florality. Great sweetness but also that dark (stale?) herbality. Hard to argue with the crisp bright sweetness growing in this cup. Yes, it's obviously a mejorado, but flavors are articulate.
+
+## Rose Tea, Z, 7.05 @ 211ºF, 12.5g/250g Day 39, Score: 4
+
+Good, a touch stale.
