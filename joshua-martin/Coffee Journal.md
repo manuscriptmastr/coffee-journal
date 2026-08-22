@@ -5581,3 +5581,23 @@ Tea tones and florality. Great sweetness but also that dark (stale?) herbality. 
 ## Rose Tea, Z, 7.05 @ 211ºF, 12.5g/250g Day 39, Score: 4
 
 Good, a touch stale.
+
+## Lychee, Z, 7.1 @ 211ºF, 12.5g/250g Day 40, Score: 5
+
+Initially small in flavor volume, but cooldown is amazingly focused and sweet and flavorful.
+
+## Fig, Z, 7.1 @ 211ºF, 12.5g/250g Day 40, Score: 5
+
+Wow same thing, not perfect initially, but amazing cooldown.
+
+## Meridiano, Z, 7.1 @ 211ºF, 12.5g/250g Day 40, Score: 4
+
+Definitely some staleness upfront. Good flavors, but maybe **7.15** would have been better?
+
+## Lychee, Z, 7.2 @ 211ºF, 12.5g/250g Day 41, Score: 4
+
+A touch far off and wide but big aroma. **7.175 or 7.15**
+
+## Rose Tea, Z, 7.175 @ 211ºF, 12.5g/250g Day 41, Score: 5
+
+Quite good! Complexity, almost some gesha delicacy at times.
