@@ -5601,3 +5601,27 @@ A touch far off and wide but big aroma. **7.175 or 7.15**
 ## Rose Tea, Z, 7.175 @ 211ºF, 12.5g/250g Day 41, Score: 5
 
 Quite good! Complexity, almost some gesha delicacy at times.
+
+## Fig, Z, 7.225 @ 211ºF, 12.5g/250g Day 42, Score: 5
+
+Lovely! Wonderfully focused, sweet, ripe, mature.
+
+## Meridiano, Z, 7.225 @ 211ºF, 12.5g/250g Day 42, Score: 5
+
+Wonderful gesha-like crisp quality.
+
+## Lychee, Z, 7.225 @ 211ºF, 12.5g/250g Day 42, Score: 5
+
+Initially good, but becomes even better in cooldown.
+
+## Rose Tea, Z, 7.275 @ 211ºF, 12.5g/250g Day 43, Score: 4
+
+Slightly small flavor volume, but focused in cooldown. Not the absolute most complex or crisp.
+
+## Fig, Z, 7.3 @ 211ºF, 12.5g/250g Day 43, Score: 4
+
+Not quite on the dial this morning. Perfumy but not the most developed flavors. **7.275** after all?
+
+## Meridiano, Z, 7.275 @ 211ºF, 12.5g/250g Day 43, Score: 4
+
+Generally good flavors, focused, sweetness, a little robust.
