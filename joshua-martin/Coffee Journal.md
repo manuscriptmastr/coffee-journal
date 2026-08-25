@@ -5625,3 +5625,17 @@ Not quite on the dial this morning. Perfumy but not the most developed flavors. 
 ## Meridiano, Z, 7.275 @ 211ºF, 12.5g/250g Day 43, Score: 4
 
 Generally good flavors, focused, sweetness, a little robust.
+
+## Lychee, Z, 7.325 @ 211ºF, 12.5g/250g Day 44, Score: 4
+
+Not bad, but overall a little small in flavor volume and definitely not the most explosive it could be.
+
+## Rose Tea, Z, 7.35 @ 211ºF, 12.5g/250g Day 44, Score: 3
+
+## Fig, Z, 7.4 @ 211ºF, 12.5g/250g Day 44, Score: 4
+
+Wide, perfumy, a touch far off, strong perfumy finish. Becomes bigger as cools, lovely genuineness. Genuinely good, and I think **7.375** could be right on the nail.
+
+## Meridiano/Lychee/Rose Tea/Fig, Z, 7.375 @ 211ºF, 12.5g/250g Day 44, Score: 5
+
+Absolutely lovely first sip. Stunning from beginning to end!
