@@ -5639,3 +5639,75 @@ Wide, perfumy, a touch far off, strong perfumy finish. Becomes bigger as cools, 
 ## Meridiano/Lychee/Rose Tea/Fig, Z, 7.375 @ 211ºF, 12.5g/250g Day 44, Score: 5
 
 Absolutely lovely first sip. Stunning from beginning to end!
+
+## Kapsokisio, Z, 8.5 @ 211ºF, 12.5g/250g Day 63, Score: 4
+
+Surprisingly tart and exciting and full — no staleness! **8.45**
+
+## Variedad, Z, 8.45 @ 211ºF, 12.5g/250g Day 63, Score: 4
+
+All things considered, quite good! Not sure if this is the best we're capable of.
+
+## Red Bourbon, Z, 8.45 @ 211ºF, 12.5g/250g Day 63, Score: 4
+
+A little Kenyan-like initially. Distinct tea tones, almost black tea. Wow, really opens up in second half. Surprisingly good cooldown, however just barely stale in a way. **8.475?**
+
+## Echemo, Z, 8.525 @ 211ºF, 12.5g/250g Day 64, Score: 4
+
+Pretty good!
+
+## Kapsokisio, Z, 8.55 @ 211ºF, 12.5g/250g Day 64, Score: 4
+
+Okay.
+
+## Variedad, Z, 8.6 @ 211ºF, 12.5g/250g Day 65, Score: 4
+
+Surprisingly good and full throughout cup.
+
+## Red Bourbon, Z, 8.65 @ 211ºF, 12.5g/250g Day 66, Score: 3
+
+Not bad. Even a pretty full cooldown. Just not very acidic.
+
+## Echemo, Z, 8.6 @ 211ºF, 12.5g/250g Day 66, Score: 4
+
+Notably better! More defined acidity and generally enjoyable.
+
+## Kapsokisio, Z, 8.65 @ 211ºF, 12.5g/250g Day 67, Score: 4
+
+## Variedad, Z, 8.65 @ 211ºF, 12.5g/250g Day 67, Score: 4
+
+A little robust but sweet and enjoyable overall.
+
+<!-- Washed Kenyan SL34 by Ivica Cvetanovski and Macho roasted on August 24, 2026 by Coffea Circulor -->
+
+## SL34, Z, 6 @ 211ºF, 12.5g/250g Day 9, Score: 3
+
+Not a bad first cup! Definitely a touch on the vague and watery side, but within the ballpark. **5.95**
+
+<!-- Washed Colombian pink bourbon by Reinaldo Chilito, roasted on August 24, 2026 by Coffea Circulor -->
+
+## Chilito, Z, 5.9 @ 211ºF, 12.5g/250g Day 9, Score: 4
+
+Showing a bit more personality. A little herbal, a bit more focus, a somewhat green apple acidity, holds crisp qualities through finish. Still not fully delivering in the profile, perhaps **5.85**?
+
+<!-- Washed Peruvian SL9 by Hugo Pareja, roasted on August 24, 2026 by Coffea Circulor -->
+
+## Pareja, Z, 5.85 @ 211ºF, 12.5g/250g Day 9, Score: 4
+
+Similar to a gesha profile in a way. Citric, slightly floral + sweet. Close but not 100% there.
+
+<!-- Washed Kenyan Ruiru 11 by Ivica Cvetanovski and Macho roasted on August 24, 2026 by Coffea Circulor -->
+
+## Ruiru, Z, 5.9 @ 211ºF, 12.5g/250g Day 10, Score: 4
+
+Strong Kenyan herbality and slight 'roasty' quality, not quite focused on flavors, good cooldown.
+
+<!-- Natural Ethiopian JARC '74 from Gedeo, Gedeb, roasted on August 24, 2026 by Coffea Circulor -->
+
+## Konijo, Z, 5.85 @ 211ºF, 12.5g/250g Day 10, Score: 4
+
+Distinct natural quality (dare I say gravy) but held in check. Luxurious mouthfeel, hints of characteristic natural Ethiopian flavors like berry jam, but not explicit.
+
+## Pareja, Z, 5.95 @ 211ºF, 12.5g/250g Day 10, Score: 4
+
+Open, slightly fresh-herbal. As cools, it's clear, clean, suggestive of gesha qualities with slight florality, but not enough flavor definition or sweetness. Perfectly comfortable in mouth. A fantastically open and light texture as cools. This is so close, but the flavors are just barely not 'popping' yet. **5.975?**
