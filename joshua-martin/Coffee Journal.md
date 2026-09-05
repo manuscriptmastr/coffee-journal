@@ -5710,4 +5710,28 @@ Distinct natural quality (dare I say gravy) but held in check. Luxurious mouthfe
 
 ## Pareja, Z, 5.95 @ 211ºF, 12.5g/250g Day 10, Score: 4
 
-Open, slightly fresh-herbal. As cools, it's clear, clean, suggestive of gesha qualities with slight florality, but not enough flavor definition or sweetness. Perfectly comfortable in mouth. A fantastically open and light texture as cools. This is so close, but the flavors are just barely not 'popping' yet. **5.975?**
+Open, slightly fresh-herbal. As cools, it's clear, clean, suggestive of gesha qualities with slight florality, but not enough flavor definition or sweetness. Perfectly comfortable in mouth. A fantastically open and light texture as cools. This is so close, but the flavors are just barely not 'popping' yet. **5.925?**
+
+## Chilito, Z, 5.925 @ 211ºF, 12.5g/250g Day 10, Score: 5
+
+Wow, a somewhat candied/glassy first sip. Intense pomegranate redness I recall from some other lovely pink bourbons. Continues to be lovely in cooldown.
+
+## SL34, Z, 5.95 @ 211ºF, 12.5g/250g Day 11, Score: 3
+
+Some sweetness, kinda stiff and herbal in mouth.
+
+## Konijo, Z, 6 @ 211ºF, 12.5g/250g Day 12, Score: 4
+
+Initially a bit far off/watery, but a few sips later becomes highly dynamic, perfumy, flavorful, etc, though still a slightly small flavor volume overall and barely rough. This is almost a 5, though.
+
+## Pareja, Z, 6.025 @ 211ºF, 12.5g/250g Day 12, Score: 4
+
+So close. A glassy and soft cup, but flavors aren't 100% defined. The listed tasting notes are more delicate, so this could always be the sweet spot.
+
+## Ruiru, Z, 6.025 @ 211ºF, 12.5g/250g Day 12, Score: 4
+
+A lovely softness and openness like Pareja, and some candied aspects to acidity. Either **6 or 6.05**?
+
+## Chilito, Z, 6 @ 211ºF, 12.5g/250g Day 12, Score: 4
+
+Good focus, but not freely releasing open flavors, and little stiff. **6.025 or 6.05**
