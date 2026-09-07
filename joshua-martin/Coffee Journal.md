@@ -5735,3 +5735,35 @@ A lovely softness and openness like Pareja, and some candied aspects to acidity.
 ## Chilito, Z, 6 @ 211ºF, 12.5g/250g Day 12, Score: 4
 
 Good focus, but not freely releasing open flavors, and little stiff. **6.025 or 6.05**
+
+## SL34, Z, 6.075 @ 211ºF, 12.5g/250g Day 13, Score: 4
+
+Soft, wonderful balance, but not the absolute most explosive flavors yet.
+
+## Ruiru, Z, 6.05 @ 211ºF, 12.5g/250g Day 13, Score: 3
+
+Fantastic texture, almost no flavor. Slightly robust/roasty/bark-like finish toward end of cup. Stiff in mouth including lips.
+
+## Pareja, Z, 6.1 @ 211ºF, 12.5g/250g Day 13, Score: 4
+
+A huge improvement in Peruvian gesha-like flavors like florality, citrus, and sweetness. Still a touch focused rather than open, so **6.125**?
+
+## Konijo, Z, 6.125 @ 211ºF, 12.5g/250g Day 13, Score: 3
+
+A bit aloof with some perfuminess, but not the most present flavors. Perhaps this runs a bit finer than other coffees? **6.1 or 6.075**?
+
+## SL34, Z, 6.2 @ 211ºF, 12.5g/250g Day 14, Score: 3
+
+Big, loose, open texture, but not well defined flavors. **6.175 or 6.15**
+
+## Chilito, Z, 6.175 @ 211ºF, 12.5g/250g Day 14, Score: 3
+
+Mouth slightly clenched throughout, sharp citric quality, rough mouth, barely suggesting acidity. Keep going finer. **6.15**
+
+## Ruiru, Z, 6.15 @ 211ºF, 12.5g/250g Day 14, Score: 4
+
+Initially not enjoyable. Rough in mouth, flavors far off, herbal. As cools, suddenly becomes interesting, grows in volume, and has some delicate flavors. **6.125?**
+
+## Konijo, Z, 6.125 @ 211ºF, 12.5g/250g Day 14, Score: 5
+
+Immediately recognizable as highly balanced, musical, etc. Cooldown is delicate but well executed. A slam dunk!
