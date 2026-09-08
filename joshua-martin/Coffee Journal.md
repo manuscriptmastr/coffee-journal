@@ -5767,3 +5767,19 @@ Initially not enjoyable. Rough in mouth, flavors far off, herbal. As cools, sudd
 ## Konijo, Z, 6.125 @ 211ºF, 12.5g/250g Day 14, Score: 5
 
 Immediately recognizable as highly balanced, musical, etc. Cooldown is delicate but well executed. A slam dunk!
+
+## Pareja, Z, 6.15 @ 211ºF, 12.5g/250g Day 15, Score: 3
+
+Stiff and tight and puckery in mouth, becoming increasingly so in cooldown. Not open, flavors except puckeriness not very clear. Finer, after all?
+
+## SL34, Z, 6.125 @ 211ºF, 12.5g/250g Day 15, Score: 2
+
+This is becoming more focused and congealed and less noisy/staticy, but certainly does not taste good. Mouth continues to be very stiff.
+
+## Chilito, Z, 6.1 @ 211ºF, 12.5g/250g Day 15, Score: 3
+
+Acidity is starting to have depth/reach and even finish, while mouth is incredibly puckery, stiff, scratchy, feeling like all moisture is sucked out. I think this means we've been underextracting for most of the life of these coffees.
+
+## Ruiru, Z, 6.05 @ 211ºF, 12.5g/250g Day 15, Score: 3
+
+No real flavors, but texture is lovely. **6.075? or are we totally overextracted?**
