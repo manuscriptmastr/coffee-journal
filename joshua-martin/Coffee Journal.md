@@ -5783,3 +5783,134 @@ Acidity is starting to have depth/reach and even finish, while mouth is incredib
 ## Ruiru, Z, 6.05 @ 211ºF, 12.5g/250g Day 15, Score: 3
 
 No real flavors, but texture is lovely. **6.075? or are we totally overextracted?**
+
+<!-- Coffees frozen from September 9-26 -->
+
+## Pareja, Z, 6.2 @ 211ºF, 12.5g/250g Day 34, Score: 5
+
+Great intro, gesha-like. Lovely, delicate, clear flavors, sweet.
+
+## Ruiru, Z, 6.25 @ 211ºF, 12.5g/250g Day 35, Score: 4
+
+Not bad. An offtaste here or there.
+
+## Konijo, Z, 6.2 @ 211ºF, 12.5g/250g Day 35, Score: 5
+
+## Chilito, Z, 6.2 @ 211ºF, 12.5g/250g Day 35, Score: 5
+
+## SL34, Z, 6.25 @ 211ºF, 12.5g/250g Day 36, Score: 4
+
+Quite good. Not sure if this is the sweet spot.
+
+## Pareja, Z, 6.25 @ 211ºF, 12.5g/250g Day 36, Score: 4
+
+## Konijo, Z, 6.25 @ 211ºF, 12.5g/250g Day 37, Score: 5
+
+Surprisingly intense and lovely!
+
+## Ruiru, Z, 6.25 @ 211ºF, 12.5g/250g Day 37, Score: 4
+
+Quite good, perhaps a touch stale?
+
+## Chilito, Z, 6.3 @ 211ºF, 12.5g/250g Day 38, Score: 4
+
+A little tight, stiff, and small, but pretty good nonetheless. **6.35?**
+
+## SL34, Z, 6.4 @ 211ºF, 12.5g/250g Day 39, Score: 4
+
+## Konijo, Z, 6.4 @ 211ºF, 12.5g/250g Day 39, Score: 4
+
+A touch small, lacking perfuminess and tasting note strength. Push harder with **6.35**
+
+## Ruiru, Z, 6.4 @ 211ºF, 12.5g/250g Day 40, Score: 5
+
+## Chilito, Z, 6.4 @ 211ºF, 12.5g/250g Day 40, Score: 4
+
+Lots of scratchiness, but also some good flavors. Not quite screaming the tasting notes. **6.45 and higher?**
+
+## SL34, Z, 6.4 @ 211ºF, 12.5g/250g Day 40, Score: 4
+
+## Konijo, Z, 6.45 @ 211ºF, 12.5g/250g Day 41, Score: 5
+
+## Chilito, Z, 6.5 @ 211ºF, 12.5g/250g Day 41, Score: 4
+
+Surprisingly raw and fresh apple acidity at times, especially in cooldown. Definitely in the ballpark. **6.55? 6.45?**
+
+## Ruiru, Z, 6.55 @ 211ºF, 12.5g/250g Day 41, Score: 3
+
+A little watery and vague, but not bad. **6.5?**
+
+## SL34, Z, 6.5 @ 211ºF, 12.5g/250g Day 41, Score: 4
+
+Generally quite good.
+
+## Konijo, Z, 6.5 @ 211ºF, 12.5g/250g Day 42, Score: 5
+
+Very, very good. One of the best cups I've had in awhile.
+
+## Ruiru, Z, 6.5 @ 211ºF, 12.5g/250g Day 42, Score: 4
+
+Not bad. Sharp citrus, not as fruity of an acidity. Continues to have undefined Kenyan herbality.
+
+## Chilito, Z, 6.5 @ 211ºF, 12.5g/250g Day 42, Score: 4
+
+I think it's better than yesterday at this setting? Somewhat attacking in mouth, fresh, green, raw.
+
+## SL34, Z, 6.5 @ 211ºF, 12.5g/250g Day 43, Score: 3
+
+Quite bad today. **6.55 and higher**
+
+## Konijo, Z, 6.55 @ 211ºF, 12.5g/250g Day 43, Score: 4
+
+Tight and small, but with flavors. **6.6**
+
+## Ruiru, Z, 6.6 @ 211ºF, 12.5g/250g Day 43, Score: 4
+
+## Chilito, Z, 6.6 @ 211ºF, 12.5g/250g Day 43, Score: 4
+
+Not bad, a little vague though. **6.55, or should we just go coarser to 6.65 until we find the sourness again?**
+
+## Ruiru, Z, 6.7 @ 211ºF, 12.5g/250g Day 44, Score: 4
+
+Honestly not bad. Bigger in mouth, loose, some flavors. **6.75?** Are we going in the right direction?
+
+## SL34, Z, 6.8 @ 211ºF, 12.5g/250g Day 45, Score: 4
+
+Found the acidity! This finally has direct and slightly sour flavor, if not a touch focused.
+
+## Konijo, Z, 6.8 @ 211ºF, 12.5g/250g Day 45, Score: 4
+
+Tart but absolutely in the right direction. Small, barely lacking the higher frequencies. **6.85?**
+
+## Chilito, Z, 6.85 @ 211ºF, 12.5g/250g Day 45, Score: 4
+
+Open, expansive, acidic, not quite dialed in
+
+## Ruiru, Z, 6.85 @ 211ºF, 12.5g/250g Day 46, Score: 4
+
+Not bad. Initial half a little vague, but last few sips in cooldown nicely acidic.
+
+## Chilito, Z, 6.85 @ 211ºF, 12.5g/250g Day 46, Score: 4
+
+Good but a touch vague, but really good in the cooldown.
+
+## SL34, Z, 7 @ 211ºF, 12.5g/250g Day 46, Score: 3
+
+Not bad, but a little vague.
+
+## Konijo, Z, 6.95 @ 211ºF, 12.5g/250g Day 46, Score: 4
+
+Big in mouth, lovely, improves in cooldown. We can probably go a touch finer? **6.9?**
+
+
+## SL34, Z, 6.95 @ 211ºF, 12.5g/250g Day 47, Score: 4
+
+Initially vague, then becomes more defined and crisp in cooldown. Mouth a bit loud scratchy.
+
+## Konijo, Z, 6.95 @ 211ºF, 12.5g/250g Day 47, Score: 5
+
+Really good!
+
+## Ruiru, Z, 7 @ 211ºF, 12.5g/250g Day 47, Score: 5
+
+Some actual tasting notes? Apple, white tea. Wow. A touch scratchy in mouth. Somewhat sweet. Delicate. This may be the first time I've actually found the tasting notes in this coffee. Barely rough in mouth, but bursting with real flavors. **Keep or 7.5**
