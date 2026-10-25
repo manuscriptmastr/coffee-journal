@@ -5913,4 +5913,127 @@ Really good!
 
 ## Ruiru, Z, 7 @ 211ºF, 12.5g/250g Day 47, Score: 5
 
-Some actual tasting notes? Apple, white tea. Wow. A touch scratchy in mouth. Somewhat sweet. Delicate. This may be the first time I've actually found the tasting notes in this coffee. Barely rough in mouth, but bursting with real flavors. **Keep or 7.5**
+Some actual tasting notes? Apple, white tea. Wow. A touch scratchy in mouth. Somewhat sweet. Delicate. This may be the first time I've actually found the tasting notes in this coffee. Barely rough in mouth, but bursting with real flavors. **Keep or 7.05**
+
+## SL34, Z, 7.05 @ 211ºF, 12.5g/250g Day 48, Score: 5
+
+Really good overall! Still not sure if this is the absolute best, but it is lovely.
+
+## Chilito, Z, 7.1 @ 211ºF, 12.5g/250g Day 48, Score: 5
+
+Quite good!
+
+## Konijo, Z, 7.1 @ 211ºF, 12.5g/250g Day 48, Score: 5
+
+Perfumy, sweet in cooldown.
+
+## Ruiru, Z, 7.2 @ 211ºF, 12.5g/250g Day 50, Score: 4
+
+## Chilito, Z, 7.25 @ 211ºF, 12.5g/250g Day 50, Score:
+
+## SL34, Z, 7.3 @ 211ºF, 12.5g/250g Day 51, Score: 5
+
+## Konijo, Z, 7.3 @ 211ºF, 12.5g/250g Day 51, Score: 5
+
+## Chilito, Z, 7.3 @ 211ºF, 12.5g/250g Day 51, Score: 5
+
+Lovely!
+
+## Ruiru, Z, 7.35 @ 211ºF, 12.5g/250g Day 52, Score: 3
+
+Go to **7.4**.
+
+## Chilito, Z, 7.45 @ 211ºF, 12.5g/250g Day 53, Score: 3
+
+Okay but not amazing.
+
+## SL34, Z, 7.5 @ 211ºF, 12.5g/250g Day 53, Score: 4
+
+Somewhat distinct tasting notes of the classic citrus florality of a gesha. Lime? White flowers? White tea? In the ballpark.
+
+## Konijo, Z, 7.55 @ 211ºF, 12.5g/250g Day 54, Score: 4
+
+## Ruiru, Z, 7.6 @ 211ºF, 12.5g/250g Day 54, Score: 3
+
+Tea tones but not much else. **7.55 or lower?**
+
+## Chilito, Z, 7.55 @ 211ºF, 12.5g/250g Day 54, Score: 5
+
+Not bad!
+
+## SL34, Z, 7.6 @ 211ºF, 12.5g/250g Day 55, Score: 4
+
+## Konijo, Z, 7.6 @ 211ºF, 12.5g/250g Day 55, Score: 5
+
+Had cold. Quite good!
+
+## Ruiru, Z, 7.6 @ 211ºF, 12.5g/250g Day 55, Score: 4
+
+Surprisingly good, with tea tones and some texture and delicacy. No definite apple acidity.
+
+## Chilito, Z, 7.75 @ 211ºF, 12.5g/250g Day 57, Score: 4
+
+Surprisingly sweet + pure flavors in cooldown! Flavor volume overall is small, but very enjoyable nonetheless.
+
+## SL34, Z, 7.8 @ 211ºF, 12.5g/250g Day 57, Score: 3
+
+Noisy and not particularly flavorful other than the suggestion of white tea.
+
+## Ruiru, Z, 7.75 @ 211ºF, 12.5g/250g Day 57, Score: 5
+
+## Chilito, Z, 7.8 @ 211ºF, 12.5g/250g Day 58, Score: 4
+
+## SL34, Z, 7.825 @ 211ºF, 12.5g/250g Day 58, Score: 4
+
+Not bad! Definite tasting notes, good texture, just barely not settled.
+
+## Konijo, Z, 7.85 @ 211ºF, 12.5g/250g Day 58, Score: 5
+
+Immediately natural Ethiopian boozy quality, but backed up by flavors. Quite delicious through last sip!
+
+## Ruiru/Chilito/SL34/Konijo, Z, 7.85 @ 211ºF, 12.5g/250g Day 58, Score: 5
+
+## Ruiru/Chilito/SL34/Konijo, Z, 7.95 @ 211ºF, 12.5g/250g Day 59, Score: 5
+
+<!-- Washed strawberry co-fermented castillo roasted by Hydrangea on October 18, 2026 -->
+
+## Tropical, Z, 5.7 @ 211ºF, 12.5g/250g Day 4, Score: 4
+
+Boozy, co-ferment-y, not quite as sweet as it could be.
+
+<!-- Anaerobic washed SL28 roasted by Hydrangea on October 18, 2026 -->
+## Azul, Z, 5.6 @ 211ºF, 12.5g/250g Day 4, Score: 4
+
+Good heavy notes. Perfumy. Boozy. Possibly muddy. Could be brighter. **5.65 or higher?** Glassy might be preferable.
+
+## Ruiru/Chilito/SL34/Konijo, Z, 8 @ 211ºF, 12.5g/250g Day 60, Score: 5
+
+Lovely! Perfumy, sweet, flavorful.
+
+<!-- XO natural roasted by Hydrangea on October 18, 2026 -->
+## XO, Z, 5.8 @ 211ºF, 12.5g/250g Day 5, Score: 5
+
+This might be one of the best cups I've had in awhile. Surprisingly 5.8 works extremely well this early, which suggests I've been going too fine in general even for Hydrangea. Sweetness, perfuminess, lingering finish, crisp acidity, etc are all here.
+
+<!-- Washed Chinese catimor roasted by Hydrangea on October 18, 2026 -->
+## Catimor, Z, 5.8 @ 211ºF, 12.5g/250g Day 5, Score: 5
+
+Similar to a mejorado with the contrast of light and delicate acidity with a darker cocoa herbality. Not nearly as dark as mejorado, though. It will be interesting to see where this lands. Not the sweetest coffee.
+
+## Ruiru/Chilito/SL34/Konijo, Z, 8.1 @ 211ºF, 12.5g/250g Day 61, Score: 5
+
+## Tropical, Z, 5.9 @ 211ºF, 12.5g/250g Day 6, Score: 5
+
+Absolutely lovely from beginning to end. Not too boozy, and has plenty of flavor.
+
+## Azul, Z, 5.95 @ 211ºF, 12.5g/250g Day 7, Score: 4
+
+Good, flavorful, a touch flat rather than bright. **6 or 5.9?**
+
+## XO, Z, 6 @ 211ºF, 12.5g/250g Day 7, Score: 5
+
+A touch brighter, somewhat delicate texture but complex and mouthfilling.
+
+## Catimor, Z, 6 @ 211ºF, 12.5g/250g Day 7, Score: 4
+
+Still more herbal than expected, but delicate, complex, and subtle. I wish there was a touch more sweetness. **Keep or 5.95?**
