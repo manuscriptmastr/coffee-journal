@@ -6037,3 +6037,25 @@ A touch brighter, somewhat delicate texture but complex and mouthfilling.
 ## Catimor, Z, 6 @ 211ºF, 12.5g/250g Day 7, Score: 4
 
 Still more herbal than expected, but delicate, complex, and subtle. I wish there was a touch more sweetness. **Keep or 5.95?**
+
+## Tropical, Z, 6 @ 211ºF, 12.5g/250g Day 8, Score: 4
+
+Tasty, somewhat small.
+
+## Azul, Z, 5.95 @ 211ºF, 12.5g/250g Day 8, Score: 4
+
+Small, sweet, some plush in texture, not as complex or bright as it needs to be. **6.05**
+
+## XO, Z, 6.05 @ 211ºF, 12.5g/250g Day 8, Score: 5
+
+## Azul, Z, 6.15 @ 211ºF, 12.5g/250g Day 10, Score: 4
+
+Some good qualities, one off taste.
+
+## Catimor, Z, 6.1 @ 211ºF, 12.5g/250g Day 10, Score: 4
+
+Not bad! A touch stiff in mouth, but some sweetness. **6.2? Or significantly lower?**
+
+## Tropical, Z, 6.2 @ 211ºF, 12.5g/250g Day 10, Score:
+
+Starting to lose personality.
